@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-77951483046",
+ "arm": "S",
+ "doi": "10.1109/fie.2009.5350590",
+ "title": "Multi-dimensional evaluation of E-learning systems in the higher education context: An empirical investigation of a computer literacy course",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "NOREL",
+ "reason": "HELAM questionnaire evaluating an LMS (factor analysis, reliability, perceived-satisfaction validity) among first-year computer-literacy students; time on NetClass is self-reported and no platform-recorded measure is related to success.",
+ "extraction": {
+  "country": "Turkey",
+  "design": "questionnaire survey, exploratory factor analysis",
+  "n": 160,
+  "n_quote": "been applied to 160 undergraduate Level 1 students who",
+  "population": "first-year undergraduates in IS100 computer literacy course, Middle East Technical University",
+  "lms_indicators": "none (self-reported daily time on NetClass)",
+  "outcome_or_construct": "perceived LMS quality dimensions and learner satisfaction",
+  "effect_sizes": [],
+  "notes": "All data self-report. FIE conference paper."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-13"
+}

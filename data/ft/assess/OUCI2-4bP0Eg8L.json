@@ -1,0 +1,23 @@
+{
+ "id": "OUCI2-4bP0Eg8L",
+ "arm": "O2",
+ "doi": "10.58962/ht.272",
+ "title": "Use of the moodle information and educational environment in the distance learning system for forming the physiological literacy of future coaches",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "E4",
+ "reason": "Compares cohort-level grade 'success' and 'quality' percentages across academic years and study forms; Moodle visits reported only in aggregate per resource, never per student or related to outcomes.",
+ "extraction": {
+  "country": "Ukraine",
+  "design": "descriptive cohort comparison across academic years",
+  "n": "nr",
+  "n_quote": "(FOAMD) - analysis of learning outcomes in 124 students (55 + 44 + 25) for three academic years; \"Psychophysiology\" - in 182 students (58 + 39 + 85) for three academic years; \"Human Physiology\" for nine academic years (2018 - 2025 academic year), a total of 497 students.",
+  "population": "physical education and sports students (bachelor and master), 1 university",
+  "lms_indicators": "aggregate Moodle visits per course resource (no per-student measure)",
+  "outcome_or_construct": "cohort grade success (%) and quality (%) rates",
+  "effect_sizes": [],
+  "notes": "Three course cohorts of 124, 182 and 497 students; no statistical test. Survey of students mentioned without data. Text is English (Cyrillic only in references)."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-13"
+}

@@ -1,0 +1,61 @@
+{
+ "id": "2-s2.0-85218629537",
+ "arm": "S",
+ "doi": "10.5281/zenodo.14256929",
+ "title": "Rule-based access to learning materials in a Flipped class in embedded programming",
+ "decision": "include",
+ "criteria_met": [
+  "I1"
+ ],
+ "exclusion_code": null,
+ "reason": "Per-student LMS access counts (in-class slides, pre-class slides, quizzes) correlated (Spearman) with rated assignment documentation and program quality, and with hand-in completion, in two spring cohorts. Meets I1; no p-values, subsample sizes unclear.",
+ "extraction": {
+  "country": "Denmark (DTU Engineering Technology)",
+  "design": "correlational practice paper, two cohorts (with/without rule-based access), Spearman",
+  "n": "nr",
+  "n_quote": null,
+  "population": "2nd-semester Bachelor of Engineering (electro technology) students, embedded programming course, 1 university",
+  "lms_indicators": "LMS clicks on in-class slides, pre-class slides, pre-class quiz participation",
+  "outcome_or_construct": "assignment documentation quality (0–2) and program quality (-1/0/1); assignment hand-in",
+  "effect_sizes": [
+   {
+    "statistic": "Spearman rho",
+    "value": "0.58",
+    "between": "in-class slide access ↔ documentation quality, assignment 2, spring 2023",
+    "quote": "Spring 2023 2 0.58 0.51 0.23 -0.27 -0.26",
+    "location": "Table 2 (columns doc_sl, doc_psl, doc_q, pro_sl, pro_psl)"
+   },
+   {
+    "statistic": "Spearman rho",
+    "value": "-0.47",
+    "between": "in-class slide access ↔ documentation quality, assignment 2, spring 2024",
+    "quote": "Spring 2024 2 -0.47 -0.16 0.12 0.33 0,21",
+    "location": "Table 2"
+   },
+   {
+    "statistic": "Spearman rho",
+    "value": "0.44",
+    "between": "in-class slide access ↔ documentation quality, assignment 3, spring 2023",
+    "quote": "Spring 2023 3 0.44 0,22 0,36 0,19 -0,36",
+    "location": "Table 2"
+   },
+   {
+    "statistic": "Spearman rho",
+    "value": "-0,22",
+    "between": "in-class slide access ↔ documentation quality, assignment 3, spring 2024",
+    "quote": "Spring 2024 3 -0,22 0,073 -0,045 0,015 -0.13",
+    "location": "Table 2"
+   },
+   {
+    "statistic": "correlation",
+    "value": "0.40",
+    "between": "all students' in-class slide access ↔ hand-in of program and journal, assignment 2, spring 2024",
+    "quote": "program and journal (for assignment 2) in correlation to the slides used in class it ... shows correlation by 0.40 and for assignment 3 hand-in correlated to in class slides",
+    "location": "Section 3.3"
+   }
+  ],
+  "notes": "Enrolment 48 (spring 2023) and 68 (spring 2024), but Table 2 uses only students in groups with incomplete assignments; that subsample n is not given. No p-values or CIs. Text's '0.33 ... for assignment 3' does not match Table 2 (0,015). Further: assignment 3 hand-in rho 0.28 (2024), 0.35 (2023), assignment 2 0.060 (2023)."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-12"
+}

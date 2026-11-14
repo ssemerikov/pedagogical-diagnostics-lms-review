@@ -1,0 +1,61 @@
+{
+ "id": "2-s2.0-85173737803",
+ "arm": "S",
+ "doi": "10.3897/jucs.81518",
+ "title": "Learning Behavior Analysis to Identify Learner’s Learning Style based on Machine Learning Techniques",
+ "decision": "include",
+ "criteria_met": [
+  "I2"
+ ],
+ "exclusion_code": null,
+ "reason": "Behavioural indicators from ADLS system logs used to classify FSLSM learning styles against independently administered ILS questionnaire labels (6 ML classifiers, 48 train / 25 test). Meets I2; ground truth and procedure described.",
+ "extraction": {
+  "country": "Algeria (University 8 Mai 1945, Guelma)",
+  "design": "classifier validation against questionnaire (train/test split, 9-run cross-validation)",
+  "n": 73,
+  "n_quote": "in the third year of Information Systems (IS). The total number of students is 73. Data",
+  "population": "first-year master's computer science and third-year information systems students, 1 university",
+  "lms_indicators": "log-derived behavioural patterns/indicators in the ADLS online-course system (Table 1 patterns, sub-section 3.2 indicators)",
+  "outcome_or_construct": "FSLSM learning styles (ILS questionnaire, 44 items)",
+  "effect_sizes": [
+   {
+    "statistic": "accuracy",
+    "value": "0.96",
+    "between": "log indicators (SVM) ↔ ILS active/reflective",
+    "quote": "SVM 0.96 0.96 0.96 0.96",
+    "location": "Table 8 (columns: precision, recall, accuracy, F1)"
+   },
+   {
+    "statistic": "accuracy",
+    "value": "0.88",
+    "between": "log indicators (SVM) ↔ ILS sensing/intuitive (best classifier NB 0.96)",
+    "quote": "SVM 0.88 0.88 0.88 0.88",
+    "location": "Table 9 (columns: precision, recall, accuracy, F1)"
+   },
+   {
+    "statistic": "accuracy",
+    "value": "0.88 (LR); SVM 0.80",
+    "between": "log indicators ↔ ILS visual/verbal",
+    "quote": "LR 0.88 0.88 0.88 0.88",
+    "location": "Table 10"
+   },
+   {
+    "statistic": "accuracy",
+    "value": "0.88 (SVM and CART); NB 0.40",
+    "between": "log indicators ↔ ILS sequential/global",
+    "quote": "classifiers (precision = 0.88, recall = 0.91, accuracy = 0.88, F1-score = 88%).",
+    "location": "Section 5, Table 11"
+   },
+   {
+    "statistic": "mean accuracy",
+    "value": "88%",
+    "between": "log indicators (SVM) ↔ ILS, all four dimensions",
+    "quote": "great ability in predicting learning styles for all dimensions of FSLSM with an accuracy average ... of 88%.",
+    "location": "Abstract"
+   }
+  ],
+  "notes": "Test set is 25 students, so accuracies move in steps of 0.04. Column order verified from table header (Precision, Recall, Accuracy, F1-score). Abstract continues 'of 88%'. No baseline (majority-class) accuracy reported; ILS split e.g. 46 active / 27 reflective."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-12"
+}

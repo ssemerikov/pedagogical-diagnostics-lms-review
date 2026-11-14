@@ -1,0 +1,30 @@
+{
+ "id": "udin2022self",
+ "arm": "O1-included",
+ "doi": "10.23887/jet.v6i1.41884",
+ "title": "Student's Self-Efficacy and Perceptions of Online Learning on the Use Learning Management System",
+ "decision": "include",
+ "criteria_met": [],
+ "exclusion_code": null,
+ "reason": "Re-extraction only (inclusion not re-decided). Full text shows a questionnaire-only SEM study: no LMS log data. The 'indicators' are self-efficacy items. On the full-text rules this record would fail I1-I4 (NOREL); flagged for adjudication.",
+ "extraction": {
+  "country": "Indonesia (IAIN Syekh Nurjati Cirebon)",
+  "design": "cross-sectional survey, CFA + SEM (questionnaire only)",
+  "n": 155,
+  "n_quote": "We sent a questionnaire to 400 students and received 155 students with complete responses.",
+  "population": "Madrasah Ibtidaiyah teacher-education students, semesters 4 and 6, 1 institute",
+  "lms_indicators": "none recorded by the LMS; self-reported self-efficacy items about LMS use (e.g. 'I manage to finish all the online activities, such as discussions, assignments and quizzes', 'I can send the assignments online')",
+  "outcome_or_construct": "self-reported perceptions of online learning (impact, comfort, teacher support); self-efficacy factors F1-F5",
+  "effect_sizes": [],
+  "notes": "Reported paths (self-report ↔ self-report, not indicator-outcome, so not entered as effect sizes): path coefficient 0.519 (self-efficacy to complete online courses (F1, self-report) ↔ perceived impact (self-report); quote: 'F1 --> Impact 0.519 0.000', Table 6, p. 168); path coefficient 0.419 (self-efficacy to complete online courses (F1) ↔ perceived comfort; quote: 'F1 --> Comfort 0.419 0.004', Table 6, p. 168); path coefficient 0.357 (self-efficacy for handling LMS tools (F5) ↔ perceived teacher support; quote: 'F5 --> Support 0.357 0.001', Table 6, p. 168). Table 2 row is wrong on two cells: design is not 'Survey + log analysis' (no log, trace or LMS record is analysed anywhere; data are Google-Forms questionnaires), and the listed LMS-side indicators are questionnaire items, not platform measures. n: abstract says 'collect data from 156 students'; method says 155 complete responses. Five of 11 hypothesised paths non-significant (Table 6). F4 Cronbach alpha 0.478, AVE 0.3 (Table 2)."
+ },
+ "table2_current": {
+  "country": "Indonesia",
+  "design": "Survey + log analysis",
+  "n": "nr",
+  "lms_indicators": "Course and assignment completion, discussion participation, test passing",
+  "effect_size": "nr"
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-12"
+}

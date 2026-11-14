@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-85073395065",
+ "arm": "S-calibration",
+ "doi": "10.5430/ijhe.v8n5p84",
+ "title": "The interactivity of ICT in language teaching in the context of Ukraine university education",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "NOREL",
+ "reason": "No LMS-recorded indicator or activity product is analysed. Quantitative results are a null control-vs-experimental achievement contrast and correlations among self-reported readiness, motivation and perceived learning. Learning styles are named but not measured.",
+ "extraction": {
+  "country": "Ukraine (Uman State Pedagogical University named after Pavlo Tychyna)",
+  "design": "experimental/control (2x2 split-plot ANOVA) + survey correlations + focus group",
+  "n": 56,
+  "n_quote": "namely the control group numbered 27 people, of which 18 were young women aged 20-21 ... Of 29 individuals in the experimental group, 14 were young women aged 20-21 and 15",
+  "population": "3rd-year full-time philology (Ukrainian language and literature) undergraduates, 1 university",
+  "lms_indicators": "none measured (multimedia textbook on interactive equipment; no LMS or exercise-product indicator recorded or analysed)",
+  "outcome_or_construct": "23-item achievement test (KR-20 = 0.74); self-reported learning readiness, academic motivation, perceived learning",
+  "effect_sizes": [],
+  "notes": "n is the sum of group sizes 27 + 29; the text states 'the required sample size obtained was 57 people' and Table 3 gives n = 57. No group difference in achievement (Group*Measurement F = .899, p = .344, eta2 = 0.016). Correlations reported are among self-report scales only: 'a positive noteworthy relationship between LR and AM (r=.41, p> .05)', LR-PL r = .69, AM-PL r = .43 (Table 4). Learning styles are named in the abstract but never measured; no visual/auditory/kinesthetic analysis exists in the text."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-12"
+}

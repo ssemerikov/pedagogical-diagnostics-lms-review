@@ -1,0 +1,25 @@
+{"id": "2-s2.0-85110968329", "verdict": "maybe", "code": "I1", "reason": "RCT of three teaching modalities for medical students' clinical examination; mostly achievement, activity indicators unclear.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85192848964", "verdict": "exclude", "code": "OFF", "reason": "Active noise control algorithm.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-84865086835", "verdict": "maybe", "code": "I1", "reason": "No abstract; networked learning; title unclear.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85163025136", "verdict": "exclude", "code": "NOIND", "reason": "Validation of online learning readiness scale by cross-sectional survey; no activity indicators.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-84988014464", "verdict": "exclude", "code": "OFF", "reason": "Active noise control.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85141948827", "verdict": "maybe", "code": "I2", "reason": "Moodle distance curriculum; psychology students' reflective competencies diagnosed; platform indicators unclear.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85077509138", "verdict": "exclude", "code": "NOIND", "reason": "Qualitative interviews on e-learning perceptions with employed students; no activity indicators.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85182746563", "verdict": "exclude", "code": "OFF", "reason": "Sarcoma patient prognosis.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-84890789372", "verdict": "exclude", "code": "OFF", "reason": "Enzyme screening technique.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-84941241756", "verdict": "exclude", "code": "OFF", "reason": "Marine wastewater study; no abstract.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-0344925041", "verdict": "pass", "code": "I2", "reason": "Computing distance-education students; learning and cognitive style questionnaires related to observed work practices.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-84881499577", "verdict": "exclude", "code": "OFF", "reason": "Spectral clustering method.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85197396765", "verdict": "maybe", "code": "I2", "reason": "Learner performance prediction in e-learning with learning style identification; data source unclear.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85056222219", "verdict": "maybe", "code": "I2", "reason": "Visually impaired students learning mathematics; behavioural, motivational factors; population and indicators unclear.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85203715105", "verdict": "maybe", "code": "I2", "reason": "Future teachers in digital educational environment; self-realisation types correlated with training parameters.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-105003668220", "verdict": "maybe", "code": "I1", "reason": "No abstract; virtual education quality factors; likely survey, population includes faculty and students.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-84907705171", "verdict": "exclude", "code": "OFF", "reason": "Diffusion LMS sensor networks.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85039996001", "verdict": "exclude", "code": "OFF", "reason": "Mollusc cell biology; no abstract.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85134499476", "verdict": "exclude", "code": "NONEMP", "reason": "Describes a virtual immersive test-bed system; no empirical indicator data.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85109126641", "verdict": "exclude", "code": "E3", "reason": "Children and adolescents smartphone addiction.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85153424929", "verdict": "maybe", "code": "I3", "reason": "Physiotherapy students remote asynchronous training with repeated measurements; activity products possible.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85216628965", "verdict": "exclude", "code": "OFF", "reason": "Transmission line vibration.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85212134655", "verdict": "maybe", "code": "I2", "reason": "Motivation, learning approaches, burnout and performance of e-learning students; survey, platform data unclear.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85111011512", "verdict": "exclude", "code": "OFF", "reason": "Black phosphorus materials.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-105038750445", "verdict": "maybe", "code": "I2", "reason": "MOOC actual use linked to self-determination motivation; students; usage measure possibly logged.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}

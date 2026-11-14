@@ -1,0 +1,21 @@
+{
+ "id": "2-s2.0-85139441500",
+ "independent_decision": "exclude",
+ "independent_code": "E4",
+ "assessor_decision": "exclude",
+ "assessor_code": "E4",
+ "agree": true,
+ "code_agree": true,
+ "final_decision": "exclude",
+ "final_code": "E4",
+ "reason": "Institutional records: enrolment modality and laboratory grades are modelled from modality and student characteristics; modality is group membership and no LMS activity measure enters the models.",
+ "extraction_check": {
+  "n": "ok",
+  "n_value": 2226,
+  "n_quote": "This study consisted of a total of 2,226 students (n = 1,402",
+  "effect_sizes": [],
+  "table2_changes": []
+ },
+ "adjudicator": "claude-fable-5-2 (WP05b)",
+ "adjudicated_on": "2026-11-13"
+}

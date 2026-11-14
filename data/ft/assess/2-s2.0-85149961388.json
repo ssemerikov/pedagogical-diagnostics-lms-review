@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-85149961388",
+ "arm": "S",
+ "doi": null,
+ "title": "INCREASING THE EMOTIONAL INVOLVEMENT OF STUDENTS IN THE PROCESS OF DISTANCE LEARNING",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "E4",
+ "reason": "Experience report: group test success rate and aggregate class attendance, plus percentages endorsing questionnaire statements; no per-student platform measure enters any analysis.",
+ "extraction": {
+  "country": "Russia",
+  "design": "descriptive pedagogical experiment / questionnaire percentages",
+  "n": "nr",
+  "n_quote": null,
+  "population": "technical and humanities students, Kazan Federal University (Naberezhnye Chelny Institute)",
+  "lms_indicators": "none per student (aggregate attendance up to 98%)",
+  "outcome_or_construct": "self-reported perceptions of online teaching; group test success rate",
+  "effect_sizes": [],
+  "notes": "English text. Sample size not reported; secondary NOREL (self-report percentages) and E1."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-13"
+}

@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-84953439511",
+ "arm": "S",
+ "doi": "10.1016/j.measurement.2015.12.017",
+ "title": "Remote measurement and instrumentation laboratory for training in real analog electronic experiments",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "NOREL",
+ "reason": "Engineering description of the Deusto-VISIR remote electronics lab: measurement accuracy and system response times under real student use (404 uses, 10,796 requests). Authors state pedagogical performance is out of scope; no usage indicator is related to student outcomes.",
+ "extraction": {
+  "country": "Spain (University of Deusto)",
+  "design": "technical system evaluation",
+  "n": 53,
+  "n_quote": "53 students were enrolled during the 2014–2015 academic",
+  "population": "physics students on two campuses (Bilbao, San Sebastián), 1 university",
+  "lms_indicators": "remote-lab uses and experiment requests (aggregate, for system load)",
+  "outcome_or_construct": "system response time; measurement accuracy",
+  "effect_sizes": [],
+  "notes": "\"the performance of Deusto-VISIR as a pedagogical tool is out of the scope of this paper\"."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-12"
+}

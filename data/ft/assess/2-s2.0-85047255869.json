@@ -1,0 +1,33 @@
+{
+ "id": "2-s2.0-85047255869",
+ "arm": "S",
+ "doi": "10.1145/3178158.3178206",
+ "title": "The effect of flipped learning on academic performance as an innovative method for overcoming ebbinghaus’ forgetting curve",
+ "decision": "include",
+ "criteria_met": [
+  "I1"
+ ],
+ "exclusion_code": null,
+ "reason": "Per-student LMS video view counts (dichotomised: fewer vs more than two views) compared on final exam scores by independent-samples t-test in a flipped mathematics-education class. Meets I1; small sample, dichotomised indicator.",
+ "extraction": {
+  "country": "South Korea (Catholic Kwandong University)",
+  "design": "single-class flipped-learning study; indicator-group t-test; pre/post self-efficacy",
+  "n": 37,
+  "n_quote": "Participants consisted of sophomore students (n=37, 26 male, 11",
+  "population": "sophomore students in Introduction to Mathematics Education, 1 university",
+  "lms_indicators": "LMS view counts of the lecture movie clip (attendance rate of LMS data)",
+  "outcome_or_construct": "final exam score",
+  "effect_sizes": [
+   {
+    "statistic": "t",
+    "value": "-2.304 (p = 0.027); means 54.22 (n = 23, <2 views) vs 72.71 (n = 14, >2 views)",
+    "between": "LMS video view count ('Less than 2 times' vs 'More than 2 times') ↔ final exam score",
+    "quote": "-2.304 ... (0.027*)",
+    "location": "Table 1"
+   }
+  ],
+  "notes": "Table 1 group rows: 'Less than 2 times' N 23, M 54.22, SD 23.36; 'More than 2 times' N 14, M 72.71, SD 24.23 (column order N, Mean, SD from header). Grouping cut-off wording ('less than 2' vs 'more than 2') leaves exactly-2 unclear. Self-efficacy pre/post is a separate group-level analysis."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-12"
+}

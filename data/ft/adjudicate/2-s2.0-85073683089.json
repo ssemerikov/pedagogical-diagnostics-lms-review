@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-85073683089",
+ "independent_decision": "exclude",
+ "independent_code": "NOREL",
+ "assessor_decision": "exclude",
+ "assessor_code": "NOREL",
+ "agree": true,
+ "code_agree": true,
+ "final_decision": "exclude",
+ "final_code": "NOREL",
+ "reason": "Same publication as bykonia2019teaching, an original include. Single group, self-report questionnaire percentages only; no platform-recorded measure.",
+ "extraction_check": {
+  "n": "ok",
+  "n_value": 87,
+  "n_quote": "Therefore, the experimental group involved 87 (49 males and 38 females) students who were doing the course in",
+  "effect_sizes": [],
+  "table2_changes": []
+ },
+ "adjudicator": "claude-fable-5-2 (WP05b)",
+ "adjudicated_on": "2026-11-13",
+ "duplicate_of_original_include": "bykonia2019teaching",
+ "flow_note": "This Scopus record is the same publication as an originally included study (same DOI). It should be removed as a duplicate of an already-included report before full-text assessment, not counted as an update full-text exclusion. The verdict here doubles as the Part C sensitivity verdict for that study."
+}

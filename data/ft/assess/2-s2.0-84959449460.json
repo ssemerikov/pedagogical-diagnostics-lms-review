@@ -1,0 +1,24 @@
+{
+ "id": "2-s2.0-84959449460",
+ "arm": "S",
+ "doi": "10.1371/journal.pone.0148882",
+ "title": "Improving education in medical statistics: Implementing a blended learning model in the existing curriculum",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "E4",
+ "reason": "Compares exam and knowledge-test scores between self-selected blended (Moodle) and on-site groups; regressions use group, GPA and study duration. No per-student platform activity indicator enters any analysis.",
+ "extraction": {
+  "country": "Serbia (University of Belgrade)",
+  "design": "prospective comparative (blended vs on-site), regression",
+  "n": 440,
+  "n_quote": "Four hundred forty of 545 medical students passed the final statistics exam during the 2013–14",
+  "population": "third-year medical undergraduates, 1 university",
+  "lms_indicators": "none (Moodle 2.5 delivered materials; only group membership used)",
+  "outcome_or_construct": "final statistics score, knowledge test score, passing on first attempt",
+  "effect_sizes": [],
+  "notes": "Group effect sizes d = 0.43 / 0.28 are delivery-mode contrasts, not indicator-outcome relations. n given in words (440)."
+ },
+ "quote_check": "forced: n given in words (Four hundred forty) | n not in n_quote and no \"sum\" note: 440",
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-12"
+}

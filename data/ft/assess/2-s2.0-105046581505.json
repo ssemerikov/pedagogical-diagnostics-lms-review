@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-105046581505",
+ "arm": "S",
+ "doi": "10.35552/0247.40.5.2566",
+ "title": "The Effect of Interaction between Active Learning Strategies and Cognitive Style on Reducing EFL Learners' Reading Anxiety",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "NOREL",
+ "reason": "Two-group classroom experiment on reading anxiety by strategy and cognitive style (tolerance of ambiguity), both measured by self-report scales. No LMS-measurable indicator or activity product is related to any outcome or construct.",
+ "extraction": {
+  "country": "Palestine (Arab American University, Jenin)",
+  "design": "experimental (two experimental groups, pre-post, 2x2)",
+  "n": 72,
+  "n_quote": "the researcher adopted a quantitative experimental design involving 72 learners assigned to two experimental groups",
+  "population": "first-year EFL English majors, 1 university",
+  "lms_indicators": "none (face-to-face instruction)",
+  "outcome_or_construct": "reading anxiety (FLRAS); cognitive style tolerance/intolerance of ambiguity (EFLTIAS)",
+  "effect_sizes": [],
+  "notes": "eta2 and d values are pre-post strategy effects on self-reported anxiety, not indicator-outcome relations."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-12"
+}

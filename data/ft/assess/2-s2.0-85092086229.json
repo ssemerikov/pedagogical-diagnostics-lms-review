@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-85092086229",
+ "arm": "S",
+ "doi": "10.1002/ase.2015",
+ "title": "Improvement in Student Performance and Perceptions through a Flipped Anatomy Classroom: Shifting from Passive Traditional to Active Blended Learning",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "E4",
+ "reason": "Compares anatomy exam question scores of a flipped-classroom cohort (46) with a previous traditional cohort (49), plus perception surveys; Blackboard pre-class activity is never measured per student or related to scores (regression explicitly not performed).",
+ "extraction": {
+  "country": "Saudi Arabia",
+  "design": "historical-cohort comparison + perception survey",
+  "n": "nr",
+  "n_quote": "first-year female students of Qassim Medical College, specifically the flipped classroom group (46",
+  "population": "first-year female medical students, Qassim Medical College",
+  "lms_indicators": "none per student (Blackboard used for pre-class uploads)",
+  "outcome_or_construct": "MCQ anatomy scores by Bloom level; perceptions",
+  "effect_sizes": [],
+  "notes": "Cohen's d 0.43/1.41/1.01 are cohort differences. Two cohorts reported separately: 46 (flipped) and 49 (traditional)."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-13"
+}

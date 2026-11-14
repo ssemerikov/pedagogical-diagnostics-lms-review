@@ -1,0 +1,22 @@
+{
+ "id": "2-s2.0-84865086835",
+ "independent_decision": "exclude",
+ "independent_code": "NOREL",
+ "assessor_decision": "exclude",
+ "assessor_code": "NOREL",
+ "agree": true,
+ "code_agree": true,
+ "final_decision": "exclude",
+ "final_code": "NOREL",
+ "reason": "Re-adjudicated on the correct, re-saved text (three-page IADIS paper). It describes a Moodle-supported course and the potential of log mining; activity is never related per student to success or a construct and no statistics are reported.",
+ "extraction_check": {
+  "n": "nr_unverified",
+  "n_value": "nr",
+  "effect_sizes": [],
+  "table2_changes": []
+ },
+ "adjudicator": "claude-fable-5-2 (WP05b)",
+ "adjudicated_on": "2026-11-13",
+ "assess_date_seen": "2026-11-13",
+ "history": "An earlier adjudication (2026-11-12) was made on a wrong file and recorded unusable_fulltext; it is superseded by this record."
+}

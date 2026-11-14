@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-84855612645",
+ "arm": "S",
+ "doi": "10.2967/jnmt.111.093062",
+ "title": "Empirical evidence of the effectiveness of concept mapping as a learning intervention for nuclear medicine technology students in a distance learning radiation protection and biology course",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "E4",
+ "reason": "Historical-cohort comparison of final examination scores between distance students who did concept mapping and a control cohort. Concept maps are not scored or related to outcomes; only a group achievement contrast is reported.",
+ "extraction": {
+  "country": "USA (Georgia Health Sciences University)",
+  "design": "quasi-experimental (cohort treatment vs control)",
+  "n": 25,
+  "n_quote": "in the study was 25. The learning intervention (concept ... mapping) group consisted of 19 students.",
+  "population": "baccalaureate nuclear medicine technology students, online distance section, 1 university",
+  "lms_indicators": "none (concept maps used for remediation, not measured)",
+  "outcome_or_construct": "final examination score",
+  "effect_sizes": [],
+  "notes": "Reported 'effect size' 2.65 is a group difference in mean exam scores (treatment vs control), not an indicator-outcome relation."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-12"
+}

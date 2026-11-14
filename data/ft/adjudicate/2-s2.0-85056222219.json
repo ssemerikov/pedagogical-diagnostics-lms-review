@@ -1,0 +1,21 @@
+{
+ "id": "2-s2.0-85056222219",
+ "independent_decision": "exclude",
+ "independent_code": "E4",
+ "assessor_decision": "exclude",
+ "assessor_code": "NOREL",
+ "agree": true,
+ "code_agree": false,
+ "final_decision": "exclude",
+ "final_code": "NOREL",
+ "reason": "Alternative versus classical teaching method for visually impaired learners. Blind I coded E4 expecting an achievement outcome; the comparison rests on a questionnaire across factor categories, so the assessor's NOREL is the right code.",
+ "extraction_check": {
+  "n": "ok",
+  "n_value": 71,
+  "n_quote": "The research group consisted of 71 blind or visually impaired stu-",
+  "effect_sizes": [],
+  "table2_changes": []
+ },
+ "adjudicator": "claude-fable-5-2 (WP05b)",
+ "adjudicated_on": "2026-11-13"
+}

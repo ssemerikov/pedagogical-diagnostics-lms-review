@@ -1,0 +1,21 @@
+{
+ "id": "2-s2.0-85099574840",
+ "independent_decision": "exclude",
+ "independent_code": "NOREL",
+ "assessor_decision": "exclude",
+ "assessor_code": "NOREL",
+ "agree": true,
+ "code_agree": true,
+ "final_decision": "exclude",
+ "final_code": "NOREL",
+ "reason": "Case report of a jigsaw activity evaluated by perception surveys of nine and twelve students; no platform indicator.",
+ "extraction_check": {
+  "n": "ok",
+  "n_value": 12,
+  "n_quote": "given the larger number of surveyed students (last year 9 students, this year 12 students.",
+  "effect_sizes": [],
+  "table2_changes": []
+ },
+ "adjudicator": "claude-fable-5-2 (WP05b)",
+ "adjudicated_on": "2026-11-13"
+}

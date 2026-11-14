@@ -1,0 +1,21 @@
+{
+ "id": "2-s2.0-85105821545",
+ "independent_decision": "exclude",
+ "independent_code": "E4",
+ "assessor_decision": "exclude",
+ "assessor_code": "NOREL",
+ "agree": true,
+ "code_agree": false,
+ "final_decision": "exclude",
+ "final_code": "E4",
+ "reason": "Synchronous, asynchronous and control groups compared on anaphora tests; Moodle access was monitored but never analysed. A group comparison with achievement outcomes and no activity measure is E4 under the rule clarification, not the assessor's NOREL.",
+ "extraction_check": {
+  "n": "ok",
+  "n_value": 45,
+  "n_quote": "a short course was taught in the first semester of 2020 to 45 under- graduate students with a major in English or Spanish at the Federal University of Rio Grande do",
+  "effect_sizes": [],
+  "table2_changes": []
+ },
+ "adjudicator": "claude-fable-5-2 (WP05b)",
+ "adjudicated_on": "2026-11-13"
+}

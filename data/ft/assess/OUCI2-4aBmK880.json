@@ -1,0 +1,23 @@
+{
+ "id": "OUCI2-4aBmK880",
+ "arm": "O2",
+ "doi": "10.31110/2616-650x-vol14i7-002",
+ "title": "ЗАЛУЧЕНІСТЬ СТУДЕНТІВ-СПОРТСМЕНІВ РІЗНИХ СПЕЦІАЛІЗАЦІЙ В УМОВАХ ГЕЙМІФІКОВАНОГО ДИСТАНЦІЙНОГО НАВЧАННЯ ВИДАМ ЛЕГКОЇ АТЛЕТИКИ В ЗВО",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "NOREL",
+ "reason": "Ukrainian-language gamification experiment (EG vs CG). Moodle/Kahoot/Slack log indices are only compared between groups and described; no analysis relates any per-student log indicator to EGameFlow engagement, workload or learning success.",
+ "extraction": {
+  "country": "Ukraine",
+  "design": "quasi-experimental two-group (EG vs CG), Mann-Whitney/t-test, pre/post",
+  "n": 52,
+  "n_quote": "Експериментальну групу склали 26 студентів-спортсменів",
+  "population": "student athletes training as coaches, physical-education programme, 1 university",
+  "lms_indicators": "Moodle regularity index, completion rate, gamification engagement index; Kahoot participation and attendance stability; Slack message indices",
+  "outcome_or_construct": "EGameFlow engagement (self-report), NASA-TLX workload",
+  "effect_sizes": [],
+  "notes": "EG 26 + CG 26. Analyses are group contrasts and within-group pre/post (effect size r = z/sqrt(n) for those tests); no indicator-outcome correlation. Language: Ukrainian (eligible under E6)."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-12"
+}

@@ -1,0 +1,40 @@
+{
+ "id": "kolgatin2020systematicity",
+ "arm": "O1-included",
+ "doi": "10.1051/shsconf/20207503009",
+ "title": "Systematicity of students’ independent work in the course of operating systems",
+ "decision": "include",
+ "criteria_met": [
+  "I1"
+ ],
+ "exclusion_code": null,
+ "reason": "Re-extraction. Moodle Assignment submission timing (share of 11 reports submitted on time) correlated with final written test result, Pearson r = 0.28, n = 54. Table 2 row confirmed.",
+ "extraction": {
+  "country": "Ukraine (Simon Kuznets Kharkiv National University of Economics)",
+  "design": "correlational (Pearson r)",
+  "n": 54,
+  "n_quote": "In total, ... 54 students took part in experiment. 274 reports were ... analysed.",
+  "population": "second-year computer science and software engineering bachelor students, Operating Systems course, 1 university",
+  "lms_indicators": "systematicity indicator = number of Moodle Assignment reports submitted on time / 11 planned reports; submission timestamps (day before deadline, hour of day)",
+  "outcome_or_construct": "final written test result (ratio to maximal score)",
+  "effect_sizes": [
+   {
+    "statistic": "r",
+    "value": "0.28",
+    "between": "share of reports submitted on time ↔ final test result",
+    "quote": "Pearson correlation between these two ... variables is 0.28. This correlation is statistically ... significant at the significance level 5% for samples size ... of 54",
+    "location": "Section 4 Results and discussion, p. 4"
+   }
+  ],
+  "notes": "Two-column PDF; quote fragments joined with ' ... '. No p-value or CI beyond 'significant at the significance level 5%'. Authors read the indicator as related to self-management but do not measure a personality construct (I2 not met). Republished with identical data in Ukr. J. Educ. Stud. Inf. Technol. 2022, 10(4) (OUCI-004, excluded E2). First author is a co-author of the manuscript under review."
+ },
+ "table2_current": {
+  "country": "Ukraine",
+  "design": "Correlational",
+  "n": "54",
+  "lms_indicators": "Assignment-submission timing (274 submissions)",
+  "effect_size": "$r=0.28$"
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-12"
+}

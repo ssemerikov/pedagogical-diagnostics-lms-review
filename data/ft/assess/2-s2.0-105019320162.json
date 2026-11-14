@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-105019320162",
+ "arm": "S",
+ "doi": null,
+ "title": "Computer-mediated communication and gamification as principal characteristics of sustainable higher education: empirical evidence and theoretical frameworks",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "NOREL",
+ "reason": "Largely theoretical paper with two case studies measured only by feedback forms, questionnaires and surveys (teachers and students). No platform-recorded indicator or activity product is related to success or a construct; all data are self-report.",
+ "extraction": {
+  "country": "Ukraine",
+  "design": "mixed (theoretical overview + case studies with surveys)",
+  "n": "nr",
+  "n_quote": null,
+  "population": "university teachers and students (several small samples: 30 teachers, 23 students, 18 seminar participants, 46 respondents in the motivation table)",
+  "lms_indicators": "none",
+  "outcome_or_construct": "self-reported motivation level, attitudes to video games and e-learning tools",
+  "effect_sizes": [],
+  "notes": "Only percentages from questionnaires (e.g. 39.2% high motivation). Authors note the questionnaire's reliability still needs testing. Secondary: E1 arguably."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-12"
+}

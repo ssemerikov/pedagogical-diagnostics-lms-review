@@ -1,0 +1,22 @@
+{
+ "id": "2-s2.0-85079525433",
+ "independent_decision": "exclude",
+ "independent_code": "E4",
+ "assessor_decision": "exclude",
+ "assessor_code": "E4",
+ "agree": true,
+ "code_agree": true,
+ "final_decision": "exclude",
+ "final_code": "E4",
+ "reason": "Control versus experimental comparison of achievement with correlations among three self-report scales; no platform-recorded measure. The correlation values (.41, .69, .43) are identical to those in savchuk2019interactivity. The assessor first coded NOREL and has since revised to E4; we now agree.",
+ "extraction_check": {
+  "n": "ok",
+  "n_value": 61,
+  "n_quote": "Two groups of students were formed to participate in this experiment (with the total number of 61students)",
+  "effect_sizes": [],
+  "table2_changes": []
+ },
+ "adjudicator": "claude-fable-5-2 (WP05b)",
+ "adjudicated_on": "2026-11-13",
+ "recompared": "The assessor revised this file after my first adjudication; re-compared against the current assess file on 2026-11-13."
+}

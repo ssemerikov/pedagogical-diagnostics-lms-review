@@ -1,0 +1,19 @@
+{
+ "id": "2-s2.0-84947649275",
+ "independent_decision": "unusable_fulltext",
+ "independent_code": null,
+ "assessor_decision": "unusable_fulltext",
+ "agree": true,
+ "final_decision": "unusable_fulltext",
+ "final_code": null,
+ "reason": "The saved file is the publisher's two-page preview of the book chapter (title page, abstract, start of the introduction; 979 words). Methods and results are absent, so eligibility cannot be decided.",
+ "extraction_check": {
+  "n": "nr_confirmed",
+  "n_value": "nr",
+  "effect_sizes": [],
+  "table2_changes": []
+ },
+ "note": "Count as 'full text not retrieved' in the PRISMA flow unless the full chapter is obtained.",
+ "adjudicator": "claude-fable-5-2 (WP05b)",
+ "adjudicated_on": "2026-11-13"
+}

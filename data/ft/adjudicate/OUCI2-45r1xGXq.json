@@ -1,0 +1,20 @@
+{
+ "id": "OUCI2-45r1xGXq",
+ "independent_decision": "exclude",
+ "independent_code": "E4",
+ "assessor_decision": "exclude",
+ "assessor_code": "E4",
+ "agree": true,
+ "code_agree": true,
+ "final_decision": "exclude",
+ "final_code": "E4",
+ "reason": "Single-group pre/post comparison of test levels after introducing digital tools; Moodle activity is described only narratively and no statistics are reported.",
+ "extraction_check": {
+  "n": "nr_unverified",
+  "n_value": "nr",
+  "effect_sizes": [],
+  "table2_changes": []
+ },
+ "adjudicator": "claude-fable-5-2 (WP05b)",
+ "adjudicated_on": "2026-11-13"
+}

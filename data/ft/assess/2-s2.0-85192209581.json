@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-85192209581",
+ "arm": "S",
+ "doi": "10.1038/s41598-024-56497-1",
+ "title": "An adaptable and personalized framework for top-N course recommendations in online learning",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "NOREL",
+ "reason": "Deep-reinforcement-learning course recommender evaluated on a public Coursera course-review dataset by hit rate, NDCG, recall and precision. No indicator is related to learning success or a personality-related construct; population is anonymous MOOC reviewers.",
+ "extraction": {
+  "country": "nr",
+  "design": "algorithm development and offline evaluation on secondary data",
+  "n": "nr",
+  "n_quote": null,
+  "population": "Coursera course reviewers (100K review dataset); not identifiable as HE students",
+  "lms_indicators": "course ratings and review text (sentiment) from a MOOC dataset",
+  "outcome_or_construct": "recommendation accuracy (HR, NDCG, recall, precision)",
+  "effect_sizes": [],
+  "notes": "Learning style is named as a model factor but not measured or related to anything. Secondary: E3 doubtful (population unknown)."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-12"
+}

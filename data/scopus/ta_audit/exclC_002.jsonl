@@ -1,0 +1,12 @@
+{"id": "OUCI2-9JQd5Z1m", "audit": "uphold", "new_verdict": "exclude", "code": "NONEMP", "reason": "Review of ten studies on LMS gamification; noted in audit_notes as marginal chasing source.", "auditor": "claude-opus-5-5 (WP02b audit)"}
+{"id": "OUCI2-4NkxWVyx", "audit": "uphold", "new_verdict": "exclude", "code": "NONEMP", "reason": "Theoretical framework built from literature; no data.", "auditor": "claude-opus-5-5 (WP02b audit)"}
+{"id": "OUCI2-7Wj1AeOX", "audit": "uphold", "new_verdict": "exclude", "code": "E6", "reason": "Bulgarian-language study of digital-learning practices; also non-empirical.", "auditor": "claude-opus-5-5 (WP02b audit)"}
+{"id": "OUCI2-4VPV3ndW", "audit": "uphold", "new_verdict": "exclude", "code": "OFF", "reason": "LMS adaptive filtering in industrial pressure testing.", "auditor": "claude-opus-5-5 (WP02b audit)"}
+{"id": "OUCI2-9ZPyZnKz", "audit": "uphold", "new_verdict": "exclude", "code": "NONEMP", "reason": "Systematic review of OER economics; not LMS indicators.", "auditor": "claude-opus-5-5 (WP02b audit)"}
+{"id": "OUCI2-lxLjp1XE", "audit": "uphold", "new_verdict": "exclude", "code": "E3", "reason": "Grades 8-10 secondary pupils; survey and interviews only.", "auditor": "claude-opus-5-5 (WP02b audit)"}
+{"id": "OUCI2-7WjKv6jO", "audit": "uphold", "new_verdict": "exclude", "code": "NONEMP", "reason": "Systematic and bibliometric review of COVID e-learning reforms.", "auditor": "claude-opus-5-5 (WP02b audit)"}
+{"id": "OUCI2-lxLy2LVL", "audit": "uphold", "new_verdict": "exclude", "code": "OFF", "reason": "Conceptual mobile psychological-support architecture; not learning indicators (NONEMP also fits).", "auditor": "claude-opus-5-5 (WP02b audit)"}
+{"id": "OUCI2-4Oqmj2Qz", "audit": "uphold", "new_verdict": "exclude", "code": "E3", "reason": "Teacher technology-skills training programme; participants are teachers.", "auditor": "claude-opus-5-5 (WP02b audit)"}
+{"id": "OUCI2-4NkJjQov", "audit": "uphold", "new_verdict": "exclude", "code": "NONEMP", "reason": "Conference abstract book contents; one listed abstract on LMS in urology residency is untraceable here.", "auditor": "claude-opus-5-5 (WP02b audit)"}
+{"id": "OUCI2-7qEd6ryK", "audit": "uphold", "new_verdict": "exclude", "code": "E3", "reason": "Junior high school pupils; pre/post concept tests.", "auditor": "claude-opus-5-5 (WP02b audit)"}
+{"id": "OUCI2-4kEvonR6", "audit": "uphold", "new_verdict": "exclude", "code": "NONEMP", "reason": "Programme framework report for trade education; no study data.", "auditor": "claude-opus-5-5 (WP02b audit)"}

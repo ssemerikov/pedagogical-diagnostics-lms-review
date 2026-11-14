@@ -1,0 +1,55 @@
+{
+ "id": "2-s2.0-85064678466",
+ "independent_decision": "include",
+ "independent_code": "I1,I2",
+ "assessor_decision": "include",
+ "assessor_code": null,
+ "agree": true,
+ "code_agree": true,
+ "final_decision": "include",
+ "final_code": null,
+ "reason": "Moodle-recorded time in the LMS is correlated with course points (r = 0.75, all 208; r = 0.46, active participants). Meets I1. Blind I also listed I2, but 'external motivation' is a credit incentive for one subgroup, not a measured construct. Borderline E3: only 44 of 208 are university students.",
+ "extraction_check": {
+  "n": "ok",
+  "n_value": 208,
+  "n_quote": "208 students enrolled on this given course, in the following composition: 79% (165) female and 21% (43) male students",
+  "effect_sizes": [
+   {
+    "value": "r = 0.75 (time spent in LMS ↔ course achievement (points), whole sample)",
+    "status": "ok",
+    "quote": "between the amount of time spent in the LMS and student achievements - amount of acquired points (Pearson correlation factor r= 0.75, p= 0.001)."
+   },
+   {
+    "value": "r = 0.46 (time spent in LMS ↔ course achievement, active students only)",
+    "status": "ok",
+    "quote": "the amount of time spent in the LMS and the variable of student achievements show a significant correlation (Pearson correlation factor = 0.46, p=0.001)."
+   },
+   {
+    "value": "r = 0.38 (external motivation ↔ time spent in LMS)",
+    "status": "ok",
+    "quote": "External motivation and the variable of time spent in this framework demonstrated an apparent relationship (Pearson correlation factor=0.38, p=0.001)."
+   },
+   {
+    "value": "r = 0.25 (external motivation ↔ time spent in LMS, students who logged in)",
+    "status": "ok",
+    "quote": "a statistically outstanding correlation emerges between the external motivation and time spent in LMS (Pearson correlation factor = 0.25, p= 0.003)."
+   }
+  ],
+  "table2_changes": []
+ },
+ "adjudicator": "claude-fable-5-2 (WP05b)",
+ "adjudicated_on": "2026-11-13",
+ "criteria_met": [
+  "I1"
+ ],
+ "table2_row": {
+  "country": "Serbia and Hungary (MOOC participants: 135 Serbia, 71 Hungary, 2 Romania)",
+  "design": "correlational case study (Pearson r, t-tests, ANOVA)",
+  "n": 208,
+  "lms_indicators": "time spent in the Moodle LMS (system-recorded)",
+  "outcome_or_construct": "course achievement (points from assignments, forum, final test); 'external motivation' (receiving formal-course credit, self-reported at application)",
+  "effect_size": "r = 0.75 (time in LMS vs course points, n = 208); r = 0.46 (active participants only)"
+ },
+ "table2_row_source": "assessor extraction, cells confirmed by adjudicator",
+ "borderline": "E3: MOOC sample of 99 'students' (the primary target group is secondary-school students), 86 teachers and 23 others; 44 are university students. Mixed, so not a clearly non-HE sample; included with this caveat."
+}

@@ -1,0 +1,25 @@
+{"id": "2-s2.0-84948679085", "verdict": "pass", "code": "I2", "reason": "LMS use, self-efficacy and self-regulated learning as predictors of LMS effectiveness in business education.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-0010665857", "verdict": "maybe", "code": "I2", "reason": "No abstract; constructivist pedagogy in on-campus vs distance practice; exploratory investigation, indicators unclear.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-105023658982", "verdict": "maybe", "code": "I2", "reason": "Learning styles and online learning perception of 501 students; survey, platform data unclear.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-0033117470", "verdict": "exclude", "code": "OFF", "reason": "RLS algorithms signal processing.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-105040240998", "verdict": "exclude", "code": "OFF", "reason": "Cancer cachexia in mice.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85017608602", "verdict": "maybe", "code": "I2", "reason": "Gamification elements assigned by learner motivation type in LMS; field research; data type unclear.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85114228124", "verdict": "exclude", "code": "E3", "reason": "Teachers' survey on online learning.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-105040216848", "verdict": "exclude", "code": "OFF", "reason": "Power converter control.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-84994219912", "verdict": "pass", "code": "I4", "reason": "Annotation activity traces used to model learners' personality in distance learning.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85172161101", "verdict": "exclude", "code": "E2", "reason": "Erratum to a systematic review.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-105030276337", "verdict": "pass", "code": "I1", "reason": "Forum participation in distance university linked to retention and academic performance via logit models.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-84953439511", "verdict": "maybe", "code": "I1", "reason": "No abstract; remote laboratory for training; empirical content unknown.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85149961388", "verdict": "maybe", "code": "I2", "reason": "No abstract; emotional involvement in distance learning; empirical content unknown.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-105046167671", "verdict": "maybe", "code": "I2", "reason": "Neuroscience-based intervention for undergraduates, self-efficacy; indicators unclear from abstract.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-105009000141", "verdict": "pass", "code": "I2", "reason": "Gamified LMS course with self-directed learning and learning outcomes among undergraduates.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-105054628743", "verdict": "pass", "code": "I1", "reason": "LSTM prediction of student performance from LMS interaction and assessment data.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85192850105", "verdict": "exclude", "code": "OFF", "reason": "Lung adenocarcinoma.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85077741032", "verdict": "exclude", "code": "OFF", "reason": "Mussel toxicology.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85183513739", "verdict": "exclude", "code": "OFF", "reason": "Pharmaceutical microspheres; no abstract.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-84907406535", "verdict": "exclude", "code": "OFF", "reason": "Diffusion LMS algorithms.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-84870293643", "verdict": "exclude", "code": "OFF", "reason": "Crab ecotoxicology; no abstract.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-84938679926", "verdict": "exclude", "code": "OFF", "reason": "SpO2 monitoring sensor.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-105013126107", "verdict": "maybe", "code": "I2", "reason": "Validation of player personality scale for educational gamification; sample 635, population and activity data unclear.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-84893817771", "verdict": "exclude", "code": "OFF", "reason": "Oyster biomarkers.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85064719172", "verdict": "maybe", "code": "I2", "reason": "Adaptive e-learning by learning style and dyslexia type; evidence from students unclear.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}

@@ -1,0 +1,22 @@
+{
+ "id": "2-s2.0-0344925041",
+ "independent_decision": "exclude",
+ "independent_code": "NOREL",
+ "assessor_decision": "exclude",
+ "assessor_code": "NOREL",
+ "agree": true,
+ "code_agree": true,
+ "final_decision": "exclude",
+ "final_code": "NOREL",
+ "reason": "Learning-style inventories only; correlations are between self-report scales. No platform-recorded measure enters any analysis.",
+ "extraction_check": {
+  "n": "ok",
+  "n_value": "46",
+  "n_quote": "the pre-study questionnaire. Of these, 4 6 (females N=21, males N=25)",
+  "effect_sizes": [],
+  "table2_changes": [],
+  "n_note": "Assessor value 46 is right; the assessor's quote omitted the number (OCR prints it as '4 6')."
+ },
+ "adjudicator": "claude-fable-5-2 (WP05b)",
+ "adjudicated_on": "2026-11-13"
+}

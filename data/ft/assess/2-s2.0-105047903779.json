@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-105047903779",
+ "arm": "S",
+ "doi": "10.3389/fpubh.2026.1887980",
+ "title": "A quasi-experimental comparison of outcome-based hybrid learning and traditional instruction in environmental health education for preventive medicine undergraduates from Guilin Medical University",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "E4",
+ "reason": "Historical-cohort comparison of exam scores (traditional vs Rain Classroom/SPOC hybrid model) plus a satisfaction questionnaire. No per-student platform indicator enters any analysis; only group achievement contrasts.",
+ "extraction": {
+  "country": "China (Guilin Medical University)",
+  "design": "quasi-experimental (historical control cohorts)",
+  "n": 402,
+  "n_quote": "A total of 402 ... students were included: 107 in the control group (the Class of ... 2017) and 295 in the experimental groups (the Classes of",
+  "population": "fourth-year preventive medicine undergraduates, 4 cohorts, 1 university",
+  "lms_indicators": "none (Rain Classroom/SPOC used for delivery)",
+  "outcome_or_construct": "course and written examination scores; satisfaction (self-report, n = 91)",
+  "effect_sizes": [],
+  "notes": "Group differences reported as Z and p only."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-12"
+}

@@ -1,0 +1,22 @@
+{
+ "id": "2-s2.0-85197312027",
+ "independent_decision": "exclude",
+ "independent_code": "E4",
+ "assessor_decision": "exclude",
+ "assessor_code": "E4",
+ "agree": true,
+ "code_agree": true,
+ "final_decision": "exclude",
+ "final_code": "E4",
+ "reason": "Comparison of examination results and course-evaluation scores between blended and online flipped cohorts; group contrasts only.",
+ "extraction_check": {
+  "n": "ok",
+  "n_value": 87,
+  "n_quote": "Descriptive statistics were used to describe the characteristics of the two groups (OFC (n = 28) vs BL (n = 59))",
+  "effect_sizes": [],
+  "table2_changes": [],
+  "n_note": "87 = 28 + 59, both in the quote"
+ },
+ "adjudicator": "claude-fable-5-2 (WP05b)",
+ "adjudicated_on": "2026-11-13"
+}

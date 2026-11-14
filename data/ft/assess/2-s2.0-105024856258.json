@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-105024856258",
+ "arm": "S",
+ "doi": "10.1371/journal.pone.0338693",
+ "title": "PERMA-guided multi-topology graph neural networks for cross-cultural student well-being prediction",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "NOREL",
+ "reason": "Well-being prediction model (GNN-Transformer) trained on two Kaggle survey datasets. All features are questionnaire self-report; authors state no LMS behavioural logs were used. No LMS indicator or activity product related to success or a construct.",
+ "extraction": {
+  "country": "Western online survey respondents; Japan (international university)",
+  "design": "predictive modelling (deep learning, secondary data)",
+  "n": "nr",
+  "n_quote": null,
+  "population": "Lifestyle and Wellbeing Data (work-life balance survey respondents, n = 12,757) and 268 students at an international university in Japan",
+  "lms_indicators": "none",
+  "outcome_or_construct": "PERMA well-being (self-report)",
+  "effect_sizes": [],
+  "notes": "Authors: 'existing features rely primarily on survey questionnaires and self-reported data, lacking integration of objective indicators such as behavioral logs from learning management systems'. Secondary: E3 for the larger dataset (general-population survey, not students). Two datasets, so a single n is not given."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-12"
+}

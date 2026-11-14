@@ -1,0 +1,21 @@
+{
+ "id": "OUCI2-4EGJBbaA",
+ "independent_decision": "exclude",
+ "independent_code": "NOREL",
+ "assessor_decision": "exclude",
+ "assessor_code": "NOREL",
+ "agree": true,
+ "code_agree": true,
+ "final_decision": "exclude",
+ "final_code": "NOREL",
+ "reason": "One-group pretest-posttest of a self-report learning-independence questionnaire; no platform-recorded indicator and no achievement measure.",
+ "extraction_check": {
+  "n": "ok",
+  "n_value": 72,
+  "n_quote": "involving 72 students enrolled in entrepreneurship courses.",
+  "effect_sizes": [],
+  "table2_changes": []
+ },
+ "adjudicator": "claude-fable-5-2 (WP05b)",
+ "adjudicated_on": "2026-11-13"
+}

@@ -1,0 +1,21 @@
+{
+ "id": "OUCI2-lmbPyXBP",
+ "independent_decision": "exclude",
+ "independent_code": "NOREL",
+ "assessor_decision": "exclude",
+ "assessor_code": "NOREL",
+ "agree": true,
+ "code_agree": true,
+ "final_decision": "exclude",
+ "final_code": "NOREL",
+ "reason": "Second report of the cohort in OUCI2-4NkxOZDV: groups compared on self-report scales, with AI interaction logs described only in aggregate.",
+ "extraction_check": {
+  "n": "ok",
+  "n_value": 420,
+  "n_quote": "The achieved sample of n = 420 (210 per group) yielded an item ratio of 17.5:1, substantially exceeding minimum requirements and providing 99% power for medium effect detection.",
+  "effect_sizes": [],
+  "table2_changes": []
+ },
+ "adjudicator": "claude-fable-5-2 (WP05b)",
+ "adjudicated_on": "2026-11-13"
+}

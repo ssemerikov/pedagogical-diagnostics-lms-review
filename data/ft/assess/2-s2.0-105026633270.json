@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-105026633270",
+ "arm": "S",
+ "doi": "10.22049/jalda.2025.30598.1801",
+ "title": "Developing L2 Speaking Fluency in Online Learning Through Two Motivation-Based Instructional Frameworks",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "E3",
+ "reason": "Participants are EFL learners aged 16-20 in an adult course at a state-owned language institute, not a higher- or vocational-education programme. Secondarily, only pre/post group comparisons of PRAAT fluency measures; no platform indicator.",
+ "extraction": {
+  "country": "Iran",
+  "design": "quasi-experimental, two experimental groups + control (intact classes)",
+  "n": 61,
+  "n_quote": "The participants were 61 upper-intermediate EFL learners with an age range of 16-20 and 5 years of English learning experience.",
+  "population": "upper-intermediate EFL learners at a language institute (online classes)",
+  "lms_indicators": "none",
+  "outcome_or_construct": "speaking fluency (silent pauses, articulation rate via PRAAT)",
+  "effect_sizes": [],
+  "notes": "Secondary E4: group comparison of fluency outcomes only. Country from author affiliations (Shahrekord University, Iran)."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-13"
+}

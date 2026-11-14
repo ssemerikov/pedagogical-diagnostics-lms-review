@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-85056222219",
+ "arm": "S",
+ "doi": "10.1016/j.compbiomed.2018.10.025",
+ "title": "Factors influencing the process of learning mathematics among visually impaired and blind people",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "NOREL",
+ "reason": "Compares an alternative computer-aided maths teaching method with classical teaching using a psychologist-prepared questionnaire across seven factor categories (Wilcoxon, Cohen's d); no platform-recorded measure is related to success or a construct.",
+ "extraction": {
+  "country": "Poland",
+  "design": "within-subject comparison of two teaching methods (questionnaire)",
+  "n": 71,
+  "n_quote": "The research group consisted of 71 blind or visually impaired stu-",
+  "population": "blind/visually impaired students aged 19-24 in secondary school or first year of technical school, Silesia",
+  "lms_indicators": "none",
+  "outcome_or_construct": "questionnaire ratings of behavioural, emotional, cognitive, social, distracting, motivational and modelling factors",
+  "effect_sizes": [],
+  "notes": "Population mixes secondary and technical-school students (E3 not clear-cut, not applied). Effect sizes are method comparisons on self-report categories."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-13"
+}

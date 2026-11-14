@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-85110968329",
+ "arm": "S",
+ "doi": "10.1186/s12909-021-02822-5",
+ "title": "A three-arm single blind randomised control trial of naïve medical students performing a shoulder joint clinical examination",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "E4",
+ "reason": "Three-arm RCT (textbook, face-to-face, online video) comparing blinded shoulder-examination scores; VARK style (self-report) tested against scores. Video-platform analytics were available but never analysed; no per-student platform indicator enters any analysis.",
+ "extraction": {
+  "country": "UK (University of Sheffield Medical School)",
+  "design": "three-arm single-blind randomised controlled trial",
+  "n": 67,
+  "n_quote": "Methods: Sixty-seven pre-clinical medical students naïve to large joint examination were recruited. Participants",
+  "population": "pre-clinical (second-year) medical students, 1 university",
+  "lms_indicators": "none analysed (SproutVideo access analytics described only)",
+  "outcome_or_construct": "standardised clinical-examination score (max 30); VARK learning style",
+  "effect_sizes": [],
+  "notes": "Group effect η2 = .449 is a delivery-mode contrast, not an indicator relation. 'Preferred learning style did not affect scores (p = 0.543)' (VARK self-report). Secondary code: NOREL."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-13"
+}

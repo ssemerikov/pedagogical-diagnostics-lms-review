@@ -1,0 +1,30 @@
+{
+ "id": "ferdiansyah2025assessing",
+ "arm": "O1-included",
+ "doi": "10.1016/j.ssaho.2025.101696",
+ "title": "Assessing learning outcomes and self-directed learning through gamification in LMS",
+ "decision": "include",
+ "criteria_met": [],
+ "exclusion_code": null,
+ "reason": "Re-extraction (inclusion not re-decided). Single-group pre/post test (n = 35) plus descriptive SDL questionnaire and interviews; gamification activity records are never measured or correlated. Would fail I1-I4 (E4); Table 2 n and design are wrong; flagged.",
+ "extraction": {
+  "country": "Indonesia (Universitas Muhammadiyah Sidenreng Rappang)",
+  "design": "pre-experimental, single-group pre/post test + SDL questionnaire (descriptive) + interviews",
+  "n": 35,
+  "n_quote": "This study employed a pre-experimental, single-group pre- and post-test design involving 35 Islamic",
+  "population": "Islamic undergraduate students in an 'Intermediate English' course, 1 university",
+  "lms_indicators": "none measured; gamification elements (points, leaderboards, badges, progress trackers) were part of the intervention only",
+  "outcome_or_construct": "learning-outcome test (pre/post); self-directed learning (Garrison-model questionnaire, self-report, post only, descriptive)",
+  "effect_sizes": [],
+  "notes": "Table 2 row is wrong: n is 35, not 60; design is single-group pre/post, not correlational; no 'gamification activity records' are analysed, so the manuscript's 'activity records correlate with self-directed-learning indicators' is unsupported. Statistics reported are within-group only: 'the Cohen’s d is calculated to be approximately 0.76' (pre-post change) and a pre-test ↔ post-test correlation of 0.624 (Table 2); neither is an indicator-outcome relation, so none is extracted. Internal inconsistency: means 71.62 -> 85.85 but 'mean difference of − 6.027'. Published in SSHO (the target journal)."
+ },
+ "table2_current": {
+  "country": "nr",
+  "design": "Correlational",
+  "n": "60",
+  "lms_indicators": "Gamification activity records",
+  "effect_size": "nr"
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-12"
+}

@@ -1,0 +1,23 @@
+{
+ "id": "OUCI2-lmbPyXBP",
+ "arm": "O2",
+ "doi": "10.47191/ijsshr/v9-i4-67",
+ "title": "Flipped Classroom Integrated with Digital Technology in Teaching Marxist-Leninist Philosophy to International Medical Students: A Mixed-Methods Experimental Study",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "NOREL",
+ "reason": "All six constructs are self-report Likert scales compared EG vs CG and regressed on each other; AI-RAG query logs are analysed only as aggregate weekly proportions, never related per student to an outcome or construct.",
+ "extraction": {
+  "country": "Vietnam",
+  "design": "quasi-experimental (EG/CG) with hierarchical regression and mediation, mixed methods",
+  "n": 420,
+  "n_quote": "The achieved sample of n = 420 (210 per group) yielded an item ratio of 17.5:1, substantially exceeding minimum requirements and providing 99% power for medium effect detection.",
+  "population": "Indian undergraduate medical (MD) students, 1 university (CTUMP)",
+  "lms_indicators": "AI-RAG query counts and Bloom-level coding of queries (aggregate); LMS formative quizzes not analysed",
+  "outcome_or_construct": "self-reported DLA, CLB, SRL, CLA, CTA, TLA",
+  "effect_sizes": [],
+  "notes": "Regression betas (e.g. CLA beta=0.41 on CTA) relate self-report scales only. Same authors, cohort size (420; 210/210) and six constructs as OUCI2-4NkxOZDV (IJERE 2026): possible duplicate reporting of one study; E2 not applied because the reported figures differ."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-13"
+}

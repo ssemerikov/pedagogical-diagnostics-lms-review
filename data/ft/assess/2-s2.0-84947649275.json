@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-84947649275",
+ "arm": "S",
+ "doi": "10.4018/978-1-4666-6639-9.ch002",
+ "title": "A novel e-learning management system for appropriate recommendations on the learning contents",
+ "decision": "unusable_fulltext",
+ "criteria_met": [],
+ "exclusion_code": null,
+ "reason": "File is the IGI Global 2-page preview of the book chapter (abstract and start of introduction; '28 more pages are available in the full version'). Methods and results are absent; the full text is needed to decide.",
+ "extraction": {
+  "country": "India",
+  "design": "nr (rule-based fuzzy e-learning system with experiments on C programming)",
+  "n": "nr",
+  "n_quote": null,
+  "population": "nr",
+  "lms_indicators": "nr (learner behaviour used to infer learning styles, per abstract)",
+  "outcome_or_construct": "learning styles; evaluation of learning C programming",
+  "effect_sizes": [],
+  "notes": "Correct paper (title, DOI 10.4018/978-1-4666-6639-9.ch002 match), but preview only. Could plausibly relate behaviour to learning style, so not excluded on the preview."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-13"
+}

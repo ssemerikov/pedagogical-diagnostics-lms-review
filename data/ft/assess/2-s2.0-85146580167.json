@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-85146580167",
+ "arm": "S",
+ "doi": "10.1007/s10639-023-11585-z",
+ "title": "The impact of applying challenge-based gamification program on students’ learning outcomes: Academic achievement, motivation and flow",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "E4",
+ "reason": "Randomised control vs experimental comparison of a challenge-based gamified web program (Educhall) on achievement, self-reported motivation and flow. Only group contrasts (ANCOVA, MANOVA, t-test); no per-student platform activity measure is analysed.",
+ "extraction": {
+  "country": "North Cyprus (TRNC; author affiliations)",
+  "design": "experimental/control (random assignment)",
+  "n": 60,
+  "n_quote": "The study applied a random experimental research design within distance learning context with 30 university students of control group and 30 students of experimental group",
+  "population": "university students in a distance-learning course",
+  "lms_indicators": "none analysed (Educhall quiz/challenge use not measured per student)",
+  "outcome_or_construct": "academic achievement test; motivation (ARCS: attention, relevance, confidence, satisfaction; self-report); flow (self-report)",
+  "effect_sizes": [],
+  "notes": "n is the sum of 30 + 30. Group effects (achievement partial eta2 = 0.30; motivation partial eta2 = 0.27) are treatment contrasts, not indicator-outcome relations."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-12"
+}

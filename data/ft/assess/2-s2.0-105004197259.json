@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-105004197259",
+ "arm": "S",
+ "doi": "10.1177/0193841x251339686",
+ "title": "Assessing the Impact of a University Transition Online Course on Student Continuation Using Statistical Matching Methods",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "E4",
+ "reason": "Propensity-matched comparison of first-year pass rates by binary enrolment in an optional online transition course. Authors state no engagement or completion data were available; enrolment is treatment membership, not an activity indicator.",
+ "extraction": {
+  "country": "UK (University of Reading)",
+  "design": "quasi-experimental (propensity score matching, doubly robust estimation)",
+  "n": 28372,
+  "n_quote": "Given our large sample size (n = 28,372), our study was well-powered to detect even small",
+  "population": "first-year undergraduates, 7 cohorts, 1 university",
+  "lms_indicators": "none (binary enrolment in the online course only)",
+  "outcome_or_construct": "passing Year 1",
+  "effect_sizes": [],
+  "notes": "ATET 6.2 percentage points is a treatment (enrolment) effect, not an indicator-outcome relation. Authors: 'our analysis is based solely on a binary indicator of enrolment, which does not capture the degree of students’ engagement or course completion.'"
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-12"
+}

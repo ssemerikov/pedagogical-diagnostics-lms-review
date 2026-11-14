@@ -1,0 +1,21 @@
+{
+ "id": "2-s2.0-85069749488",
+ "independent_decision": "exclude",
+ "independent_code": "NOREL",
+ "assessor_decision": "exclude",
+ "assessor_code": "NOREL",
+ "agree": true,
+ "code_agree": true,
+ "final_decision": "exclude",
+ "final_code": "NOREL",
+ "reason": "Online survey of 60 students reported as percentages; self-report only.",
+ "extraction_check": {
+  "n": "ok",
+  "n_value": 60,
+  "n_quote": "ated by means of an online survey of 60 students with regard to the motivational",
+  "effect_sizes": [],
+  "table2_changes": []
+ },
+ "adjudicator": "claude-fable-5-2 (WP05b)",
+ "adjudicated_on": "2026-11-13"
+}

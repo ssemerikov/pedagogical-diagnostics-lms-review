@@ -1,0 +1,20 @@
+{
+ "id": "2-s2.0-85013779436",
+ "independent_decision": "exclude",
+ "independent_code": "E3",
+ "assessor_decision": "exclude",
+ "assessor_code": "E3",
+ "agree": true,
+ "code_agree": true,
+ "final_decision": "exclude",
+ "final_code": "E3",
+ "reason": "Framework for agricultural extension; the learners are farmers and extension officers, not higher- or vocational-education students.",
+ "extraction_check": {
+  "n": "nr_unverified",
+  "n_value": "nr",
+  "effect_sizes": [],
+  "table2_changes": []
+ },
+ "adjudicator": "claude-fable-5-2 (WP05b)",
+ "adjudicated_on": "2026-11-13"
+}

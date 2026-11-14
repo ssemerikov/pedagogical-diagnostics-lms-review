@@ -1,0 +1,23 @@
+{
+ "id": "OUCI2-ldoJWXVk",
+ "arm": "O2",
+ "doi": "10.52269/sept2632140",
+ "title": "DEVELOPMENT OF REFLECTIVE, COMMUNICATIVE AND RESEARCH COMPETENCIES OF FUTURE TEACHERS IN A DIGITAL EDUCATIONAL ENVIRONMENT",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "E6",
+ "reason": "Main text is in Kazakh (Cyrillic), with Russian and English abstracts only. Publication language is neither English nor Ukrainian. (Topic: LMS digital traces and competencies of future teachers.)",
+ "extraction": {
+  "country": "Kazakhstan (Zhetysu University)",
+  "design": "nr",
+  "n": "nr",
+  "n_quote": null,
+  "population": "future teachers",
+  "lms_indicators": "LMS task responses, uploaded files, e-portfolio reflective entries (described in Kazakh)",
+  "outcome_or_construct": "reflective, communicative and research competencies",
+  "effect_sizes": [],
+  "notes": "Body sampled at methods, results and discussion: Kazakh throughout. Tables show n=34 / n=32."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-12"
+}

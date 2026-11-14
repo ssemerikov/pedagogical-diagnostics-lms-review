@@ -1,0 +1,21 @@
+{
+ "id": "2-s2.0-85101097999",
+ "independent_decision": "exclude",
+ "independent_code": "E4",
+ "assessor_decision": "exclude",
+ "assessor_code": "E4",
+ "agree": true,
+ "code_agree": true,
+ "final_decision": "exclude",
+ "final_code": "E4",
+ "reason": "Randomised trials of LMS-delivered modules; effects on grades are by assigned condition, and timing of access is a study-level moderator, not a per-student measure.",
+ "extraction_check": {
+  "n": "ok",
+  "n_value": 3092,
+  "n_quote": "Participants were 3,092 undergraduate introductory biology students tested in 10 studies at three universities over 4 years.",
+  "effect_sizes": [],
+  "table2_changes": []
+ },
+ "adjudicator": "claude-fable-5-2 (WP05b)",
+ "adjudicated_on": "2026-11-13"
+}

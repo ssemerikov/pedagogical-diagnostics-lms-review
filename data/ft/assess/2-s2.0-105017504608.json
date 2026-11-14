@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-105017504608",
+ "arm": "S",
+ "doi": "10.31603/jhns.v12i2.14095",
+ "title": "Blended learning using a crash cart and its effect on knowledge, skills, and clinical decision-making ability among nursing students",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "E4",
+ "reason": "Quasi-experimental two-group comparison (two blended-learning models) of knowledge, OSCE skills and clinical decision-making by t-test. The LMS only administers a test; no activity indicator is related to outcomes.",
+ "extraction": {
+  "country": "India (Maharishi Markandeshwar College of Nursing)",
+  "design": "quasi-experimental, control group pre-post",
+  "n": 85,
+  "n_quote": "A total of 85 nursing students were included in the final analysis, divided into two groups: intervention and control.",
+  "population": "second-year nursing degree students, 1 college",
+  "lms_indicators": "none (LMS used to deliver content and a knowledge questionnaire)",
+  "outcome_or_construct": "knowledge, observed skills (OSCE), clinical decision-making",
+  "effect_sizes": [],
+  "notes": "Only group contrasts with p<0.05; learning styles mentioned in the abstract but not measured."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-12"
+}

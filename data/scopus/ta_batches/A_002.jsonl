@@ -1,0 +1,25 @@
+{"id": "2-s2.0-85188251796", "verdict": "maybe", "code": "I2", "reason": "Online graduate nursing students; engagement and work-life balance survey; unclear whether platform engagement data used.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85147275738", "verdict": "pass", "code": "I2", "reason": "Modeling students' self-regulation through LMS-based personal learning environment; self-regulation linked to LMS use.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85065619479", "verdict": "maybe", "code": "I1", "reason": "E-learning tools for mathematics students on mobility programmes; experimental; indicators unclear.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-105015075735", "verdict": "maybe", "code": "I2", "reason": "Abstract is boilerplate; online learning acceptance among business students; indicators unknown.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85054339488", "verdict": "exclude", "code": "OFF", "reason": "Maglev flywheel control, LMS algorithm.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-0036811623", "verdict": "exclude", "code": "OFF", "reason": "Image restoration algorithm.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-84855612645", "verdict": "maybe", "code": "I4", "reason": "Concept mapping metacognitive strategy in online course; homework products and performance; possible activity products.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-105025062085", "verdict": "exclude", "code": "NONEMP", "reason": "Scoping review of LMS in medical education.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85026046068", "verdict": "exclude", "code": "OFF", "reason": "EMG electrode impedance measurement.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85216965594", "verdict": "maybe", "code": "I2", "reason": "Online literature course, motivation and engagement; t-test and survey; unclear activity indicators.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85208361688", "verdict": "maybe", "code": "I1", "reason": "Flipped materials across online, hybrid, face-to-face modalities; outcomes compared; engagement data unclear from abstract.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-84876264697", "verdict": "exclude", "code": "OFF", "reason": "Ultrasonic testing signal processing.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85172719353", "verdict": "exclude", "code": "OFF", "reason": "RF interference cancellation.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85149279726", "verdict": "exclude", "code": "E3", "reason": "Fourth-grade pupils in UAE.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-84994193820", "verdict": "maybe", "code": "I2", "reason": "No abstract; LMS with learning style detection; may relate LMS behaviour to styles.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85130936583", "verdict": "exclude", "code": "E3", "reason": "Secondary-school students in Saudi Arabia.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85089654001", "verdict": "exclude", "code": "OFF", "reason": "Fuzzy control of nonlinear systems.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-82455192625", "verdict": "maybe", "code": "I1", "reason": "No abstract; Moodle-based accessible environment; empirical content unclear.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85072596928", "verdict": "exclude", "code": "E6", "reason": "Spanish-language physical activity questionnaire validation, not LMS-related.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85173362087", "verdict": "maybe", "code": "I2", "reason": "Online learning readiness of Indian higher education students; method and indicators unclear.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-105015644840", "verdict": "exclude", "code": "NONEMP", "reason": "Systematic literature review.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-105046419641", "verdict": "exclude", "code": "NOIND", "reason": "Digital capital survey of students; no LMS or activity indicators.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-105055173110", "verdict": "exclude", "code": "OFF", "reason": "Microwave reflectometer calibration.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-105046924385", "verdict": "exclude", "code": "OFF", "reason": "Raman spectroscopy denoising.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85111335549", "verdict": "exclude", "code": "NOIND", "reason": "NMR teaching of hybridization; no LMS or activity indicators.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}

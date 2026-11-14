@@ -1,0 +1,21 @@
+{
+ "id": "2-s2.0-105028984739",
+ "independent_decision": "exclude",
+ "independent_code": "NOREL",
+ "assessor_decision": "exclude",
+ "assessor_code": "NOREL",
+ "agree": true,
+ "code_agree": true,
+ "final_decision": "exclude",
+ "final_code": "NOREL",
+ "reason": "Descriptive course evaluation with thematic analysis of reflections; all 56 students passed and no indicator is related to an outcome.",
+ "extraction_check": {
+  "n": "ok",
+  "n_value": 56,
+  "n_quote": "RESULTS: All students (n = 56) successfully completed the course, meeting the ≥ 80% passing thresh-",
+  "effect_sizes": [],
+  "table2_changes": []
+ },
+ "adjudicator": "claude-fable-5-2 (WP05b)",
+ "adjudicated_on": "2026-11-13"
+}

@@ -1,0 +1,21 @@
+{
+ "id": "2-s2.0-105002219504",
+ "independent_decision": "exclude",
+ "independent_code": "E4",
+ "assessor_decision": "exclude",
+ "assessor_code": "E4",
+ "agree": true,
+ "code_agree": true,
+ "final_decision": "exclude",
+ "final_code": "E4",
+ "reason": "Single-group pre/post/follow-up achievement test and attitude scale on Blackboard; no platform-recorded indicator enters an analysis.",
+ "extraction_check": {
+  "n": "ok",
+  "n_value": 23,
+  "n_quote": "After three participants withdrew, 23 female participants remained in the “Methods of Teaching Physical Education and Self-Defense Sports” e-course",
+  "effect_sizes": [],
+  "table2_changes": []
+ },
+ "adjudicator": "claude-fable-5-2 (WP05b)",
+ "adjudicated_on": "2026-11-13"
+}

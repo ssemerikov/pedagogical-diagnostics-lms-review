@@ -1,0 +1,21 @@
+{
+ "id": "2-s2.0-85128103279",
+ "independent_decision": "exclude",
+ "independent_code": "NOREL",
+ "assessor_decision": "exclude",
+ "assessor_code": "NOREL",
+ "agree": true,
+ "code_agree": true,
+ "final_decision": "exclude",
+ "final_code": "NOREL",
+ "reason": "UTAUT2 survey of 23 graduate students analysed by PLS-SEM, followed by interviews; all constructs self-reported.",
+ "extraction_check": {
+  "n": "ok",
+  "n_value": 23,
+  "n_quote": "the study first analyzed survey data from 23 EFL graduate students implementing partial least squares structural equation modeling (PLS-SEM).",
+  "effect_sizes": [],
+  "table2_changes": []
+ },
+ "adjudicator": "claude-fable-5-2 (WP05b)",
+ "adjudicated_on": "2026-11-13"
+}

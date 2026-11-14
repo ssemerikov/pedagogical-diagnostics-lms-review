@@ -1,0 +1,21 @@
+{
+ "id": "2-s2.0-105041005654",
+ "independent_decision": "exclude",
+ "independent_code": "E4",
+ "assessor_decision": "exclude",
+ "assessor_code": "E4",
+ "agree": true,
+ "code_agree": true,
+ "final_decision": "exclude",
+ "final_code": "E4",
+ "reason": "One-group pre/post critical-thinking test; the reported correlation is between pre-test and post-test scores, not between an activity indicator and an outcome.",
+ "extraction_check": {
+  "n": "ok",
+  "n_value": 46,
+  "n_quote": "A pre- ... experimental research with one-group pre-test-post-test design was conducted with 46 students from the Science ... Education program in East Java, across three",
+  "effect_sizes": [],
+  "table2_changes": []
+ },
+ "adjudicator": "claude-fable-5-2 (WP05b)",
+ "adjudicated_on": "2026-11-13"
+}

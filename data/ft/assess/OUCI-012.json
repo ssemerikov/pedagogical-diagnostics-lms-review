@@ -1,0 +1,23 @@
+{
+ "id": "OUCI-012",
+ "arm": "N",
+ "doi": "10.21686/1818-4243-2020-5-4-17",
+ "title": "Organization of Distance Learning in School, College, University",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "E6",
+ "reason": "Full text is in Russian (Open Education journal, 2020), with an English abstract only. Publication language is neither English nor Ukrainian.",
+ "extraction": {
+  "country": "Russia",
+  "design": "nr",
+  "n": "nr",
+  "n_quote": null,
+  "population": "school, college and university distance learning (per title)",
+  "lms_indicators": "nr",
+  "outcome_or_construct": "nr",
+  "effect_sizes": [],
+  "notes": "Body sampled at several points: Russian throughout."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-12"
+}

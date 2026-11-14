@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-105042502652",
+ "independent_decision": "exclude",
+ "independent_code": "NOREL",
+ "assessor_decision": "exclude",
+ "assessor_code": "NOREL",
+ "agree": true,
+ "code_agree": true,
+ "final_decision": "exclude",
+ "final_code": "E4",
+ "reason": "Action research with eleven adult learners; case-answer scores are compared across cycles alongside thematic analysis, and no platform-recorded measure is analysed. Assessor and I both coded NOREL at first; under Rule I (achievement compared, no platform measure) the consistent code is E4.",
+ "extraction_check": {
+  "n": "ok",
+  "n_value": 11,
+  "n_quote": "Eleven adult learners (26 to 44 years old) of ... the BPME3023 Franchise Business Management ... course were selected to participate in the research.",
+  "n_note": "number given in words or split by OCR; value confirmed by adjudicator",
+  "effect_sizes": [],
+  "table2_changes": []
+ },
+ "adjudicator": "claude-fable-5-2 (WP05b)",
+ "adjudicated_on": "2026-11-13",
+ "rule_I_recode": "NOREL to E4 in the consistency sweep of 2026-11-13 (rule_notes section 11)."
+}

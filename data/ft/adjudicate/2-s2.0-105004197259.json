@@ -1,0 +1,21 @@
+{
+ "id": "2-s2.0-105004197259",
+ "independent_decision": "exclude",
+ "independent_code": "E4",
+ "assessor_decision": "exclude",
+ "assessor_code": "E4",
+ "agree": true,
+ "code_agree": true,
+ "final_decision": "exclude",
+ "final_code": "E4",
+ "reason": "Matched comparison of Year 1 pass rates by binary enrolment in an optional online course. Enrolment is group membership; no engagement or completion measure is available.",
+ "extraction_check": {
+  "n": "ok",
+  "n_value": "28372",
+  "n_quote": "Given our large sample size (n = 28,372), our study was well-powered to detect even small",
+  "effect_sizes": [],
+  "table2_changes": []
+ },
+ "adjudicator": "claude-fable-5-2 (WP05b)",
+ "adjudicated_on": "2026-11-13"
+}

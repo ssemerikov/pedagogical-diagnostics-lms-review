@@ -1,0 +1,21 @@
+{
+ "id": "OUCI-011",
+ "independent_decision": "exclude",
+ "independent_code": "NOREL",
+ "assessor_decision": "exclude",
+ "assessor_code": "NOREL",
+ "agree": true,
+ "code_agree": true,
+ "final_decision": "exclude",
+ "final_code": "NOREL",
+ "reason": "TAM3 questionnaire perceptions are regressed on behavioural intention and on course grade; no platform-recorded indicator enters the analysis.",
+ "extraction_check": {
+  "n": "ok",
+  "n_value": 65,
+  "n_quote": "Once all survey responses were collected, incomplete records were removed, resulting in a sample size of 65.",
+  "effect_sizes": [],
+  "table2_changes": []
+ },
+ "adjudicator": "claude-fable-5-2 (WP05b)",
+ "adjudicated_on": "2026-11-13"
+}

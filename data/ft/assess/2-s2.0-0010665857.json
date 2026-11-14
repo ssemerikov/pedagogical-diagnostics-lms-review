@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-0010665857",
+ "arm": "S",
+ "doi": "10.1016/s0959-4752(00)00017-7",
+ "title": "Constructivist pedagogy in conventional on-campus and distance learning practice: An exploratory investigation",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "NOREL",
+ "reason": "Phase 1 is a qualitative expert mailing-list discussion; phase 2 is a 150-item student perception questionnaire on constructivist features of units. No platform-recorded measure and no relation to learning success.",
+ "extraction": {
+  "country": "Australia",
+  "design": "exploratory: qualitative discussion analysis + questionnaire factor analysis",
+  "n": 642,
+  "n_quote": "Participants were 642 undergraduate students from one university in Australia of",
+  "population": "undergraduates across six faculties, 1 Australian university (36 units)",
+  "lms_indicators": "none",
+  "outcome_or_construct": "perceived constructivist teaching components",
+  "effect_sizes": [],
+  "notes": "All quantitative data are self-report perceptions."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-13"
+}

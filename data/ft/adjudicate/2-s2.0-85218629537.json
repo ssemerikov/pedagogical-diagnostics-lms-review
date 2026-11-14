@@ -1,0 +1,60 @@
+{
+ "id": "2-s2.0-85218629537",
+ "independent_decision": "include",
+ "independent_code": "I1",
+ "assessor_decision": "include",
+ "assessor_code": null,
+ "agree": true,
+ "code_agree": true,
+ "final_decision": "include",
+ "final_code": null,
+ "reason": "LMS access counts for in-class slides, pre-class slides and quizzes are correlated (Spearman) with rated assignment documentation and program quality in two cohorts. Meets I1. Correlations change sign between cohorts, carry no p-values and rest on an unreported subsample.",
+ "extraction_check": {
+  "n": "nr_confirmed",
+  "n_value": "nr",
+  "effect_sizes": [
+   {
+    "value": "Spearman rho = 0.58 (in-class slide access ↔ documentation quality, assignment 2, spring 2023)",
+    "status": "ok",
+    "quote": "Spring 2023 2 0.58 0.51 0.23 -0.27 -0.26"
+   },
+   {
+    "value": "Spearman rho = -0.47 (in-class slide access ↔ documentation quality, assignment 2, spring 2024)",
+    "status": "ok",
+    "quote": "Spring 2024 2 -0.47 -0.16 0.12 0.33 0,21"
+   },
+   {
+    "value": "Spearman rho = 0.44 (in-class slide access ↔ documentation quality, assignment 3, spring 2023)",
+    "status": "ok",
+    "quote": "Spring 2023 3 0.44 0,22 0,36 0,19 -0,36"
+   },
+   {
+    "value": "Spearman rho = -0,22 (in-class slide access ↔ documentation quality, assignment 3, spring 2024)",
+    "status": "ok",
+    "quote": "Spring 2024 3 -0,22 0,073 -0,045 0,015 -0.13"
+   },
+   {
+    "value": "correlation = 0.40 (all students' in-class slide access ↔ hand-in of program and journal, assignment 2, spring 2024)",
+    "status": "ok",
+    "quote": "program and journal (for assignment 2) in correlation to the slides used in class it ... shows correlation by 0.40 and for assignment 3 hand-in correlated to in class slides"
+   }
+  ],
+  "table2_changes": [],
+  "n_note": "Analysed n is not reported. Enrolment: 48 students in spring 2023 (21 groups, 43 students) and 68 in spring 2024 (25 groups, 63 students); Table 2 uses only groups with incomplete assignments.",
+  "n_quote": "2023 29 students 48 students 21 with 43 stud."
+ },
+ "adjudicator": "claude-fable-5-2 (WP05b)",
+ "adjudicated_on": "2026-11-13",
+ "criteria_met": [
+  "I1"
+ ],
+ "table2_row": {
+  "country": "Denmark (DTU Engineering Technology)",
+  "design": "correlational practice paper, two cohorts (with/without rule-based access), Spearman",
+  "n": "nr (enrolled: 48 and 68 in two cohorts)",
+  "lms_indicators": "LMS clicks on in-class slides, pre-class slides, pre-class quiz participation",
+  "outcome_or_construct": "assignment documentation quality (0–2) and program quality (-1/0/1); assignment hand-in",
+  "effect_size": "Spearman rho, slide access vs documentation quality: 0.58 and 0.44 (2023), -0.47 and -0.22 (2024); no p-values"
+ },
+ "table2_row_source": "assessor extraction, cells confirmed by adjudicator"
+}

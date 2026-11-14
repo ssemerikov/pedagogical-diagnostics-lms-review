@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-85215829472",
+ "arm": "S",
+ "doi": "10.1016/j.nepr.2025.104261",
+ "title": "Effects of an ARCS-based interactive e-book featuring clinical scenarios on the learning motivation, self-efficacy and practical competence of nursing students in foetal heart rate interpretation",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "E4",
+ "reason": "Randomised controlled trial (e-book vs instructional video) comparing learning motivation, self-efficacy and foetal-heart-rate interpretation scores with GEE. Only group contrasts; no per-student e-book usage indicator or activity product enters any analysis.",
+ "extraction": {
+  "country": "Taiwan (Asia Eastern University of Science and Technology)",
+  "design": "randomised controlled trial, GEE",
+  "n": 80,
+  "n_quote": "study, so 80 participants were included in the data analysis including 41",
+  "population": "nursing students, 1 institution",
+  "lms_indicators": "none (group membership only)",
+  "outcome_or_construct": "learning motivation, self-efficacy (self-report); FHR interpretation competence",
+  "effect_sizes": [],
+  "notes": "Experimental n = 41, control n = 39. Secondary code: NOREL."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-13"
+}

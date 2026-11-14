@@ -1,0 +1,21 @@
+{
+ "id": "2-s2.0-79957445089",
+ "independent_decision": "exclude",
+ "independent_code": "E3",
+ "assessor_decision": "exclude",
+ "assessor_code": "E3",
+ "agree": true,
+ "code_agree": true,
+ "final_decision": "exclude",
+ "final_code": "E3",
+ "reason": "Respondents are 96 high-school teachers answering one questionnaire; not higher- or vocational-education students.",
+ "extraction_check": {
+  "n": "ok",
+  "n_value": 96,
+  "n_quote": "A questionnaire was completed by 96 respondents.",
+  "effect_sizes": [],
+  "table2_changes": []
+ },
+ "adjudicator": "claude-fable-5-2 (WP05b)",
+ "adjudicated_on": "2026-11-13"
+}

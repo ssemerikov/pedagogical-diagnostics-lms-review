@@ -1,0 +1,23 @@
+{
+ "id": "OUCI-054",
+ "arm": "N",
+ "doi": "10.23856/4309",
+ "title": "FORMATION OF TECHNICAL AND TECHNOLOGICAL COMPETENCIES IN ELECTRICAL ENGINEERING AND ELECTRONICS IN TRAINING TEACHERS",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "NONEMP",
+ "reason": "Discursive article on forming technical competencies of future technology teachers with cloud and virtual tools; 'monitoring' is mentioned but no participants, data, statistics or indicator-outcome analysis are reported.",
+ "extraction": {
+  "country": "Ukraine (National Pedagogical Dragomanov University)",
+  "design": "conceptual/methodological",
+  "n": "nr",
+  "n_quote": null,
+  "population": "future technology teachers (described, not sampled)",
+  "lms_indicators": "none",
+  "outcome_or_construct": "none",
+  "effect_sizes": [],
+  "notes": "English text, Scientific Journal of Polonia University, 2020. No numeric results found (no tables, percentages or tests)."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-12"
+}

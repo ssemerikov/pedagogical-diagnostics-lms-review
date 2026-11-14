@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-105048900167",
+ "arm": "S",
+ "doi": "10.1371/journal.pone.0356693",
+ "title": "Integrating anatomy learning: A comparative study of anatomical digital resource and flipped model with sectra",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "E4",
+ "reason": "Quasi-experimental comparison of neuroanatomy pre/post test scores between flipped classroom plus 3D Sectra and Sectra alone, plus a perception survey. Moodle only hosted videos; no platform indicator is related to any outcome.",
+ "extraction": {
+  "country": "Pakistan (Dow University of Health Sciences, Karachi)",
+  "design": "quasi-experimental, two groups pre-post",
+  "n": 233,
+  "n_quote": "Out of 233 students, Group I, the interventional group, had 137 students (58.7%) while group II had 96 student",
+  "population": "second-year undergraduate medical students, 1 university",
+  "lms_indicators": "none (Moodle used to host lecture recordings)",
+  "outcome_or_construct": "neuroanatomy test scores; perceptions of flipped classroom (self-report)",
+  "effect_sizes": [],
+  "notes": "Group contrasts reported as medians and p-values only."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-12"
+}

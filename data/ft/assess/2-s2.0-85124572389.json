@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-85124572389",
+ "arm": "S",
+ "doi": "10.14236/ewic/hci20dc.11",
+ "title": "An Investigation into the Design of Learning Analytic Dashboards (LAD) for the Enhancement of Motivation, Engagement and Achievements in an E-Learning Environment",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "NONEMP",
+ "reason": "HCI 2020 doctoral-consortium paper proposing research on learning-analytics dashboard design; literature-based, future-tense plan ('this study will develop a prototype'). No participants, data or results.",
+ "extraction": {
+  "country": "nr (UK venue; not checked)",
+  "design": "research proposal / doctoral consortium",
+  "n": "nr",
+  "n_quote": null,
+  "population": "higher-education students (planned)",
+  "lms_indicators": "none",
+  "outcome_or_construct": "motivation, engagement, achievement (planned)",
+  "effect_sizes": [],
+  "notes": "About 1,400 words."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-13"
+}

@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-85134509824",
+ "arm": "S",
+ "doi": "10.18178/ijiet.2022.12.10.1726",
+ "title": "Gamification of Virtual Language Learning: A Case Study with Thai Undergraduate Students",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "NOREL",
+ "reason": "Qualitative focus-group study with 27 undergraduates used to design a gamified Moodle course; the course is proposed, not evaluated. No platform-recorded indicator or activity product is related to success or a construct.",
+ "extraction": {
+  "country": "Thailand (government university in southern Thailand)",
+  "design": "qualitative focus group + design proposal",
+  "n": 27,
+  "n_quote": "The data was collected from 27 undergraduate",
+  "population": "undergraduate hospitality management (business major) students learning English, 1 university",
+  "lms_indicators": "none (proposed Moodle Level Up! points and badges, not deployed)",
+  "outcome_or_construct": "self-reported learning factors and motivators",
+  "effect_sizes": [],
+  "notes": "Secondary: NONEMP for the framework part (design proposal without outcome data)."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-12"
+}

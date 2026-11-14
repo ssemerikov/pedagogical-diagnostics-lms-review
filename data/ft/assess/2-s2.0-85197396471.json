@@ -1,0 +1,24 @@
+{
+ "id": "2-s2.0-85197396471",
+ "arm": "S",
+ "doi": "10.1186/s12909-024-05675-w",
+ "title": "Online-to-offline combined with problem-based learning is an effective teaching modality in the standardized residency training of nephrology",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "E4",
+ "reason": "Two-group comparison (online-to-offline plus PBL vs lecture-based teaching) of theory, skills and clinical-thinking exam scores and satisfaction among residency trainees. No platform activity indicator is analysed; only group achievement contrasts.",
+ "extraction": {
+  "country": "China (Second Affiliated Hospital of Zhejiang University School of Medicine)",
+  "design": "two-group comparison (allocated, demographically matched)",
+  "n": 60,
+  "n_quote": "Sixty residency trainees who participated in the standardized training of internal medicine in the nephrology department",
+  "population": "standardized residency trainees in internal medicine (postgraduate medical training), 1 hospital",
+  "lms_indicators": "none",
+  "outcome_or_construct": "theory exam, practical skills, clinical thinking scores; teaching satisfaction",
+  "effect_sizes": [],
+  "notes": "n given in words ('Sixty'; 30 per group). Population is postgraduate residents (vocational/professional training); E3 not applied per rule."
+ },
+ "quote_check": "forced: n given as the word Sixty | n not in n_quote and no \"sum\" note: 60",
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-12"
+}

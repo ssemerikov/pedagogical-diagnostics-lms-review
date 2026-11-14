@@ -1,0 +1,23 @@
+{
+ "id": "OUCI-027",
+ "arm": "N",
+ "doi": "10.17853/1994-5639-2023-7-103-123",
+ "title": "Forced distance learning at a Russian technical university: A comparative analysis of key challenges assessment",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "E6",
+ "reason": "Article body is in Russian (Obrazovanie i Nauka). Secondarily it surveys teaching staff's perceived difficulties of emergency distance teaching in 2020 and 2022, not students.",
+ "extraction": {
+  "country": "Russia",
+  "design": "comparative survey",
+  "n": "nr",
+  "n_quote": null,
+  "population": "teaching staff of a technical university (Tomsk Polytechnic University)",
+  "lms_indicators": "none",
+  "outcome_or_construct": "perceived difficulties of distance teaching",
+  "effect_sizes": [],
+  "notes": "Secondary codes E3 (teachers, not students) and NOREL (self-report only)."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-13"
+}

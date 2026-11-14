@@ -1,0 +1,23 @@
+{
+ "id": "OUCI-037",
+ "arm": "N",
+ "doi": "10.30971/pje.v29i1-2.106",
+ "title": "AN EMPIRICAL ANALYSIS OF FACTORS INSPIRING STUDENTS FOR ADMISSION IN DISTANCE EDUCATION PROGRAM AT BANGLADESH OPEN UNIVERSITY: A CASE STUDY",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "NOREL",
+ "reason": "Questionnaire survey of applicants on factors motivating admission to a distance MBA programme at Bangladesh Open University. Self-reported reasons only; no LMS or activity-product indicator and no learning-action outcome.",
+ "extraction": {
+  "country": "Bangladesh (Bangladesh Open University)",
+  "design": "questionnaire survey",
+  "n": 325,
+  "n_quote": "structured questionnaire. The sample consisting of 325 respondents was drawn",
+  "population": "applicants/aspiring students to a distance-education programme",
+  "lms_indicators": "none",
+  "outcome_or_construct": "self-reported admission motives",
+  "effect_sizes": [],
+  "notes": "Respondents filled the questionnaire before the admission viva; arguably also E3-adjacent (applicants, not yet enrolled students)."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-12"
+}

@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-105003668220",
+ "arm": "S",
+ "doi": "10.69107/koomesh-151697",
+ "title": "Analyzing Dimensions and Related Factors of Virtual Education Quality: Perspectives from Faculty and Students",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "E6",
+ "reason": "Full text is in Persian (Koomesh journal, Semnan University of Medical Sciences), with only an English abstract. Publication language is neither English nor Ukrainian. Topic: faculty and student perceptions of virtual-education quality.",
+ "extraction": {
+  "country": "Iran (Semnan University of Medical Sciences)",
+  "design": "survey (per English abstract)",
+  "n": "nr",
+  "n_quote": null,
+  "population": "faculty and students",
+  "lms_indicators": "none evident",
+  "outcome_or_construct": "perceived virtual-education quality",
+  "effect_sizes": [],
+  "notes": "Secondary code: NOREL (perception survey)."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-12"
+}

@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-85062044313",
+ "arm": "S",
+ "doi": "10.1016/j.cptl.2019.01.013",
+ "title": "Pushing for health equity through structural competency and implicit bias education: A qualitative evaluation of a racial/ethnic health disparities elective course for pharmacy learners",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "NOREL",
+ "reason": "Qualitative thematic analysis of weekly reflections from nine pharmacy students in an elective; LMS discussion threads are mentioned as assessment components but no measure is related to success or a construct.",
+ "extraction": {
+  "country": "USA",
+  "design": "qualitative descriptive (thematic analysis)",
+  "n": 9,
+  "n_quote": "This study used a qualitative descriptive design with a sample of nine second- and third-year pharmacy students.",
+  "population": "second- and third-year pharmacy students, University of Cincinnati",
+  "lms_indicators": "LMS discussion threads (assessment component only)",
+  "outcome_or_construct": "themes from reflections",
+  "effect_sizes": [],
+  "notes": "Reflections are activity products but are analysed only thematically, not linked to success or a construct."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-13"
+}

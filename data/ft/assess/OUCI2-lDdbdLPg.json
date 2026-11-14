@@ -1,0 +1,23 @@
+{
+ "id": "OUCI2-lDdbdLPg",
+ "arm": "O2",
+ "doi": "10.67227/eqrxy179",
+ "title": "TA’LIM KLASTERI SHAROITIDA TA’LIM ANALITIKASI ASOSIDA IXTISOSLASHTIRILGAN MAKTAB O‘QUVCHILARINING KASBIY KOMPETENTLIGINI MONITORING QILISH METODIKASI",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "E6",
+ "reason": "Article body is in Uzbek (Latin script), with a Russian abstract. Secondarily it proposes a monitoring methodology for specialised-school pupils (non-HE) using Moodle analytics.",
+ "extraction": {
+  "country": "Uzbekistan",
+  "design": "methodological proposal",
+  "n": "nr",
+  "n_quote": null,
+  "population": "pupils of specialised schools in an education cluster",
+  "lms_indicators": "proposed: Moodle LMS/Quiz data, PhET, phyphox, e-rubrics, portfolio",
+  "outcome_or_construct": "professional competence components (proposed)",
+  "effect_sizes": [],
+  "notes": "Secondary codes E3 (school pupils) and likely NONEMP (methodology description)."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-13"
+}

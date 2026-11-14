@@ -1,0 +1,21 @@
+{
+ "id": "2-s2.0-0742268518",
+ "independent_decision": "exclude",
+ "independent_code": "NOREL",
+ "assessor_decision": "exclude",
+ "assessor_code": "NOREL",
+ "agree": true,
+ "code_agree": true,
+ "final_decision": "exclude",
+ "final_code": "NOREL",
+ "reason": "Server-logged reading time is fitted as cohort-average learning-speed curves; the only check against a post-test compares two group averages. No per-student indicator-success analysis.",
+ "extraction_check": {
+  "n": "nr_unverified",
+  "n_value": "nr",
+  "effect_sizes": [],
+  "table2_changes": []
+ },
+ "adjudicator": "claude-fable-5-2 (WP05b)",
+ "adjudicated_on": "2026-11-13",
+ "recompared": "The assessor revised this file after my first adjudication; re-compared against the current assess file on 2026-11-13."
+}

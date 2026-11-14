@@ -1,0 +1,21 @@
+{
+ "id": "2-s2.0-85172105829",
+ "independent_decision": "exclude",
+ "independent_code": "E4",
+ "assessor_decision": "exclude",
+ "assessor_code": "E4",
+ "agree": true,
+ "code_agree": true,
+ "final_decision": "exclude",
+ "final_code": "E4",
+ "reason": "Course grades compared between distance and in-person terms plus satisfaction surveys; modality contrasts only.",
+ "extraction_check": {
+  "n": "ok",
+  "n_value": 47,
+  "n_quote": "CET. A total of 47 students (20 from EET and 27 from CET) academic performances were",
+  "effect_sizes": [],
+  "table2_changes": []
+ },
+ "adjudicator": "claude-fable-5-2 (WP05b)",
+ "adjudicated_on": "2026-11-13"
+}

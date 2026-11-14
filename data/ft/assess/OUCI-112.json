@@ -1,0 +1,23 @@
+{
+ "id": "OUCI-112",
+ "arm": "N",
+ "doi": "10.25726/d0910-6952-2799-v",
+ "title": "Coordination of higher education at MSU: a challenge to priority strategies for the quality of education and training in higher education",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "E6",
+ "reason": "Article body is in Russian (Upravlenie obrazovaniem: teoriya i praktika, 2022). It discusses higher-education quality strategy and coordination; no student-level platform data.",
+ "extraction": {
+  "country": "Russia",
+  "design": "conceptual / policy discussion",
+  "n": "nr",
+  "n_quote": null,
+  "population": "nr",
+  "lms_indicators": "none",
+  "outcome_or_construct": "none",
+  "effect_sizes": [],
+  "notes": "Secondary NONEMP likely. Not assessed further after E6."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-13"
+}

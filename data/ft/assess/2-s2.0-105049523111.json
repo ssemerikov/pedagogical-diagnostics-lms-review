@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-105049523111",
+ "arm": "S",
+ "doi": "10.21833/ijaas.2026.07.014",
+ "title": "Designing meaning and momentum: A value-integrated academic services framework for distance education",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "NOREL",
+ "reason": "Design-based mixed-methods study of a service framework in distance graduate education. LMS logs are used only for implementation-fidelity monitoring; ANOVA and SEM relate questionnaire constructs (service quality, engagement, wellbeing). No per-student LMS indicator related to outcomes.",
+ "extraction": {
+  "country": "Indonesia (Universitas Terbuka; ethics approval there; five centres)",
+  "design": "mixed (quasi-experimental + CFA/SEM + qualitative)",
+  "n": 247,
+  "n_quote": "(students = 247; faculty = 32; staff = 15)",
+  "population": "graduate distance-education students, five centres",
+  "lms_indicators": "LMS activity logs for implementation fidelity only (aggregate)",
+  "outcome_or_construct": "self-reported engagement (SEI), values integration, academic wellbeing, service quality",
+  "effect_sizes": [],
+  "notes": "SEM betas (e.g. 0.34, 0.42) are survey-construct paths; partial eta2/d are time x group effects. Neither is an LMS indicator relation."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-12"
+}

@@ -1,0 +1,23 @@
+{
+ "id": "OUCI-030",
+ "arm": "N",
+ "doi": "10.53598/2410-3004-2023-4-328-60-68",
+ "title": "MECHANISMS FOR THE DEVELOPMENT OF VALUE ORIENTATIONS IN ELEMENTARY SCHOOL STUDENTS IN GRADES 5-6 IN A DISTANCE LEARNING ENVIRONMENT (BASED ON FOREIGN LANGUAGES)",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "E6",
+ "reason": "Article body is in Russian (Vestnik AGU, Pedagogy and Psychology, 2023). Secondarily its population is school pupils in grades 5-6, not higher or vocational education.",
+ "extraction": {
+  "country": "Russia",
+  "design": "nr",
+  "n": "nr",
+  "n_quote": null,
+  "population": "pupils in grades 5-6 (foreign-language lessons, distance learning)",
+  "lms_indicators": "nr",
+  "outcome_or_construct": "value orientations",
+  "effect_sizes": [],
+  "notes": "Secondary E3 (school pupils). Not assessed further after E6."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-13"
+}

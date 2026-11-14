@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-105022660484",
+ "arm": "S",
+ "doi": "10.1002/ase.70156",
+ "title": "Showing the drawing hand of the teacher in an anatomy video lecture—Effect on the student's learning, motivation, and cognitive load",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "NOREL",
+ "reason": "RCT of video-lecture format run on Moodle. The only LMS-side measure (MCQ duration) is compared between groups and over time; no relation of it to success or a construct is reported. Reported correlations involve self-reported motivation and cognitive load only.",
+ "extraction": {
+  "country": "France (Montpellier University)",
+  "design": "experimental/control (RCT)",
+  "n": 343,
+  "n_quote": "The whole sample ( n = 343) was constituted by 310 (89%) right‐handers and 37 (11%) left‐handers' students.",
+  "population": "second-year medical students, 2 cohorts, 1 university",
+  "lms_indicators": "MCQ pre/post scores and MCQ duration extracted from Moodle (duration only compared by group/time)",
+  "outcome_or_construct": "MCQ learning gain; motivation (MSLQ, self-report); cognitive load (self-report)",
+  "effect_sizes": [],
+  "notes": "Correlations reported are self-report to self-report or self-report to test-score change: 'a positive—yet weak—correlation between motivation and the cognitive load ( r = 0.18, p = 0.02' and 'a negative and weak correlation between student cognitive load and MCQ score changes ( r = −0.11, p = 0.04'. Post-test time was entered in the correlation analysis but no coefficient for it is reported."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-12"
+}

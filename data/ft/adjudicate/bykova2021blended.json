@@ -1,0 +1,39 @@
+{
+ "id": "bykova2021blended",
+ "part": "C",
+ "independent_decision": "exclude",
+ "independent_code": "NOREL",
+ "assessor_decision": "include (re-extraction mode; criteria_met=[])",
+ "agree": true,
+ "final_decision": "include",
+ "final_code": null,
+ "reason": "Part C (D8: original inclusion unchanged). Descriptive counts of Moodle registration, guest access, task levels and forum use are read by the authors as DigComp levels; no analysis relates a per-student indicator to success or to a personality-related construct. Would be NOREL; assessor reached the same reading.",
+ "extraction_check": {
+  "n": "corrected",
+  "n_value": 59,
+  "n_quote": "59 students of different ages were involved in the study.",
+  "effect_sizes": [],
+  "table2_changes": [
+   {
+    "column": "n",
+    "from": "nr",
+    "to": "59",
+    "quote": "59 students of different ages were involved in the study."
+   },
+   {
+    "column": "design",
+    "from": "Quasi-experimental",
+    "to": "Descriptive case study (trial of blended learning; counts and percentages, no comparison group)",
+    "quote": "process of trial testing of the blended learning introduction in the masters industrial training"
+   }
+  ]
+ },
+ "sensitivity": {
+  "criteria_met": [],
+  "meets_update_rules": false,
+  "decisive_quote": "These statistics allow us",
+  "note": "Competence levels are assigned from the activity counts themselves, so no indicator-outcome relation exists. Digital competence is not a personality-related construct. Percentages in the text use inconsistent bases."
+ },
+ "adjudicator": "claude-fable-5-2 (WP05b)",
+ "adjudicated_on": "2026-11-12"
+}

@@ -1,0 +1,25 @@
+{"id": "2-s2.0-84892420345", "verdict": "exclude", "code": "OFF", "reason": "Diffusion LMS network estimation", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85106161456", "verdict": "maybe", "code": "I3", "reason": "No abstract; web-based lab for chemical engineering courses, unclear empirical", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-33751249026", "verdict": "exclude", "code": "OFF", "reason": "Drug formulation", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-84943553127", "verdict": "exclude", "code": "OFF", "reason": "Bank cash flow forecasting", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-105001839803", "verdict": "maybe", "code": "I3", "reason": "No abstract; digital assessment of competencies in pandemic, book chapter", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-84879511308", "verdict": "exclude", "code": "OFF", "reason": "Harmonic current filter", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-105036687445", "verdict": "exclude", "code": "OFF", "reason": "Acoustic feedback filter", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85127885683", "verdict": "exclude", "code": "OFF", "reason": "Reflectometry machine learning", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-0036293795", "verdict": "exclude", "code": "OFF", "reason": "DOA tracking", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-77449122293", "verdict": "exclude", "code": "OFF", "reason": "Geoacoustics", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-79952774642", "verdict": "exclude", "code": "OFF", "reason": "Magnetometer calibration", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-0031118862", "verdict": "exclude", "code": "OFF", "reason": "Active noise control", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85178124477", "verdict": "exclude", "code": "E3", "reason": "Adult prediabetes patients, trial protocol", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85175438768", "verdict": "exclude", "code": "NOIND", "reason": "Perception survey of instructors' role, Western vs Chinese students; no activity indicators", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85030660142", "verdict": "exclude", "code": "E3", "reason": "Secondary school physics learners using OER app", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85143594441", "verdict": "exclude", "code": "OFF", "reason": "Power filter control", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-33846133682", "verdict": "exclude", "code": "OFF", "reason": "Mussel immunology", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-105047903779", "verdict": "maybe", "code": "I1", "reason": "Quasi-experimental hybrid vs traditional teaching for undergraduates; online activity indicators unclear", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-77952517669", "verdict": "exclude", "code": "OFF", "reason": "Optical disc signal processing", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-105001699914", "verdict": "maybe", "code": "I1", "reason": "RCT of self-reflection prompts in online module for students; outcome and activity indicators unclear", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85069749488", "verdict": "maybe", "code": "I2", "reason": "No abstract; motivational factors and LMS use, empirical study of learners", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85109037011", "verdict": "maybe", "code": "I1", "reason": "No abstract; computer-assisted interactive reading model, unclear", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-105028491026", "verdict": "exclude", "code": "OFF", "reason": "Analytical chemistry", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-84879638544", "verdict": "maybe", "code": "I2", "reason": "No abstract; interactivity and learning style in distance learning, title suggests empirical", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85048219504", "verdict": "exclude", "code": "OFF", "reason": "Oncology biomarkers", "screener": "claude-sonnet-5-5 (WP02b first pass)"}

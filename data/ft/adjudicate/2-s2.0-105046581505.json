@@ -1,0 +1,21 @@
+{
+ "id": "2-s2.0-105046581505",
+ "independent_decision": "exclude",
+ "independent_code": "NOREL",
+ "assessor_decision": "exclude",
+ "assessor_code": "NOREL",
+ "agree": true,
+ "code_agree": true,
+ "final_decision": "exclude",
+ "final_code": "NOREL",
+ "reason": "Classroom experiment on self-reported reading anxiety by strategy and cognitive style; both are questionnaire scales and no platform measure exists.",
+ "extraction_check": {
+  "n": "ok",
+  "n_value": 72,
+  "n_quote": "the researcher adopted a quantitative experimental design involving 72 learners assigned to two experimental groups",
+  "effect_sizes": [],
+  "table2_changes": []
+ },
+ "adjudicator": "claude-fable-5-2 (WP05b)",
+ "adjudicated_on": "2026-11-13"
+}

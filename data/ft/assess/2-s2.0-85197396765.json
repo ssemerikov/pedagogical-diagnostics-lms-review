@@ -1,0 +1,25 @@
+{
+ "id": "2-s2.0-85197396765",
+ "arm": "S",
+ "doi": "10.56042/jsir.v83i6.9904",
+ "title": "Blockchain Framework for Learner Performance Prediction using Life-Brain Storm-based Light GBM Coupled Neural Network",
+ "decision": "exclude",
+ "criteria_met": [
+  "I1"
+ ],
+ "exclusion_code": "E1",
+ "reason": "Performance-prediction model on a non-public 'lively-generated' e-khool LMS dataset. Missing: who the learners are, their number and level, institution, collection period, and how performance is defined; sample rows carry 2001 timestamps. Reliability cannot be judged.",
+ "extraction": {
+  "country": "nr (author affiliations China and India)",
+  "design": "predictive modelling (LightGBM-coupled neural network) on secondary LMS data",
+  "n": "nr",
+  "n_quote": null,
+  "population": "nr (e-khool LMS learners, undescribed; '30000 available data' records, 3 courses)",
+  "lms_indicators": "log-in/log-out time, time on course, page traversal, material type, learning time, chapters covered, lecture type, marks",
+  "outcome_or_construct": "learner performance (target not defined in the text)",
+  "effect_sizes": [],
+  "notes": "Only model-fit metrics reported (MSE, RMSE, MAE, Kappa per course, e.g. proposed model Kappa 0.913 for course 1, Table 4); no indicator-level relation. Dataset: 'the lively-generated real time dataset with 30000 available data, collected and organized from the e-khool LMS, which is not publicly available'. 'mental state' and 'learning style' appear as input attributes without any description of measurement. Secondary: E3 undeterminable."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-12"
+}

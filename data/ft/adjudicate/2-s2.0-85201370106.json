@@ -1,0 +1,22 @@
+{
+ "id": "2-s2.0-85201370106",
+ "independent_decision": "exclude",
+ "independent_code": "NOREL",
+ "assessor_decision": "exclude",
+ "assessor_code": "NOREL",
+ "agree": true,
+ "code_agree": false,
+ "final_decision": "exclude",
+ "final_code": "E4",
+ "reason": "Randomised comparison of four delivery modes with test outcomes; test results are also regressed on self-reported concentration, expectation and liking. No platform-recorded indicator. Blind I coded NOREL as the assessor did; applying the rule clarification consistently (group-comparison design, achievement outcome, no activity measure) gives E4.",
+ "extraction_check": {
+  "n": "ok",
+  "n_value": 298,
+  "n_quote": "Total 200 22.7 (4.5) 98 18.4 (6.7)",
+  "effect_sizes": [],
+  "table2_changes": [],
+  "n_note": "298 = 200 + 98, both in the quoted table row"
+ },
+ "adjudicator": "claude-fable-5-2 (WP05b)",
+ "adjudicated_on": "2026-11-13"
+}

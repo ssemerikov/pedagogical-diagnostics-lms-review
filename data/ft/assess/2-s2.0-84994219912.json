@@ -1,0 +1,62 @@
+{
+ "id": "2-s2.0-84994219912",
+ "arm": "S",
+ "doi": "10.17718/tojde.43130",
+ "title": "Annotation-based learner's personality modeling in distance learning context",
+ "decision": "exclude",
+ "criteria_met": [
+  "I2",
+  "I4"
+ ],
+ "exclusion_code": "E3",
+ "reason": "Annotation traces in an online reading environment are related to Big Five traits (meets I2/I4 in substance), but both samples are adult volunteers of mixed occupations, mostly academics with professorship degrees, not higher-education students.",
+ "extraction": {
+  "country": "Tunisia (author affiliations; study site not stated)",
+  "design": "correlational + multiple regression; validation against NEO-IPIP",
+  "n": 100,
+  "n_quote": "We recruited 100 volunteers (35 women and 65 men) aged between 22 and 50 years. Most of the participants have the professorship degree in scientific or literary disciplines.",
+  "population": "adult volunteers aged 22-50, mostly academics/graduates (validation study); prior study 120 volunteers 'with different occupations and interests'",
+  "lms_indicators": "annotation-act counts in the i-Read online reading environment (total, average, graphical, textual, reference, compound annotations)",
+  "outcome_or_construct": "Big Five personality traits (NEO-IPIP)",
+  "effect_sizes": [
+   {
+    "statistic": "r",
+    "value": ".182*",
+    "between": "number of textual annotation acts (NTAA) ↔ conscientiousness",
+    "quote": "NTAA .001 .182* .040 .085 -.211*",
+    "location": "Table 1, p. 50 (prior study, n = 120)"
+   },
+   {
+    "statistic": "r",
+    "value": "-.287*",
+    "between": "total number of annotation acts (TNAA) ↔ neuroticism",
+    "quote": "TNAA -.059 .128 -.138 .089 -.287*",
+    "location": "Table 1, p. 50 (prior study, n = 120)"
+   },
+   {
+    "statistic": "r",
+    "value": "-.210*",
+    "between": "average number of annotation acts (ANAA) ↔ extraversion",
+    "quote": "ANAA .003 .080 -.210* .163 -.183*",
+    "location": "Table 1, p. 50 (prior study, n = 120)"
+   },
+   {
+    "statistic": "R2",
+    "value": "0.12",
+    "between": "annotation features (multiple regression) ↔ conscientiousness",
+    "quote": "prediction regarding Conscientiousness is reasonably accurate, with R2 value of 0.12",
+    "location": "p. 50, Table 2"
+   },
+   {
+    "statistic": "R2",
+    "value": "0.14",
+    "between": "annotation features (multiple regression) ↔ neuroticism",
+    "quote": "For Neuroticism we obtained the model with the best fit, with an R2 value of 0.14",
+    "location": "p. 50, Table 2"
+   }
+  ],
+  "notes": "Table 1 cells verified against the PDF page image. Table 1 and 2 reproduce the authors' prior study (Omheni et al., 2014; 120 volunteers) - secondary E2 for those numbers; the new validation (n = 100) reports only p-values and RMSE (Tables 4-5). Borderline: if the adjudicator accepts academic/graduate volunteers as an HE sample, the record would meet I2/I4."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-12"
+}

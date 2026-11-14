@@ -1,0 +1,76 @@
+{
+ "id": "hsueh2022exploring",
+ "arm": "O1-included",
+ "doi": "10.28945/5010",
+ "title": "Exploring the Influence of Students' Modes of Behavioral Engagement in an Online Programming Course Using the Partial Least Squares Structural Equation Modeling",
+ "decision": "include",
+ "criteria_met": [
+  "I1",
+  "I3"
+ ],
+ "exclusion_code": null,
+ "reason": "Re-extraction. OpenEdu/LMS log constructs (online days, video-watching events, document reading) and in-platform self-assessment scores related to final grade by PLS-SEM, n = 217. Path coefficients and R2 reported; Table 2 n, country and effect cells can be filled.",
+ "extraction": {
+  "country": "Taiwan (Feng Chia University)",
+  "design": "PLS-SEM on log data (direct, indirect effects, IPMA)",
+  "n": 217,
+  "n_quote": "we analyzed the log data of 217 students.",
+  "population": "undergraduates in an online Python programming course (82% information engineering/computer science majors), 1 university, spring 2021",
+  "lms_indicators": "Online_days (days with log activity); video-watching events (load, play, pause, seek backward, stop, etc.); online document reading; self-assessment scores from Game_test, OJ_test, Unit_test",
+  "outcome_or_construct": "final course grade",
+  "effect_sizes": [
+   {
+    "statistic": "path coefficient (standardised)",
+    "value": "0.113",
+    "between": "video-watching construct ↔ final grade",
+    "quote": "H3 Video watching 0.113 0.113 0.039 2.937 0.003**",
+    "location": "Table 3"
+   },
+   {
+    "statistic": "path coefficient (standardised)",
+    "value": "0.047",
+    "between": "online time (Online_days) ↔ final grade (n.s., p = 0.163)",
+    "quote": "H1 Online time 0.047 0.046 0.034 1.394 0.163",
+    "location": "Table 3"
+   },
+   {
+    "statistic": "path coefficient (standardised)",
+    "value": "0.302",
+    "between": "online time ↔ in-platform self-assessment scores",
+    "quote": "H2 Online time 0.302 0.303 0.056 5.430 0.000**",
+    "location": "Table 3"
+   },
+   {
+    "statistic": "path coefficient (standardised)",
+    "value": "0.819",
+    "between": "in-platform self-assessment scores (activity products) ↔ final grade",
+    "quote": "H7 Self-assessment 0.819 0.819 0.028 29.505 0.000**",
+    "location": "Table 3"
+   },
+   {
+    "statistic": "indirect effect",
+    "value": "0.248",
+    "between": "online time → self-assessment → final grade",
+    "quote": "Online time -> 0.248 0.248 0.046 5.352 0.000**",
+    "location": "Table 5"
+   },
+   {
+    "statistic": "R2",
+    "value": "0.771",
+    "between": "all constructs ↔ final grade",
+    "quote": "Final grade 0.771 0.767 Substantial",
+    "location": "Table 4"
+   }
+  ],
+  "notes": "Table 2 changes: country Taiwan (not nr), n = 217 (not nr), effect sizes available (largest log-to-grade direct path 0.113 for video watching; R2 = 0.771 is dominated by self-assessment scores, path 0.819). Document reading paths n.s. (-0.018, 0.037). Design is PLS-SEM on log constructs, not clustering: Table 2's '(behavioural-engagement clusters)' and the manuscript's 'cluster modes ... inferring learning strategies' do not match; no learning-strategy or personality construct is measured. 15 of 28 log indicators dropped for low loadings. 315 registered, 217 with log data."
+ },
+ "table2_current": {
+  "country": "nr",
+  "design": "PLS-SEM",
+  "n": "nr",
+  "lms_indicators": "Interaction logs (behavioural-engagement clusters)",
+  "effect_size": "nr"
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-12"
+}

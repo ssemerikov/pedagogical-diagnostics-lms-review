@@ -1,0 +1,51 @@
+{
+ "id": "suwardika2024flipped",
+ "part": "C",
+ "independent_decision": "exclude",
+ "independent_code": "E4",
+ "assessor_decision": "include (re-extraction mode; criteria_met=[])",
+ "agree": true,
+ "final_decision": "include",
+ "final_code": null,
+ "reason": "Part C (D8: original inclusion unchanged). Three-class quasi-experiment (n = 83); MANCOVA of teaching model on a self-regulation questionnaire, a critical-thinking test and a communication questionnaire. Engagement with animation and modules is the treatment, not a measured indicator. Would be E4; assessor reached the same reading.",
+ "extraction_check": {
+  "n": "corrected",
+  "n_value": 83,
+  "n_quote": "The research participants in the implementation phase comprised 83 students divided",
+  "effect_sizes": [
+   {
+    "value": "F = 45.673 (teaching model on self-regulation; a group contrast, NOT an indicator-outcome effect)",
+    "status": "ok",
+    "quote": "self-regulation variable (Y1), with an F-value of 45.673 and a significance level of 0.000 < 0.05."
+   }
+  ],
+  "table2_changes": [
+   {
+    "column": "n",
+    "from": "nr",
+    "to": "83",
+    "quote": "The research participants in the implementation phase comprised 83 students divided"
+   },
+   {
+    "column": "design",
+    "from": "Mixed methods",
+    "to": "Mixed methods: framework development plus three-group quasi-experiment (MANCOVA)",
+    "quote": "through quasi-experiment with non-equivalent group designs (Cohen et al., 2018)."
+   },
+   {
+    "column": "lms_indicators",
+    "from": "Engagement with animation and modules",
+    "to": "None measured (animation and modules are the treatment; outcomes are questionnaires and a test)",
+    "quote": "collected using a self-regulation questionnaire with a Likert scale ranging from 1 to 5. This"
+   }
+  ]
+ },
+ "sensitivity": {
+  "criteria_met": [],
+  "meets_update_rules": false,
+  "decisive_quote": "collected using a self-regulation questionnaire with a Likert scale ranging from 1 to 5. This",
+  "note": "Self-regulation is self-reported and predicted only by group membership. No per-student platform measure enters any analysis. Sample is in-service teachers enrolled in an undergraduate programme, so E3 does not apply."
+ },
+ "adjudicator": "claude-fable-5-2 (WP05b)",
+ "adjudicated_on": "2026-11-12"
+}

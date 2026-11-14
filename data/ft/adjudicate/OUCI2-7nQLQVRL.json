@@ -1,0 +1,20 @@
+{
+ "id": "OUCI2-7nQLQVRL",
+ "independent_decision": "exclude",
+ "independent_code": "NOREL",
+ "assessor_decision": "exclude",
+ "assessor_code": "NOREL",
+ "agree": true,
+ "code_agree": true,
+ "final_decision": "exclude",
+ "final_code": "NOREL",
+ "reason": "Framework paper with a two-group comparison on self-report Likert scales; no recorded platform measure is analysed.",
+ "extraction_check": {
+  "n": "nr_confirmed",
+  "n_value": "nr",
+  "effect_sizes": [],
+  "table2_changes": []
+ },
+ "adjudicator": "claude-fable-5-2 (WP05b)",
+ "adjudicated_on": "2026-11-13"
+}

@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-85201370106",
+ "arm": "S",
+ "doi": "10.1186/s12909-024-05864-7",
+ "title": "The effect of promoting factors on learning by four different delivery modes",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "NOREL",
+ "reason": "RCT secondary analysis relating self-rated concentration, anticipation and liking (1-10 scales) to e-test scores across live, live-stream, vodcast and podcast teaching. The predictors are self-report, not platform-recorded indicators or activity products.",
+ "extraction": {
+  "country": "Finland (University of Eastern Finland)",
+  "design": "RCT secondary analysis (four delivery groups), regression and correlation",
+  "n": 298,
+  "n_quote": "Total 200 22.7 (4.5) 98 18.4 (6.7)",
+  "population": "medical and nursing students",
+  "lms_indicators": "none (Webropol e-test used only as outcome)",
+  "outcome_or_construct": "short- and long-term e-test scores; self-reported concentration, anticipation, liking",
+  "effect_sizes": [],
+  "notes": "Full text is the Research Square preprint (DOI 10.21203/rs.3.rs-4075643/v1) of the BMC Med Educ article; title differs slightly ('four teaching methods'). n is the sum of high (200) and low (98) concentration groups in the short-term test (Table 3). Concentration (self-report) related to test score within groups, e.g. 'B 3.594, St.B 0.321, p = 0.01' - self-report ↔ achievement, not extracted as an indicator effect."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-12"
+}

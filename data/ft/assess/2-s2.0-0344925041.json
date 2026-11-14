@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-0344925041",
+ "arm": "S",
+ "doi": "10.1515/jisys.2002.12.2.93",
+ "title": "Learning style preferences of computing students in distance education",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "NOREL",
+ "reason": "Learning-style questionnaires (Honey-Mumford, Grasha-Reichmann, visual/verbal) compared by gender and against norms. AESOP recordings of practical activity were collected but no analysis relates them to styles or success; results are questionnaire-only.",
+ "extraction": {
+  "country": "UK (The Open University)",
+  "design": "repeated-measures questionnaire study (initial findings)",
+  "n": 46,
+  "n_quote": "completed the learning styles questionnaires.",
+  "population": "distance-education computing students, 1 university",
+  "lms_indicators": "AESOP recordings of online programming activity (collected, not analysed here)",
+  "outcome_or_construct": "learning and cognitive style preferences (self-report)",
+  "effect_sizes": [],
+  "notes": "\"Of these, 46 (females N=21, males N=25) completed the learning styles questionnaires\"; 66 completed the pre-study questionnaire. Activist–avoidant correlation is between two self-report scales. Spaced digits in OCR text."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-12"
+}

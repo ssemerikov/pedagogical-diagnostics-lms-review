@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-85117921314",
+ "arm": "S",
+ "doi": "10.1145/3481056.3481090",
+ "title": "Emotional Resilience of Students in the Context of Distance Learning",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "E4",
+ "reason": "Emotional-resilience experiment: grade distributions and emotion-questionnaire profiles compared between experimental and control groups as percentages; no platform-recorded measure enters any analysis.",
+ "extraction": {
+  "country": "Russia",
+  "design": "pedagogical experiment, EG/CG descriptive comparison",
+  "n": 57,
+  "n_quote": "the 1st year, in the amount of 57 people, with an average age of",
+  "population": "first-year students in technology/veterinary qualifications, Russian university",
+  "lms_indicators": "none",
+  "outcome_or_construct": "emotional resilience/emotional modalities (questionnaire); grades",
+  "effect_sizes": [],
+  "notes": "English text (ICEMT 2021). Descriptive percentages only; secondary NOREL (self-report questionnaire)."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-13"
+}

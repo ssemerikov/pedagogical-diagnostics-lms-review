@@ -1,0 +1,21 @@
+{
+ "id": "2-s2.0-85218831497",
+ "independent_decision": "exclude",
+ "independent_code": "E3",
+ "assessor_decision": "exclude",
+ "assessor_code": "E3",
+ "agree": true,
+ "code_agree": true,
+ "final_decision": "exclude",
+ "final_code": "E3",
+ "reason": "Learning-style identification experiment run with 30 learners from primary education; not a higher- or vocational-education sample.",
+ "extraction_check": {
+  "n": "ok",
+  "n_value": 30,
+  "n_quote": "30 learners from the second level of primary education participated in the experiment.",
+  "effect_sizes": [],
+  "table2_changes": []
+ },
+ "adjudicator": "claude-fable-5-2 (WP05b)",
+ "adjudicated_on": "2026-11-13"
+}

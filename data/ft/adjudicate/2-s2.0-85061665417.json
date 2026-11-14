@@ -1,0 +1,21 @@
+{
+ "id": "2-s2.0-85061665417",
+ "independent_decision": "exclude",
+ "independent_code": "NOREL",
+ "assessor_decision": "exclude",
+ "assessor_code": "NOREL",
+ "agree": true,
+ "code_agree": true,
+ "final_decision": "exclude",
+ "final_code": "NOREL",
+ "reason": "Remote-laboratory description evaluated by a survey of 31 students; no platform indicator is related to performance or traits.",
+ "extraction_check": {
+  "n": "ok",
+  "n_value": 31,
+  "n_quote": "We divided a panel of 31 students into three groups: G1: 9 students, G2: 11",
+  "effect_sizes": [],
+  "table2_changes": []
+ },
+ "adjudicator": "claude-fable-5-2 (WP05b)",
+ "adjudicated_on": "2026-11-13"
+}

@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-85055720879",
+ "arm": "S",
+ "doi": "10.1145/3239283.3239319",
+ "title": "Prediction of student learning style using modified decision tree algorithm in E-learning system",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "NOREL",
+ "reason": "Decision-tree classification of FSLSM dimensions from Moodle web logs. 'Actual' styles have no stated independent measurement (no ILS questionnaire), so reported accuracy reflects agreement with log-based rules, not an empirical relation to a measured learning style.",
+ "extraction": {
+  "country": "nr (authors: Karpagam University, India; Muscat College, Oman; data institution not named)",
+  "design": "classifier development (modified decision tree vs J48 etc., 10-fold CV)",
+  "n": 300,
+  "n_quote": "log files of approximately around 300 datasets of learners",
+  "population": "students in 5 online computing courses over 3 semesters, 1 institution",
+  "lms_indicators": "Moodle web-log actions: forum views/posts, assignment and exam actions, content type views",
+  "outcome_or_construct": "FSLSM perception, input and processing dimensions (label source not described)",
+  "effect_sizes": [],
+  "notes": "Reports overall accuracy 87% (abstract) and average 91% (results), internally inconsistent. Perception confusion matrix: 150 of 210 'Neutral'. Secondary code: E1 (source of the 'actual' learning-style labels is not given)."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-12"
+}

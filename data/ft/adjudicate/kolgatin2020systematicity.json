@@ -1,0 +1,34 @@
+{
+ "id": "kolgatin2020systematicity",
+ "part": "C",
+ "independent_decision": "include",
+ "independent_code": "I1",
+ "assessor_decision": "include",
+ "agree": true,
+ "final_decision": "include",
+ "final_code": null,
+ "reason": "Part C (D8: original inclusion unchanged). Share of Moodle Assignment reports submitted on time, per student, correlated with final written test result; Pearson r = 0.28, n = 54. Meets I1 under the update rules.",
+ "extraction_check": {
+  "n": "ok",
+  "n_value": 54,
+  "n_quote": "54 students took part in experiment. 274 reports were",
+  "effect_sizes": [
+   {
+    "value": "r = 0.28",
+    "status": "ok",
+    "quote": "variables is 0.28. This correlation is statistically"
+   }
+  ],
+  "table2_changes": []
+ },
+ "sensitivity": {
+  "criteria_met": [
+   "I1"
+  ],
+  "meets_update_rules": true,
+  "decisive_quote": "variables is 0.28. This correlation is statistically",
+  "note": "Platform-recorded per-student timeliness indicator against test achievement. Self-management reading is the authors' interpretation; no construct measured, so I2 not met."
+ },
+ "adjudicator": "claude-fable-5-2 (WP05b)",
+ "adjudicated_on": "2026-11-12"
+}

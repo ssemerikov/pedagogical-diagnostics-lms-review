@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-85128103279",
+ "arm": "S",
+ "doi": "10.1007/s10639-022-11051-2",
+ "title": "Factors influencing graduate students’ behavioral intention to use Google Classroom: Case study-mixed methods research",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "NOREL",
+ "reason": "UTAUT2 technology-acceptance study: PLS-SEM on survey responses (habit, facilitating conditions, behavioural intention) plus interviews about Google Classroom. All variables are self-report; no platform-recorded indicator.",
+ "extraction": {
+  "country": "Yemen",
+  "design": "mixed methods (PLS-SEM survey + interviews)",
+  "n": 23,
+  "n_quote": "the study first analyzed survey data from 23 EFL graduate students implementing partial least squares structural equation modeling (PLS-SEM).",
+  "population": "EFL MA (graduate) students, 1 programme",
+  "lms_indicators": "none",
+  "outcome_or_construct": "behavioural intention to use Google Classroom and UTAUT2 constructs (self-report)",
+  "effect_sizes": [],
+  "notes": "Habit -> BI beta = .99 is a survey-construct path."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-12"
+}

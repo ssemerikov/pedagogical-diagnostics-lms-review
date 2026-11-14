@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-105002219504",
+ "arm": "S",
+ "doi": "10.3389/feduc.2025.1546208",
+ "title": "Promoting online teaching through active learning strategies: applications and innovations",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "E4",
+ "reason": "Single-group pre/post/follow-up design on Blackboard: cognitive achievement test over time plus an attitude self-checklist. No platform-recorded indicator or activity product is related to any outcome or construct.",
+ "extraction": {
+  "country": "Saudi Arabia (Qassim University)",
+  "design": "quasi-experimental, single group, repeated measures",
+  "n": 23,
+  "n_quote": "After three participants withdrew, 23 female participants remained in the “Methods of Teaching Physical Education and Self-Defense Sports” e-course",
+  "population": "female higher-diploma students in physical education, 1 university",
+  "lms_indicators": "none measured (Blackboard used as delivery platform only)",
+  "outcome_or_construct": "cognitive achievement test; attitudes toward online active learning (self-report)",
+  "effect_sizes": [],
+  "notes": "eta2 = 0.98 is the within-subject time effect on achievement, not an indicator-outcome relation; not extracted. Secondary: NOREL (attitudes are self-report only)."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-12"
+}

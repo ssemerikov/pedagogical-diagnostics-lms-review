@@ -1,0 +1,30 @@
+{
+ "id": "savchuk2019interactivity",
+ "arm": "O1-included",
+ "doi": "10.5430/ijhe.v8n5p84",
+ "title": "The Interactivity of ICT in Language Teaching in the Context of Ukraine University Education",
+ "decision": "include",
+ "criteria_met": [],
+ "exclusion_code": null,
+ "reason": "Re-extraction (inclusion not re-decided). Null control-vs-experimental achievement contrast plus correlations among self-reported readiness, motivation and perceived learning; no LMS indicator or scored product, and learning styles are not measured. Would fail I1-I4 (NOREL); flagged.",
+ "extraction": {
+  "country": "Ukraine (Uman State Pedagogical University named after Pavlo Tychyna)",
+  "design": "experimental/control (2x2 split-plot ANOVA) + survey correlations + focus group",
+  "n": 56,
+  "n_quote": "namely the control group numbered 27 people, of which 18 were young women aged 20-21 ... Of 29 individuals in the experimental group, 14 were young women aged 20-21 and 15",
+  "population": "3rd-year full-time philology (Ukrainian language and literature) undergraduates, 1 university",
+  "lms_indicators": "none measured (multimedia textbook on interactive equipment; no LMS or exercise-product indicator recorded or analysed)",
+  "outcome_or_construct": "23-item achievement test (KR-20 = 0.74); self-reported learning readiness, academic motivation, perceived learning",
+  "effect_sizes": [],
+  "notes": "n is the sum of group sizes 27 + 29; the text states 'the required sample size obtained was 57 people' and Table 3 gives n = 57. No group difference in achievement (Group*Measurement F = .899, p = .344, eta2 = 0.016). Correlations reported are among self-report scales only: 'a positive noteworthy relationship between LR and AM (r=.41, p> .05)', LR-PL r = .69, AM-PL r = .43 (Table 4). Learning styles are named in the abstract but never measured; no visual/auditory/kinesthetic analysis exists in the text. Same full text as calibration record 2-s2.0-85073395065 (excluded NOREL in worklist main). Table 2 cells 'Experimental/control' and 'nr' n: n is now recoverable (27 + 29 = 56; text's 'required sample size' is 57)."
+ },
+ "table2_current": {
+  "country": "Ukraine",
+  "design": "Experimental\\slash control",
+  "n": "nr",
+  "lms_indicators": "Multimedia exercise products",
+  "effect_size": "nr"
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-12"
+}

@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-105038750445",
+ "arm": "S",
+ "doi": "10.3390/su18094297",
+ "title": "Adoption of MOOCs in Saudi Arabia for Health Administration and Informatics Education: Application of Self-Determination Theory and Media Richness to Behavioral and Actual Use",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "NOREL",
+ "reason": "PLS-SEM/CB-SEM survey of 145 faculty and students on MOOC adoption (self-determination needs, media richness, intention, 'actual use'). All constructs, including actual use, are seven-point Likert self-report items; no platform data.",
+ "extraction": {
+  "country": "Saudi Arabia (public and private universities)",
+  "design": "cross-sectional survey, PLS-SEM and CB-SEM",
+  "n": 145,
+  "n_quote": "sampling was used, and data were collected from 145 respondents, including faculty",
+  "population": "faculty members and students in health administration/informatics",
+  "lms_indicators": "none (self-reported actual use)",
+  "outcome_or_construct": "behavioural intention and actual use of MOOCs (self-report)",
+  "effect_sizes": [],
+  "notes": "Mixed faculty/student sample."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-12"
+}

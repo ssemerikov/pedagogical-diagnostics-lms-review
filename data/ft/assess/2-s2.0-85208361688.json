@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-85208361688",
+ "arm": "S",
+ "doi": "10.1021/acs.jchemed.4c00607",
+ "title": "Evaluating Student Learning Outcomes across Three Teaching Modalities Using the Same Set of Flipped Classroom Materials",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "E4",
+ "reason": "Natural experiment comparing General Chemistry exam grades across online, hybrid and face-to-face modalities, plus perception surveys; no per-student platform measure enters any analysis.",
+ "extraction": {
+  "country": "USA",
+  "design": "natural experiment, between-modality comparison + survey",
+  "n": "nr",
+  "n_quote": null,
+  "population": "General Chemistry I and II students, King's College (Pennsylvania), 2020-2021",
+  "lms_indicators": "none",
+  "outcome_or_construct": "exam grades by modality; perceptions of flipped classroom",
+  "effect_sizes": [],
+  "notes": "No significant exam differences between modalities."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-13"
+}

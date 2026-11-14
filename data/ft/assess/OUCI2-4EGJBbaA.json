@@ -1,0 +1,23 @@
+{
+ "id": "OUCI2-4EGJBbaA",
+ "arm": "O2",
+ "doi": "10.20527/jee.v7i2.18998",
+ "title": "The Effect of Self-Regulated Learning on Students' Learning Independence in Entrepreneurship Education",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "NOREL",
+ "reason": "One-group pretest-posttest of a self-report learning-independence questionnaire (N-Gain .52) plus an LMS-use perception questionnaire; no platform-recorded activity measure is analysed.",
+ "extraction": {
+  "country": "Indonesia",
+  "design": "one-group pretest-posttest (pre-experimental)",
+  "n": 72,
+  "n_quote": "involving 72 students enrolled in entrepreneurship courses.",
+  "population": "undergraduate entrepreneurship students, Universitas Syiah Kuala",
+  "lms_indicators": "none (Wadhwani Ignite LMS used for delivery)",
+  "outcome_or_construct": "learning independence (self-report questionnaire, 24 items)",
+  "effect_sizes": [],
+  "notes": "Pre/post change on a self-report construct; not an achievement comparison, hence NOREL rather than E4."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-13"
+}

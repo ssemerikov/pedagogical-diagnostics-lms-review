@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-85153424929",
+ "arm": "S",
+ "doi": "10.1186/s12909-023-04229-w",
+ "title": "Remote, asynchronous training and feedback enables development of neurodynamic skills in physiotherapy students",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "E4",
+ "reason": "Single-group repeated measures of skill scores on uploaded practice videos across four remote sessions, plus perception survey. The scored videos are the achievement outcome itself; no separate indicator is related to success or a construct.",
+ "extraction": {
+  "country": "Chile (Pontificia Universidad Católica de Chile)",
+  "design": "longitudinal single-group repeated measures",
+  "n": 60,
+  "n_quote": "Finally, data was collected and analyzed for 60 participants who completed the training and uploaded the four videos (total = 240 videos).",
+  "population": "third-year undergraduate physiotherapy students, 1 university",
+  "lms_indicators": "uploaded performance videos scored by checklist/rubric (used as the outcome)",
+  "outcome_or_construct": "neurodynamic technique performance scores across sessions; perceptions (self-report)",
+  "effect_sizes": [],
+  "notes": "No control group; change over sessions only."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-12"
+}

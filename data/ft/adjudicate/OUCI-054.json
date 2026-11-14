@@ -1,0 +1,28 @@
+{
+ "id": "OUCI-054",
+ "independent_decision": "exclude",
+ "independent_code": "E4",
+ "assessor_decision": "exclude",
+ "assessor_code": "NONEMP",
+ "agree": true,
+ "code_agree": false,
+ "final_decision": "exclude",
+ "final_code": "E4",
+ "reason": "Control versus experimental comparison of knowledge coefficients for 232 students. The assessor coded NONEMP and stated that no participants, data or tables are reported; the text contains both: 'experiment with the participation of 232 students 2, 3, 4, courses, studying at the bachelor’s'. Final code E4.",
+ "extraction_check": {
+  "n": "corrected",
+  "n_value": 232,
+  "effect_sizes": [
+   {
+    "value": "generalised knowledge coefficient 0.67 experimental vs 0.59 control (electrical engineering); a group contrast, not an indicator-outcome effect",
+    "status": "corrected",
+    "quote": "cient of knowledge on the results of the final control is 0.67 (compared with 0.59 in the control"
+   }
+  ],
+  "table2_changes": [],
+  "n_quote": "experiment with the participation of 232 students 2, 3, 4, courses, studying at the bachelor’s",
+  "n_note": "Assessor recorded nr."
+ },
+ "adjudicator": "claude-fable-5-2 (WP05b)",
+ "adjudicated_on": "2026-11-13"
+}

@@ -1,0 +1,56 @@
+{
+ "id": "savchuk2019interactivity",
+ "part": "C",
+ "independent_decision": "exclude",
+ "independent_code": "E4",
+ "assessor_decision": "include (re-extraction mode; criteria_met=[]; assessor's hypothetical code NOREL)",
+ "agree": true,
+ "final_decision": "include",
+ "final_code": null,
+ "reason": "Part C (D8: original inclusion unchanged). Experimental (29) versus control (27) achievement comparison, null result, plus correlations among three self-report scales. No platform-recorded per-student measure. Fails the update rules; I code E4 by the group-comparison clarification, the assessor NOREL. Same sensitivity verdict.",
+ "extraction_check": {
+  "n": "corrected",
+  "n_value": "56 (29 experimental + 27 control); the paper also states 57",
+  "n_quote": "performance indicators, namely the control group numbered 27 people, of which 18 were young women aged 20-21 [...] and 9 young men aged 20-22. Of 29 individuals in the experimental group, 14 were young women aged 20-21 and 15",
+  "effect_sizes": [
+   {
+    "value": "eta2 = 0.016 (Group x Measurement, p = .344; a group contrast, NOT an indicator-outcome effect)",
+    "status": "ok",
+    "quote": "Group*Measurement                    168.31        1        168.31  .899   .344   0.016"
+   },
+   {
+    "value": "r = .69 (learning readiness vs perceived learning; both self-report, NOT an indicator-outcome effect)",
+    "status": "ok",
+    "quote": "relationship between LR and PL is also observed (r = .69, p> .05); and there is a positive noteworthy relationship"
+   }
+  ],
+  "table2_changes": [
+   {
+    "column": "n",
+    "from": "nr",
+    "to": "56 (29 experimental, 27 control; the paper's Table 3 prints 57)",
+    "quote": "performance indicators, namely the control group numbered 27 people, of which 18 were young women aged 20-21"
+   },
+   {
+    "column": "lms_indicators",
+    "from": "Multimedia exercise products",
+    "to": "None recorded (achievement test and self-report scales only)",
+    "quote": "motivation, and perceived learning) and the correlations between them were examined (see the results in Table 4)."
+   },
+   {
+    "column": "effect_size",
+    "from": "nr",
+    "to": "nr for indicator-outcome; group effect on achievement not significant (eta2 = 0.016, p = .344)",
+    "quote": "Group*Measurement                    168.31        1        168.31  .899   .344   0.016"
+   }
+  ]
+ },
+ "sensitivity": {
+  "criteria_met": [],
+  "meets_update_rules": false,
+  "decisive_quote": "It cannot be observed statistically substantial difference between the mean scores of the students learning through the",
+  "note": "Group membership is the only predictor of achievement, and the result is null. Correlations are among self-report scales. The paper's own n is inconsistent (56 by groups, 57 in Table 3)."
+ },
+ "adjudicator": "claude-fable-5-2 (WP05b)",
+ "adjudicated_on": "2026-11-12"
+}

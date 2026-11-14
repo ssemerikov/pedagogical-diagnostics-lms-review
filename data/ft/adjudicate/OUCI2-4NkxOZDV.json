@@ -1,0 +1,21 @@
+{
+ "id": "OUCI2-4NkxOZDV",
+ "independent_decision": "exclude",
+ "independent_code": "NOREL",
+ "assessor_decision": "exclude",
+ "assessor_code": "NOREL",
+ "agree": true,
+ "code_agree": true,
+ "final_decision": "exclude",
+ "final_code": "NOREL",
+ "reason": "Flipped versus lecture groups compared on six self-report scales; LMS completion and replay figures are reported descriptively and never related per student to an outcome.",
+ "extraction_check": {
+  "n": "ok",
+  "n_value": 420,
+  "n_quote": "Complete sampling was used, and after five incomplete responses were excluded, the analytic sample was N=420, as described in Table 1.",
+  "effect_sizes": [],
+  "table2_changes": []
+ },
+ "adjudicator": "claude-fable-5-2 (WP05b)",
+ "adjudicated_on": "2026-11-13"
+}

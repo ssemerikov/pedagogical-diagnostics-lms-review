@@ -1,0 +1,20 @@
+{
+ "id": "OUCI2-ldoJWXVk",
+ "independent_decision": "exclude",
+ "independent_code": "E6",
+ "assessor_decision": "exclude",
+ "assessor_code": "E6",
+ "agree": true,
+ "code_agree": true,
+ "final_decision": "exclude",
+ "final_code": "E6",
+ "reason": "Full text is in Kazakh with English and Russian abstracts only.",
+ "extraction_check": {
+  "n": "nr_unverified",
+  "n_value": "nr",
+  "effect_sizes": [],
+  "table2_changes": []
+ },
+ "adjudicator": "claude-fable-5-2 (WP05b)",
+ "adjudicated_on": "2026-11-13"
+}

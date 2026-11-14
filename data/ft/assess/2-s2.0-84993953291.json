@@ -1,0 +1,40 @@
+{
+ "id": "2-s2.0-84993953291",
+ "arm": "S",
+ "doi": "10.4018/ijdet.2017010103",
+ "title": "Recognition of learner's personality traits through digital annotations in distance learning",
+ "decision": "include",
+ "criteria_met": [
+  "I4"
+ ],
+ "exclusion_code": null,
+ "reason": "Digital annotation traces from an online reading environment (i-Read) used to score conscientiousness and neuroticism, compared with NEO-IPIP questionnaire scores (Pearson correlation, RMSE). Meets I4. Correlation coefficients themselves are not printed; only mean, RMSE, p.",
+ "extraction": {
+  "country": "Tunisia (Sfax University)",
+  "design": "validation study (system vs questionnaire), Pearson correlation and RMSE",
+  "n": 100,
+  "n_quote": "We recruited 100 volunteers (35 women and 65 men) aged between 22 and 50 years. Most of the",
+  "population": "academic volunteers aged 22–50, majority graduate students (some with professorship degree)",
+  "lms_indicators": "digital annotation traces (highlighting, comments etc.) during reading sessions in i-Read",
+  "outcome_or_construct": "Big Five conscientiousness and neuroticism (NEO-IPIP)",
+  "effect_sizes": [
+   {
+    "statistic": "Mean / RMSE / p (Table 4)",
+    "value": "Mean 0.02, RMSE 0.10, p 0.03",
+    "between": "i-Read annotation-based conscientiousness score ↔ NEO-IPIP conscientiousness",
+    "quote": "Neo-IPIP inventory 0.02 0.10 0.03",
+    "location": "Table 4"
+   },
+   {
+    "statistic": "Mean / RMSE / p (Table 5)",
+    "value": "Mean 0.03, RMSE 0.10, p 0.01",
+    "between": "i-Read annotation-based neuroticism score ↔ NEO-IPIP neuroticism",
+    "quote": "Neo-IPIP inventory 0.03 0.10 0.01",
+    "location": "Table 5"
+   }
+  ],
+  "notes": "No Pearson r is printed: verified against the PDF (p. 44, Tables 4-5), where the 'i-Read system' row contains only dots and the Neo-IPIP row gives Mean, RMSE, p-value. Fig. 11 scatterplot (neuroticism) shows wide dispersion. The 100 volunteers are the same people as the authors' earlier model-building study ('All the invited people have participated in our previous experimentation (Omheni et al., 2014)'), so validation is not on an independent sample. Population mixes graduate students with academics; E3 borderline. Only two of five traits evaluated."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-12"
+}

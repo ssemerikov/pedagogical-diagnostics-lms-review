@@ -1,0 +1,21 @@
+{
+ "id": "2-s2.0-85090949502",
+ "independent_decision": "exclude",
+ "independent_code": "NOREL",
+ "assessor_decision": "exclude",
+ "assessor_code": "E4",
+ "agree": true,
+ "code_agree": false,
+ "final_decision": "exclude",
+ "final_code": "E4",
+ "reason": "Description of home practical activities with a comparison of worksheet marks between face-to-face and online modes. Blind I coded NOREL; because the quantitative result is a mode-group achievement contrast, the assessor's E4 is the right code.",
+ "extraction_check": {
+  "n": "ok",
+  "n_value": 987,
+  "n_quote": "practicals in a unit with 987 students enrolled across three",
+  "effect_sizes": [],
+  "table2_changes": []
+ },
+ "adjudicator": "claude-fable-5-2 (WP05b)",
+ "adjudicated_on": "2026-11-13"
+}

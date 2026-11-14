@@ -1,0 +1,25 @@
+{"id": "2-s2.0-85197396471", "verdict": "maybe", "code": "I1", "reason": "O2O plus PBL in nephrology residency training; residents are trainees; indicators and outcomes unclear.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-33646585429", "verdict": "exclude", "code": "E3", "reason": "Elementary school students; usability inventory.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-0032650179", "verdict": "exclude", "code": "OFF", "reason": "Elastomeric dampers for helicopters.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-84897750675", "verdict": "exclude", "code": "E2", "reason": "Conference proceedings front matter.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-105038284123", "verdict": "exclude", "code": "NONEMP", "reason": "Systematic review of GenAI virtual patients.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-105050152048", "verdict": "maybe", "code": "I3", "reason": "Engineering students produce videos and designs subject to structured evaluation; learning-activity products; link to success unclear.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85219175825", "verdict": "maybe", "code": "I2", "reason": "Undergraduate computer science online engagement and influencing factors; platform data unclear.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85055720879", "verdict": "pass", "code": "I2", "reason": "Predicts learning style from learning behaviour in an LMS using decision tree.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85131443010", "verdict": "maybe", "code": "I2", "reason": "Abstract is bibliographic only; attitude toward foreign language learning in higher education; method unknown.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-79952720431", "verdict": "exclude", "code": "OFF", "reason": "Magnetic bearing control.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85017181595", "verdict": "exclude", "code": "OFF", "reason": "Passive radar signal processing.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-84947649275", "verdict": "maybe", "code": "I1", "reason": "Chapter on e-LMS content recommendation; may be system description or empirical.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-77955466176", "verdict": "pass", "code": "I2", "reason": "LMS interaction behaviour patterns predict student motivation and course success.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85123055810", "verdict": "exclude", "code": "E3", "reason": "School and college teachers' opinions survey.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-105050440975", "verdict": "exclude", "code": "OFF", "reason": "Liquid metal hydrogel materials.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-105050285656", "verdict": "exclude", "code": "OFF", "reason": "Underwater noise control.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85074372489", "verdict": "exclude", "code": "OFF", "reason": "Crab immunology.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85210083332", "verdict": "exclude", "code": "OFF", "reason": "Lung cancer review.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-0035707038", "verdict": "exclude", "code": "OFF", "reason": "Adaptive identification algorithms.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85084384423", "verdict": "exclude", "code": "OFF", "reason": "Maglev flywheel control.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-105014953734", "verdict": "exclude", "code": "E2", "reason": "Erratum on biomechanics paper.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-79956111892", "verdict": "exclude", "code": "OFF", "reason": "Speech beamforming in cars.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85201370106", "verdict": "maybe", "code": "I2", "reason": "RCT learning groups, concentration, liking and desire to reuse across delivery modes; students; activity data unclear.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-84997502393", "verdict": "exclude", "code": "OFF", "reason": "Fibre-optic gyroscope compensation.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-105029193628", "verdict": "maybe", "code": "I3", "reason": "No abstract; multiple-attempt testing and project homework in statics course; possible activity data.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}

@@ -1,0 +1,47 @@
+{
+ "id": "2-s2.0-77955466176",
+ "arm": "S",
+ "doi": "10.1109/te.2009.2027433",
+ "title": "Student behavior and interaction patterns with an lms as motivation predictors in e-learning settings",
+ "decision": "include",
+ "criteria_met": [
+  "I2"
+ ],
+ "exclusion_code": null,
+ "reason": "LMS logs (hits, forum use, profile-photo upload, weekly-use coefficient of variation) related to Academic Motivation Scale indexes by group means, t-tests and ANOVA. Meets I2. Grades are related only to questionnaire motivation, not to log measures.",
+ "extraction": {
+  "country": "Spain (ADA-Madrid; Universidad Carlos III de Madrid)",
+  "design": "correlational/group comparison over three course offerings (t-tests, ANOVA)",
+  "n": 180,
+  "n_quote": "correlating motivational data from 180 students taking an on-",
+  "population": "students of six Madrid public universities taking an online course (ADA-Madrid), three consecutive years",
+  "lms_indicators": "number of hits on the platform; hits on course materials; forum participation; profile-photo upload; regularity of weekly use (coefficient of variation)",
+  "outcome_or_construct": "autonomous, controlled and e-learning motivation indexes (modified Academic Motivation Scale); final grades",
+  "effect_sizes": [
+   {
+    "statistic": "p (t-test)",
+    "value": "0.02",
+    "between": "profile-photo uploaded (yes/no) ↔ autonomous motivation index (means 3.79 vs 3.43)",
+    "quote": "Table VI: p value 0.02 0.46 0.005",
+    "location": "Table VI, p. 467 (read from rendered page image; table not in text layer)"
+   },
+   {
+    "statistic": "p (t-test)",
+    "value": "0.005",
+    "between": "profile-photo uploaded ↔ e-learning motivation index (means 3.31 vs 2.70)",
+    "quote": "Table VI: p value 0.02 0.46 0.005",
+    "location": "Table VI, p. 467 (read from rendered page image; table not in text layer)"
+   },
+   {
+    "statistic": "p (t-test)",
+    "value": "0.46",
+    "between": "profile-photo uploaded ↔ controlled motivation index (3.00 vs 3.02)",
+    "quote": "Table VI: p value 0.02 0.46 0.005",
+    "location": "Table VI, p. 467 (read from rendered page image; table not in text layer)"
+   }
+  ],
+  "notes": "Tables V, VII, VIII give only group means of motivation by hits band, forum-use band and time-pattern regularity (e.g. e-learning motivation 2.32 for <150 hits vs 4.19 for >450). ANOVA for regularity reported as significant without a statistic or p. Grade-motivation t-test p values are equation images missing from text. No correlation coefficients. Table I ANOVA compares grades and hits across the three course offerings, not hits against grades."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-12"
+}

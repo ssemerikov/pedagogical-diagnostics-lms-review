@@ -1,0 +1,25 @@
+{"id": "2-s2.0-85123040350", "verdict": "exclude", "code": "NONEMP", "reason": "Conference proceedings front matter", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85064206310", "verdict": "exclude", "code": "OFF", "reason": "Hyperspectral imaging", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85099574840", "verdict": "maybe", "code": "I1", "reason": "Jigsaw experiment with university students during pandemic; indicators unclear", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-105016217536", "verdict": "exclude", "code": "OFF", "reason": "Cardiac signal filtering", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85213281504", "verdict": "maybe", "code": "I1", "reason": "SPOC plus flipped classroom for nuclear medicine residents; population and indicators unclear", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85204437107", "verdict": "maybe", "code": "I1", "reason": "H5P interactive videos and student performance in differential equations; engagement data possible", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85124878284", "verdict": "exclude", "code": "NONEMP", "reason": "Systematic literature review of environmental education programs", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-65449186309", "verdict": "exclude", "code": "OFF", "reason": "Infrared image correction", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85170687277", "verdict": "exclude", "code": "E6", "reason": "Russian-language article; also teachers and parents", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-84975046652", "verdict": "exclude", "code": "NOIND", "reason": "Motives for choosing distance programmes, survey with demographics only", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85061305268", "verdict": "maybe", "code": "I3", "reason": "Eye movement, time pressure and learning performance; population and learning-activity indicators unclear", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85091524546", "verdict": "exclude", "code": "OFF", "reason": "Radio detection physics", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-84880038590", "verdict": "exclude", "code": "OFF", "reason": "Mussel toxicology", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85020237867", "verdict": "exclude", "code": "OFF", "reason": "Mussel cytotoxicity (LMS = lysosomal stability)", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85182913095", "verdict": "exclude", "code": "NOIND", "reason": "PLS-SEM survey of intention to continue distance learning; no activity data", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85027548752", "verdict": "exclude", "code": "OFF", "reason": "Pump engineering", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-84871403875", "verdict": "exclude", "code": "OFF", "reason": "Active noise control", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85152273053", "verdict": "exclude", "code": "E3", "reason": "Junior high school teachers respondents", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-39349093534", "verdict": "exclude", "code": "OFF", "reason": "Wireless communications", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85034990810", "verdict": "exclude", "code": "NOIND", "reason": "Survey instrument validation for course experience; no activity indicators", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-84884756989", "verdict": "exclude", "code": "OFF", "reason": "Aeroacoustics", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-51349140875", "verdict": "exclude", "code": "OFF", "reason": "Piezoelectric amplifier", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-105000063836", "verdict": "exclude", "code": "OFF", "reason": "Motor control", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85184686323", "verdict": "exclude", "code": "E3", "reason": "Kidney transplant patients online group", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-0030173346", "verdict": "exclude", "code": "OFF", "reason": "Acoustic duct noise control", "screener": "claude-sonnet-5-5 (WP02b first pass)"}

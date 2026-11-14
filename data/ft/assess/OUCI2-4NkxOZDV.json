@@ -1,0 +1,23 @@
+{
+ "id": "OUCI2-4NkxOZDV",
+ "arm": "O2",
+ "doi": "10.11591/ijere.v15i5.39649",
+ "title": "Bringing the flipped classroom to Marxist-Leninist philosophy: evidence from teaching Indian medical students in Vietnam",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "NOREL",
+ "reason": "Quasi-experiment: all six constructs are self-report Likert scales compared by group; LMS logs (87.3% video completion, 1.8 replays) reported only descriptively and never related per student to any outcome or construct.",
+ "extraction": {
+  "country": "Vietnam",
+  "design": "quasi-experimental (EG/CG) with mediation analysis, mixed methods",
+  "n": 420,
+  "n_quote": "Complete sampling was used, and after five incomplete responses were excluded, the analytic sample was N=420, as described in Table 1.",
+  "population": "Indian medical (doctor of medicine) students, 1 university (CTUMP)",
+  "lms_indicators": "LMS video completion rate and replay counts (group-level descriptives only)",
+  "outcome_or_construct": "self-reported DLA, CLB, SRL, CLA, CTA, TLA scales",
+  "effect_sizes": [],
+  "notes": "Group differences d=.96-1.74 are EG vs CG on self-report scales, not indicator-outcome relations. Authors note LMS data 'triangulate' only descriptively. Same authors, cohort size (420; 210/210) and six constructs as OUCI2-lmbPyXBP (IJSSHR, April 2026): possible duplicate reporting of one study; E2 not applied because the reported figures differ."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-13"
+}

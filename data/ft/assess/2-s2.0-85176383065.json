@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-85176383065",
+ "arm": "S",
+ "doi": "10.18178/ijiet.2023.13.11.1983",
+ "title": "Applying a Formative Assessment Model for a Blended Learning Environment to Promote Students’ Engagement and Motivation",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "NOREL",
+ "reason": "Quasi-experimental comparison (propensity-matched) of an online formative-assessment model in Moodle versus a traditional model on end-of-course self-reported motivation and engagement. Only group contrasts of self-report; no platform-recorded indicator is analysed.",
+ "extraction": {
+  "country": "Vietnam (Vietnam National University, Hanoi; author affiliation)",
+  "design": "quasi-experimental, propensity score matching, t-test",
+  "n": 271,
+  "n_quote": "A total of 271 participants were divided into",
+  "population": "university students in blended courses, 1 university (78 per group after matching)",
+  "lms_indicators": "none analysed (Moodle used for formative-assessment activities)",
+  "outcome_or_construct": "self-reported motivation and engagement",
+  "effect_sizes": [],
+  "notes": "Treatment effect sizes 0.56 (motivation) and 0.38 (engagement) are group contrasts. Analysed n = 156 after matching."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-12"
+}

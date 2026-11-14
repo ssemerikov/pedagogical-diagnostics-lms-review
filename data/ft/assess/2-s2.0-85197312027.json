@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-85197312027",
+ "arm": "S",
+ "doi": "10.1371/journal.pone.0305755",
+ "title": "Education in focus: Significant improvements in student learning and satisfaction with ophthalmology teaching delivered using a blended learning approach",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "E4",
+ "reason": "Non-randomised comparison of two cohorts (online flipped classroom vs blended learning) on course-evaluation questionnaire responses and MCQ exam scores. No per-student platform activity indicator is analysed; only group contrasts.",
+ "extraction": {
+  "country": "Ireland (RCSI University of Medicine and Health Sciences; ethics approval and Royal Victoria Eye and Ear Hospital, Dublin)",
+  "design": "non-randomised two-cohort comparison",
+  "n": 87,
+  "n_quote": "Descriptive statistics were used to describe the characteristics of the two groups (OFC (n = 28) vs BL (n = 59))",
+  "population": "4th-year medical students on an ophthalmology attachment, 2 cohorts",
+  "lms_indicators": "none",
+  "outcome_or_construct": "course evaluation questionnaire (satisfaction, self-report); MCQ final exam score",
+  "effect_sizes": [],
+  "notes": "n is the sum of survey respondents 28 + 59; exam scores compared for full cohorts (114 and 257). No evidence of a difference in exam score."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-12"
+}

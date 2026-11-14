@@ -1,0 +1,74 @@
+{
+ "id": "2-s2.0-85041501774",
+ "independent_decision": "include",
+ "independent_code": "I1",
+ "assessor_decision": "include",
+ "assessor_code": null,
+ "agree": true,
+ "code_agree": true,
+ "final_decision": "include",
+ "final_code": null,
+ "reason": "Per-student social-network indicators from Moodle forum posts are correlated with and regressed on final, clinical and MCQ grades (n = 35). Meets I1.",
+ "extraction_check": {
+  "n": "ok",
+  "n_value": 35,
+  "n_quote": "The course included 35 students with one instructor (36",
+  "effect_sizes": [
+   {
+    "value": "Kendall tau-b = 0.32 (in-degree centrality ↔ final grade)",
+    "status": "ok",
+    "quote": "correlated (τb (33) = 0.32, p = 0.01)"
+   },
+   {
+    "value": "Kendall tau-b = 0.45 (eigenvector centrality ↔ final grade)",
+    "status": "ok",
+    "quote": "as well as Eigen centrality (τb (33) = 0.45, p < 0.001);"
+   },
+   {
+    "value": "Kendall tau-b = 0.38 (eigenvector centrality ↔ clinical (OSCE) grade)",
+    "status": "ok",
+    "quote": "clinical grades (τb (33) = 0.38, p < 0.001), and MCQ"
+   },
+   {
+    "value": "Kendall tau-b = 0.37 (eigenvector centrality ↔ MCQ grade)",
+    "status": "ok",
+    "quote": "grades (τb (33) = 0.37, p < 0.001)."
+   },
+   {
+    "value": "Kendall tau-b = 0.46** (betweenness centrality ↔ final grade (also 0.46 with clinical, 0.28 with MCQ))",
+    "status": "ok",
+    "quote": "Betweenness centrality 0.28* 0.02 0.46** 0.00 0.46** 0.00"
+   },
+   {
+    "value": "Kendall tau-b = 0.36 (information centrality ↔ final grade)",
+    "status": "ok",
+    "quote": "Information centrality 0.17 0.14 0.23 0.06 0.36 0.00"
+   },
+   {
+    "value": "adjusted R2 = 41.6% (SNA parameters (automatic linear regression) ↔ final grade)",
+    "status": "ok",
+    "quote": "The adjusted R square (model ... accuracy) was 41.6%."
+   },
+   {
+    "value": "classification accuracy = 85.7% (early SNA indicators + age + previous performance (binary logistic regression) ↔ under-achiever status)",
+    "status": "ok",
+    "quote": "Using BLR, we were able to successfully classify 85.7%"
+   }
+  ],
+  "table2_changes": []
+ },
+ "adjudicator": "claude-fable-5-2 (WP05b)",
+ "adjudicated_on": "2026-11-13",
+ "criteria_met": [
+  "I1"
+ ],
+ "table2_row": {
+  "country": "Saudi Arabia (Qassim University)",
+  "design": "correlational case study (SNA, Kendall tau-b, automatic linear regression, binary logistic regression)",
+  "n": 35,
+  "lms_indicators": "Moodle forum interaction network: in-degree, out-degree, degree, betweenness, closeness, information and eigenvector centrality, eccentricity, clustering",
+  "outcome_or_construct": "final course grade, OSCE (clinical) grade, MCQ grade; under-achiever (lowest third) status",
+  "effect_size": "Kendall tau-b with final grade: in-degree 0.32, eigenvector centrality 0.45, betweenness 0.46; adjusted R2 = 41.6%"
+ },
+ "table2_row_source": "assessor extraction, cells confirmed by adjudicator"
+}

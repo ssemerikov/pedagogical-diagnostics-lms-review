@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-85090193034",
+ "arm": "S",
+ "doi": "10.1007/s10639-020-10318-w",
+ "title": "Effect of learning management system on Student’s performance in educational measurement and evaluation",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "E4",
+ "reason": "Non-equivalent-group quasi-experiment comparing achievement-test scores (ANCOVA) of students taught with Moodle vs a CAI package, plus gender contrasts. No per-student platform indicator or activity product enters any analysis.",
+ "extraction": {
+  "country": "Nigeria (Imo State University)",
+  "design": "non-equivalent group quasi-experiment, ANCOVA",
+  "n": 232,
+  "n_quote": "Nigeria. A sample of 232 students was purposively selected comprising of 109",
+  "population": "undergraduates in an educational measurement and evaluation course, 1 university",
+  "lms_indicators": "none (group membership only)",
+  "outcome_or_construct": "Measurement and Evaluation Achievement Test (KR-20 0.88)",
+  "effect_sizes": [],
+  "notes": "Group membership is not an indicator."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-12"
+}

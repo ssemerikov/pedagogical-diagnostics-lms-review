@@ -1,0 +1,38 @@
+{
+ "id": "2-s2.0-84994219912",
+ "independent_decision": "exclude",
+ "independent_code": "E2",
+ "assessor_decision": "exclude",
+ "assessor_code": "E3",
+ "agree": true,
+ "code_agree": false,
+ "final_decision": "exclude",
+ "final_code": "E2",
+ "reason": "Same study as the included 2-s2.0-84993953291: the same 120 and 100 volunteers and identical tables, e.g. 'We recruited 100 volunteers (35 women and 65 men) aged between 22 and 50 years.' The assessor excluded this report as E3 but included its twin, which is inconsistent. One report is kept; this one is the duplicate (E2 precedes E3).",
+ "extraction_check": {
+  "n": "ok",
+  "n_value": 100,
+  "n_quote": "We recruited 100 volunteers (35 women and 65 men) aged between 22 and 50 years. Most",
+  "effect_sizes": [
+   {
+    "value": "r = -.287* (TNAA vs neuroticism)",
+    "status": "ok",
+    "quote": "TNAA -.059 .128 -.138 .089 -.287*"
+   },
+   {
+    "value": "r = -.210* (ANAA vs extraversion)",
+    "status": "ok",
+    "quote": "ANAA .003 .080 -.210* .163 -.183*"
+   },
+   {
+    "value": "r = .182* (NTAA vs conscientiousness)",
+    "status": "ok",
+    "quote": "NTAA .001 .182* .040 .085 -.211*"
+   }
+  ],
+  "table2_changes": []
+ },
+ "not_blind": "Assessor code seen earlier in the progress file.",
+ "adjudicator": "claude-fable-5-2 (WP05b)",
+ "adjudicated_on": "2026-11-13"
+}

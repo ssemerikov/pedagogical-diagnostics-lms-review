@@ -1,0 +1,21 @@
+{
+ "id": "2-s2.0-85176111611",
+ "independent_decision": "exclude",
+ "independent_code": "NOREL",
+ "assessor_decision": "exclude",
+ "assessor_code": "NOREL",
+ "agree": true,
+ "code_agree": true,
+ "final_decision": "exclude",
+ "final_code": "NOREL",
+ "reason": "Cross-sectional LASSI questionnaire study; learning strategies are self-reported and no LMS indicator is measured.",
+ "extraction_check": {
+  "n": "ok",
+  "n_value": 298,
+  "n_quote": "This cross-sectional study included 298 medical students in preclinical disciplines in the medical curriculum at Mashhad",
+  "effect_sizes": [],
+  "table2_changes": []
+ },
+ "adjudicator": "claude-fable-5-2 (WP05b)",
+ "adjudicated_on": "2026-11-13"
+}

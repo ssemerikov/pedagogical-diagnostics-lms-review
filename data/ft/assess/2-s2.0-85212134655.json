@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-85212134655",
+ "arm": "S",
+ "doi": "10.1371/journal.pone.0311528",
+ "title": "Examining the factors influencing academic performance of medical technology students in e-learning: A questionnaire survey",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "NOREL",
+ "reason": "Questionnaire study (MSLQ motivation, learning approaches, burnout) correlated with academic performance within grade bands among 37 e-learning students. Predictors are self-report; no platform-recorded indicator or activity product is analysed.",
+ "extraction": {
+  "country": "Taiwan (Chang Gung University / Chang Gung Memorial Hospital; author affiliations)",
+  "design": "cross-sectional survey, Kruskal-Wallis and Spearman correlation",
+  "n": 37,
+  "n_quote": "This study conducted a quantitative sur- ... vey on 37 medical technology students.",
+  "population": "medical technology undergraduates in an e-learning course, 1 university",
+  "lms_indicators": "none",
+  "outcome_or_construct": "academic performance (grade); self-reported motivation (MSLQ), learning approaches, burnout",
+  "effect_sizes": [],
+  "notes": "Correlations are self-report ↔ grade within small subgroups (e.g. self-efficacy r = 0.858 in middle-grade group, n = 11); not indicator relations. The abstract gives self-efficacy p = 0.047 while the text gives p = 0.028 for r = -0.502."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-12"
+}

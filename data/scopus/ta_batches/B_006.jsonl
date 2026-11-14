@@ -1,0 +1,25 @@
+{"id": "2-s2.0-105039895129", "verdict": "maybe", "code": "I2", "reason": "Gamified cybersecurity awareness framework tested empirically; population and indicators unclear", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-80053128175", "verdict": "maybe", "code": "I1", "reason": "No abstract; online vs face-to-face oral English course, empirical contrast, indicators unknown", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-105043856843", "verdict": "exclude", "code": "OFF", "reason": "Photonics", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85107328744", "verdict": "maybe", "code": "I1", "reason": "Mobile pre-learning system, achievement and attitude; activity indicators unclear", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-67650724047", "verdict": "exclude", "code": "OFF", "reason": "Laser measurement of pipes", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85216308841", "verdict": "exclude", "code": "E4", "reason": "Veterinary students long-term course outcome comparison; pure achievement comparison", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85031281860", "verdict": "exclude", "code": "OFF", "reason": "Bivalve toxicology", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85040368861", "verdict": "exclude", "code": "OFF", "reason": "Clam physiology", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-84959449460", "verdict": "maybe", "code": "I1", "reason": "Blended learning in medical statistics, effectiveness; web-based indicators possible", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-84874130506", "verdict": "exclude", "code": "OFF", "reason": "Actuator control", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85192179677", "verdict": "exclude", "code": "NOIND", "reason": "Free association linguistic study of students' pandemic perception; no activity indicators", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-76749109940", "verdict": "exclude", "code": "OFF", "reason": "Oncology review", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-84989906565", "verdict": "exclude", "code": "OFF", "reason": "Aerodynamic noise control", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85092047040", "verdict": "exclude", "code": "OFF", "reason": "Mussel nanotoxicology", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-84856755795", "verdict": "exclude", "code": "OFF", "reason": "Laser scanning", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-105025922313", "verdict": "exclude", "code": "OFF", "reason": "Liquid marbles", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85192716149", "verdict": "pass", "code": "I1", "reason": "Gamification and engagement in online discussion forums; posts and replies counted, self-determination theory", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85146599760", "verdict": "maybe", "code": "I1", "reason": "No abstract; online assessment in undergraduate medicine course, book chapter, unclear empirical", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85203842954", "verdict": "maybe", "code": "I1", "reason": "No abstract; factors affecting use of e-learning management system by engineering students", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85108022090", "verdict": "maybe", "code": "I2", "reason": "Blended learning and human factor in digitalised education; abstract partial, empirical unclear", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-105000479046", "verdict": "exclude", "code": "OFF", "reason": "Time series foundation models", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-84878705680", "verdict": "exclude", "code": "OFF", "reason": "LiDAR classification", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85196901557", "verdict": "exclude", "code": "NOIND", "reason": "EEG study of video game social interaction, not LMS or education indicators", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85141279075", "verdict": "exclude", "code": "OFF", "reason": "Laser detection filtering", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85211389083", "verdict": "exclude", "code": "NONEMP", "reason": "Scoping review of feedback technology in clinical training", "screener": "claude-sonnet-5-5 (WP02b first pass)"}

@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-105031927582",
+ "arm": "S",
+ "doi": "10.15391/prrht.2026-11(1).03",
+ "title": "«Why do I have to continue?»: The problem of motor learning for students with disabilities in an electronic format",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "E4",
+ "reason": "Quasi-experiment with four groups comparing changes in motor-test results and VO2max plus self-reported motivation, engagement and load; no platform-recorded measure of e-learning activity enters any analysis.",
+ "extraction": {
+  "country": "Ukraine",
+  "design": "quasi-experimental, 2 intervention + 2 control groups, 12 weeks + 6-week follow-up",
+  "n": 78,
+  "n_quote": "participants who successfully completed the training was 78 (without sex stratification) aged",
+  "population": "students training as sports coaches, incl. students with hearing or musculoskeletal disabilities",
+  "lms_indicators": "none",
+  "outcome_or_construct": "intrinsic/extrinsic motivation, engagement (questionnaires), RPE, motor tests, VO2max",
+  "effect_sizes": [],
+  "notes": "Secondary NOREL (self-report constructs). Country from author affiliations (Kharkiv, Ukraine)."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-13"
+}

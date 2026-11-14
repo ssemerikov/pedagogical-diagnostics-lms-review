@@ -1,0 +1,21 @@
+{
+ "id": "OUCI2-4grma5WW",
+ "independent_decision": "exclude",
+ "independent_code": "E6",
+ "assessor_decision": "exclude",
+ "assessor_code": "E6",
+ "agree": true,
+ "code_agree": true,
+ "final_decision": "exclude",
+ "final_code": "E6",
+ "reason": "Article body is in Indonesian; only an abstract is in English.",
+ "extraction_check": {
+  "n": "ok",
+  "n_value": 34,
+  "n_quote": "The sample consisted of 34 second-semester students in the D3 Nursing program.",
+  "effect_sizes": [],
+  "table2_changes": []
+ },
+ "adjudicator": "claude-fable-5-2 (WP05b)",
+ "adjudicated_on": "2026-11-13"
+}

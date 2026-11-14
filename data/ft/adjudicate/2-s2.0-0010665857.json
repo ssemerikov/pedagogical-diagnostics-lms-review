@@ -1,0 +1,21 @@
+{
+ "id": "2-s2.0-0010665857",
+ "independent_decision": "exclude",
+ "independent_code": "NOREL",
+ "assessor_decision": "exclude",
+ "assessor_code": "NOREL",
+ "agree": true,
+ "code_agree": true,
+ "final_decision": "exclude",
+ "final_code": "NOREL",
+ "reason": "Expert discussion and a student perception questionnaire on constructivist features; no platform-recorded measure and no relation to success.",
+ "extraction_check": {
+  "n": "ok",
+  "n_value": 642,
+  "n_quote": "Participants were 642 undergraduate students from one university in Australia of",
+  "effect_sizes": [],
+  "table2_changes": []
+ },
+ "adjudicator": "claude-fable-5-2 (WP05b)",
+ "adjudicated_on": "2026-11-13"
+}

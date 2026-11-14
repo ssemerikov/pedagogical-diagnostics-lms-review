@@ -1,0 +1,23 @@
+{
+ "id": "OUCI2-96GjEW00",
+ "arm": "O2",
+ "doi": "10.26565/2074-8922-2026-86-15",
+ "title": "LINGUODIDACTIC POTENTIAL OF CLOSE TESTS IN TEACHING THE COURSE “UKRAINIAN LANGUAGE (FOR PROFESSIONAL PURPOSES)”",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "NONEMP",
+ "reason": "Ukrainian-language methodological article on cloze tests in a professional Ukrainian course, built on literature analysis and example tasks (Moodle mentioned as delivery). No empirical data, participants or indicator-outcome analysis.",
+ "extraction": {
+  "country": "Ukraine (V. N. Karazin Kharkiv National University)",
+  "design": "methodological/theoretical",
+  "n": "nr",
+  "n_quote": null,
+  "population": "nr",
+  "lms_indicators": "none",
+  "outcome_or_construct": "none",
+  "effect_sizes": [],
+  "notes": "English summary: research methods are analysis of psychological, pedagogical and methodological literature, induction/deduction, comparison, generalisation. Language: Ukrainian."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-12"
+}

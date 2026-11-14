@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-105046021044",
+ "arm": "S",
+ "doi": "10.33844/ijol.2025.60491",
+ "title": "Leadership Strategies for Enhancing Student Motivation and Engagement in Self-Directed Study Activities",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "E4",
+ "reason": "Control vs experimental group comparison (29 students) of teacher-scored task performance classified as motivation levels. No LMS indicator; group membership is the only predictor, so no indicator-outcome relation is reported.",
+ "extraction": {
+  "country": "Ukraine (Taras Shevchenko National University of Kyiv)",
+  "design": "experimental/control",
+  "n": 29,
+  "n_quote": "Initially, the experimental sample included 29 students: 15 full-time 5th-year students majoring in Computer Mechanics and 14 part-time 6th-year students.",
+  "population": "5th/6th-year mechanics students (full- and part-time), 1 university",
+  "lms_indicators": "none",
+  "outcome_or_construct": "motivation/competence levels from teacher-scored tasks (five-point criteria)",
+  "effect_sizes": [],
+  "notes": "Secondary: E1. The Mann-Whitney computation is not actually shown: 'Let's assume that R1 and R2 are calculated after ranking the samples, and the value Ue = 477.6 is obtained'."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-12"
+}

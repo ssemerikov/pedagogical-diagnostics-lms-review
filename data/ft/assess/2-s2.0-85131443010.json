@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-85131443010",
+ "arm": "S",
+ "doi": "10.18848/2327-7955/cgp/v29i02/21-37",
+ "title": "The Role of Attitude toward Foreign Language Learning in Emerging Learning Contexts in Higher Education",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "E3",
+ "reason": "Sample is 627 learners aged 14-73 at Spanish Official Schools of Languages (Escuelas Oficiales de Idiomas), not a higher- or vocational-education programme. Secondarily, attitudes are self-reported and compared by modality, gender and age; no platform measure.",
+ "extraction": {
+  "country": "Spain",
+  "design": "cross-sectional survey, comparison by learning modality",
+  "n": 627,
+  "n_quote": "The sample is made up of 627 foreign language students with an average age of 40.15 years.",
+  "population": "foreign-language learners at Official Schools of Languages (Galicia, Andalusia, Aragon), face-to-face/blended/distance",
+  "lms_indicators": "none",
+  "outcome_or_construct": "attitudes toward language learning (motivation, interest, self-efficacy, effort)",
+  "effect_sizes": [],
+  "notes": "Secondary NOREL (self-report only). Age correlations (e.g. r = -.262) are demographic, not platform indicators."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-13"
+}

@@ -1,0 +1,82 @@
+{
+ "id": "2-s2.0-85041501774",
+ "arm": "S",
+ "doi": "10.1186/s12909-018-1126-1",
+ "title": "How the study of online collaborative learning can guide teachers and predict students' performance in a medical course",
+ "decision": "include",
+ "criteria_met": [
+  "I1"
+ ],
+ "exclusion_code": null,
+ "reason": "Moodle forum interaction data (1251 posts) converted to per-student social-network indicators, correlated with and regressed on final, clinical and MCQ grades. Meets I1; reliability judgeable from extraction procedure and permutation tests.",
+ "extraction": {
+  "country": "Saudi Arabia (Qassim University)",
+  "design": "correlational case study (SNA, Kendall tau-b, automatic linear regression, binary logistic regression)",
+  "n": 35,
+  "n_quote": "The course included 35 students with one instructor (36",
+  "population": "medical students in a blended surgery course, 1 university",
+  "lms_indicators": "Moodle forum interaction network: in-degree, out-degree, degree, betweenness, closeness, information and eigenvector centrality, eccentricity, clustering",
+  "outcome_or_construct": "final course grade, OSCE (clinical) grade, MCQ grade; under-achiever (lowest third) status",
+  "effect_sizes": [
+   {
+    "statistic": "Kendall tau-b",
+    "value": "0.32",
+    "between": "in-degree centrality ↔ final grade",
+    "quote": "correlated (τb (33) = 0.32, p = 0.01)",
+    "location": "Results, RQ2, p. 9"
+   },
+   {
+    "statistic": "Kendall tau-b",
+    "value": "0.45",
+    "between": "eigenvector centrality ↔ final grade",
+    "quote": "as well as Eigen centrality (τb (33) = 0.45, p < 0.001);",
+    "location": "Results, RQ2, p. 9"
+   },
+   {
+    "statistic": "Kendall tau-b",
+    "value": "0.38",
+    "between": "eigenvector centrality ↔ clinical (OSCE) grade",
+    "quote": "clinical grades (τb (33) = 0.38, p < 0.001), and MCQ",
+    "location": "Results, RQ2, p. 9"
+   },
+   {
+    "statistic": "Kendall tau-b",
+    "value": "0.37",
+    "between": "eigenvector centrality ↔ MCQ grade",
+    "quote": "grades (τb (33) = 0.37, p < 0.001).",
+    "location": "Results, RQ2, p. 9"
+   },
+   {
+    "statistic": "Kendall tau-b",
+    "value": "0.46**",
+    "between": "betweenness centrality ↔ final grade (also 0.46 with clinical, 0.28 with MCQ)",
+    "quote": "Betweenness centrality 0.28* 0.02 0.46** 0.00 0.46** 0.00",
+    "location": "Table 2, p. 9"
+   },
+   {
+    "statistic": "Kendall tau-b",
+    "value": "0.36",
+    "between": "information centrality ↔ final grade",
+    "quote": "Information centrality 0.17 0.14 0.23 0.06 0.36 0.00",
+    "location": "Table 2, p. 9 (** marker on final-grade cell per PDF)"
+   },
+   {
+    "statistic": "adjusted R2",
+    "value": "41.6%",
+    "between": "SNA parameters (automatic linear regression) ↔ final grade",
+    "quote": "The adjusted R square (model ... accuracy) was 41.6%.",
+    "location": "Results, RQ3, p. 9"
+   },
+   {
+    "statistic": "classification accuracy",
+    "value": "85.7%",
+    "between": "early SNA indicators + age + previous performance (binary logistic regression) ↔ under-achiever status",
+    "quote": "Using BLR, we were able to successfully classify 85.7%",
+    "location": "Results, p. 10"
+   }
+  ],
+  "notes": "Quantity of participation (out-degree, degree) did not correlate significantly with grade; role-in-relay and connectedness measures did. Table 2 cells verified against the PDF page image. Previous-course grade correlates more strongly (tau-b 0.52 with MCQ). Midterm ALM accuracy 71.6%."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-12"
+}

@@ -1,0 +1,21 @@
+{
+ "id": "2-s2.0-85219175825",
+ "independent_decision": "exclude",
+ "independent_code": "NOREL",
+ "assessor_decision": "exclude",
+ "assessor_code": "NOREL",
+ "agree": true,
+ "code_agree": true,
+ "final_decision": "exclude",
+ "final_code": "NOREL",
+ "reason": "Questionnaire survey of 267 students; the duration of online learning and engagement are both self-reported.",
+ "extraction_check": {
+  "n": "ok",
+  "n_value": 267,
+  "n_quote": "we employed a simple stratified random sampling method and selected 267 students as the research sample.",
+  "effect_sizes": [],
+  "table2_changes": []
+ },
+ "adjudicator": "claude-fable-5-2 (WP05b)",
+ "adjudicated_on": "2026-11-13"
+}

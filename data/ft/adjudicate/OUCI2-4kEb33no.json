@@ -1,0 +1,47 @@
+{
+ "id": "OUCI2-4kEb33no",
+ "independent_decision": "include",
+ "independent_code": "I1,I3",
+ "assessor_decision": "include",
+ "assessor_code": null,
+ "agree": true,
+ "code_agree": true,
+ "final_decision": "include",
+ "final_code": null,
+ "reason": "Ukrainian-language blended-learning experiment. Moodle traces (self-initiated practice-test attempts) and regularity of reflective-journal entries are correlated with speaking fluency (rho = 0.68) and the final case grade (rho = 0.54). Meets I1 and I3. The sample for the correlations is not stated and fluency scoring is not described.",
+ "extraction_check": {
+  "n": "ok",
+  "n_value": 120,
+  "n_quote": "experiment (n=120: control group n=58, experimental group n=62), questionnaires based on",
+  "effect_sizes": [
+   {
+    "value": "Spearman rho = 0.68 (number of self-initiated practice-quiz iterations (Moodle) ↔ speaking fluency in synchronous classes)",
+    "status": "ok",
+    "quote": "лексико-граматичних тестах і вільністю мовлення на синхронних заняттях (𝜌 = ... 0,68;𝑝 < 0,01);",
+    "note": "decimal comma in the source (0,68; 0,54); checked by hand"
+   },
+   {
+    "value": "Spearman rho = 0.54 (regularity of reflective-journal entries ↔ final communicative case score)",
+    "status": "ok",
+    "quote": "(Learning Logs) та оцінкою за підсумковии комунікативнии кеис (𝜌 = 0,54;𝑝 < 0,01).",
+    "note": "decimal comma in the source (0,68; 0,54); checked by hand"
+   }
+  ],
+  "table2_changes": []
+ },
+ "adjudicator": "claude-fable-5-2 (WP05b)",
+ "adjudicated_on": "2026-11-13",
+ "criteria_met": [
+  "I1",
+  "I3"
+ ],
+ "table2_row": {
+  "country": "Ukraine (Igor Sikorsky Kyiv Polytechnic Institute)",
+  "design": "quasi-experimental EG/CG plus correlational (Spearman), mixed methods",
+  "n": "120 (58 control, 62 experimental); n for the correlations not stated",
+  "lms_indicators": "Moodle logs: number of self-initiated attempts on practice lexico-grammar quizzes; regularity of reflective journal (Learning Logs) entries",
+  "outcome_or_construct": "speaking fluency in synchronous classes; final communicative case score; also motivation/autonomy (group contrasts only)",
+  "effect_size": "Spearman rho = 0.68 (practice-test attempts vs speaking fluency); rho = 0.54 (journal regularity vs final case grade)"
+ },
+ "table2_row_source": "assessor extraction, cells confirmed by adjudicator"
+}

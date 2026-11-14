@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-0742268518",
+ "arm": "S",
+ "doi": "10.1016/j.compedu.2003.08.004",
+ "title": "The relationship of learning traits, motivation and performance-learning response dynamics",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "NOREL",
+ "reason": "Fits a 'learning response dynamics' curve to aggregate chapter reading time from distance-course logs. The only outcome check compares model-predicted with post-test class-average ability (two values, no statistic); no per-student indicator is analysed.",
+ "extraction": {
+  "country": "Taiwan (National Central University)",
+  "design": "model development with non-linear curve fitting of log data",
+  "n": "nr",
+  "n_quote": null,
+  "population": "web-based distance-class learners over two years (number not stated)",
+  "lms_indicators": "daily reading time per chapter, login counts from asynchronous learning server logs",
+  "outcome_or_construct": "model-derived learning speed/energy; class-average post-test ability",
+  "effect_sizes": [],
+  "notes": "Section 8.1: predicted average post-learning ability 0.6978 vs post-test 0.6981 (all learners, Chapter 6); 0.7963 vs 0.794791 (leading group, 19 learners). Group-average agreement only, so NOREL under the per-student include rule; adjudicator may reconsider."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-12"
+}

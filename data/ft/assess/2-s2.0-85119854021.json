@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-85119854021",
+ "arm": "S",
+ "doi": "10.3390/educsci11110722",
+ "title": "The impact of isolation measures during covid-19 pandemic on russian students’ motivation for learning",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "NOREL",
+ "reason": "Questionnaire and testing study of learning motivation (motives, difficulties, attitudes to distance learning) among 107 undergraduates during lockdown on Microsoft Teams. All data are self-report; no platform-recorded indicator or activity product is analysed.",
+ "extraction": {
+  "country": "Russia (Kazan Federal University)",
+  "design": "questionnaire/psychological testing study",
+  "n": 107,
+  "n_quote": "processing methods. In total, 107 undergraduates took part in the study. The difficulties and benefits",
+  "population": "2nd- and 3rd-year bachelor's students, 1 university",
+  "lms_indicators": "none",
+  "outcome_or_construct": "learning motivation and motives (self-report instruments)",
+  "effect_sizes": [],
+  "notes": "Published in English (Education Sciences)."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-13"
+}

@@ -1,0 +1,6 @@
+{"id": "2-s2.0-85038107304", "verdict": "exclude", "code": "OFF", "reason": "Milling chatter; no abstract.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-105022213016", "verdict": "exclude", "code": "OFF", "reason": "Asphalt rheology; no abstract.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-84866052883", "verdict": "exclude", "code": "NOIND", "reason": "Survey PLS model of interaction and satisfaction; no activity indicators.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85198354551", "verdict": "maybe", "code": "I2", "reason": "Tronclass platform with team-based learning, self-directed learning and performance in nursing students; platform data unclear.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85176111611", "verdict": "pass", "code": "I2", "reason": "Medical students' learning and study strategies (LASSI) related to academic performance in virtual education.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-84961176378", "verdict": "maybe", "code": "I1", "reason": "No abstract; record-tracing LMS for online tutoring; empirical content unclear.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}

@@ -1,0 +1,25 @@
+{"id": "2-s2.0-79957445089", "verdict": "maybe", "code": "I2", "reason": "No abstract; readiness factors and e-learning outcomes; empirical, indicators unclear.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85041501774", "verdict": "pass", "code": "I1", "reason": "Social network analysis of online collaborative discussions in medical course; activities correlated with student performance.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85158005409", "verdict": "exclude", "code": "OFF", "reason": "Diffusion adaptive algorithms.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-105009306809", "verdict": "exclude", "code": "OFF", "reason": "Solar EV charging control algorithms.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85188097361", "verdict": "exclude", "code": "E3", "reason": "Children with learning disorder in occupational therapy.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85160244361", "verdict": "exclude", "code": "NOIND", "reason": "DEMATEL analysis of barriers to distance learning; no activity indicators.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-12444339058", "verdict": "exclude", "code": "OFF", "reason": "Tumour xenograft imaging.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85101097999", "verdict": "pass", "code": "I2", "reason": "LMS-delivered cognitive and motivational modules in undergraduate biology; study behaviour, motivation and grades.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-105022660484", "verdict": "maybe", "code": "I1", "reason": "Anatomy video lecture RCT; learning, motivation, cognitive load; activity data unclear.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85106944380", "verdict": "exclude", "code": "OFF", "reason": "Vibration analysis engineering.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-0034857825", "verdict": "exclude", "code": "OFF", "reason": "DSP echo cancelling.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85202586225", "verdict": "exclude", "code": "NOIND", "reason": "Survey SEM of online interaction and engagement among international students; no log or activity data.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-27944472298", "verdict": "exclude", "code": "OFF", "reason": "Nonstationary LMS algorithm; no abstract.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-105024227070", "verdict": "exclude", "code": "OFF", "reason": "Motor control engineering.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-105055138902", "verdict": "maybe", "code": "I2", "reason": "No abstract; book chapter on AI adaptive learning, engagement and motivation in higher education; empirical content unknown.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85201152356", "verdict": "exclude", "code": "E4", "reason": "Compares computer science student performance across pandemic years; grade comparison, no activity indicator.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-105007774494", "verdict": "pass", "code": "I2", "reason": "Predicts LMS academic performance from personality type, study habits and digital resources.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-0035197642", "verdict": "exclude", "code": "NONEMP", "reason": "Design of pedagogical agent for virtual lab; system description.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85112397778", "verdict": "exclude", "code": "NOIND", "reason": "Perception survey on LMS and video conferencing acceptance; no activity indicators.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85117921314", "verdict": "maybe", "code": "I2", "reason": "Emotional resilience in emergency online learning and online course characteristics; method unclear.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-50449103456", "verdict": "exclude", "code": "OFF", "reason": "Active vibration control algorithm.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-84862808809", "verdict": "exclude", "code": "OFF", "reason": "Sarcoma biomarker.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85110752580", "verdict": "exclude", "code": "NOIND", "reason": "Phenomenological study of deaf students' linguistic access; qualitative, no indicators.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85081100952", "verdict": "exclude", "code": "OFF", "reason": "Power system eigen-analysis.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-84895184958", "verdict": "exclude", "code": "OFF", "reason": "Engineering conference proceedings front matter.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}

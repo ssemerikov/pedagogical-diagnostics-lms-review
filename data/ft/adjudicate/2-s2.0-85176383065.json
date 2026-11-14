@@ -1,0 +1,21 @@
+{
+ "id": "2-s2.0-85176383065",
+ "independent_decision": "exclude",
+ "independent_code": "NOREL",
+ "assessor_decision": "exclude",
+ "assessor_code": "NOREL",
+ "agree": true,
+ "code_agree": true,
+ "final_decision": "exclude",
+ "final_code": "NOREL",
+ "reason": "Quasi-experiment whose outcomes are survey measures of engagement and motivation; no per-student platform indicator is analysed.",
+ "extraction_check": {
+  "n": "ok",
+  "n_value": 271,
+  "n_quote": "A total of 271 participants were divided into",
+  "effect_sizes": [],
+  "table2_changes": []
+ },
+ "adjudicator": "claude-fable-5-2 (WP05b)",
+ "adjudicated_on": "2026-11-13"
+}

@@ -1,0 +1,21 @@
+{
+ "id": "2-s2.0-85147275738",
+ "independent_decision": "exclude",
+ "independent_code": "E3",
+ "assessor_decision": "exclude",
+ "assessor_code": "E3",
+ "agree": true,
+ "code_agree": true,
+ "final_decision": "exclude",
+ "final_code": "E3",
+ "reason": "One-group pre/post study of a self-report self-regulation scale carried out with secondary-school students.",
+ "extraction_check": {
+  "n": "ok",
+  "n_value": 17,
+  "n_quote": "A non- purposing sample was utilized to select 17 participants out of the population of 8th-grade students in government sec- ondary schools in Saudi Arabia in 2019.",
+  "effect_sizes": [],
+  "table2_changes": []
+ },
+ "adjudicator": "claude-fable-5-2 (WP05b)",
+ "adjudicated_on": "2026-11-13"
+}

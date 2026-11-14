@@ -1,0 +1,21 @@
+{
+ "id": "2-s2.0-85198354551",
+ "independent_decision": "exclude",
+ "independent_code": "E4",
+ "assessor_decision": "exclude",
+ "assessor_code": "E4",
+ "agree": true,
+ "code_agree": true,
+ "final_decision": "exclude",
+ "final_code": "E4",
+ "reason": "One-group pretest-posttest on a self-directed-learning scale and academic performance; no platform-recorded indicator is analysed.",
+ "extraction_check": {
+  "n": "ok",
+  "n_value": 68,
+  "n_quote": "One out of 69 Participants dropped out of the program, and data from the rest 68 were collected.",
+  "effect_sizes": [],
+  "table2_changes": []
+ },
+ "adjudicator": "claude-fable-5-2 (WP05b)",
+ "adjudicated_on": "2026-11-13"
+}

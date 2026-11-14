@@ -1,0 +1,23 @@
+{
+ "id": "OUCI2-7qEdQXDK",
+ "arm": "O2",
+ "doi": "10.61132/neptunus.v4i1.1507",
+ "title": "Pengaruh Media Pembelajaran Berbasis IT terhadap Peningkatan Prestasi Akademik",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "E6",
+ "reason": "Full text is in Indonesian (English abstract only). Publication language is neither English nor Ukrainian. Content: experimental vs control class comparison of achievement with IT-based media.",
+ "extraction": {
+  "country": "Indonesia",
+  "design": "experimental vs control class comparison (per text)",
+  "n": "nr",
+  "n_quote": null,
+  "population": "'siswa' (pupils/students), not checked further",
+  "lms_indicators": "none evident",
+  "outcome_or_construct": "academic achievement",
+  "effect_sizes": [],
+  "notes": "Body sampled: Indonesian throughout."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-12"
+}

@@ -1,0 +1,25 @@
+{"id": "2-s2.0-80051892047", "audit": "uphold", "new_verdict": "exclude", "code": "OFF", "reason": "Fish toxicology; title clearly off-domain.", "auditor": "claude-opus-5-5 (WP02b audit)"}
+{"id": "2-s2.0-84555188918", "audit": "uphold", "new_verdict": "exclude", "code": "OFF", "reason": "Mouse model of lymphatic malformations; LMs is medical.", "auditor": "claude-opus-5-5 (WP02b audit)"}
+{"id": "2-s2.0-84856755795", "audit": "uphold", "new_verdict": "exclude", "code": "OFF", "reason": "Terrestrial laser scanning; title clearly off-domain.", "auditor": "claude-opus-5-5 (WP02b audit)"}
+{"id": "2-s2.0-84866052883", "audit": "uphold", "new_verdict": "exclude", "code": "NOIND", "reason": "Survey-only PLS model; learning styles and interaction self-reported, no platform data.", "auditor": "claude-opus-5-5 (WP02b audit)"}
+{"id": "2-s2.0-84870333138", "audit": "uphold", "new_verdict": "exclude", "code": "E3", "reason": "Corporate training of insurance employees, not HE/VET students.", "auditor": "claude-opus-5-5 (WP02b audit)"}
+{"id": "2-s2.0-84871403875", "audit": "uphold", "new_verdict": "exclude", "code": "OFF", "reason": "Active noise control with LMS step size.", "auditor": "claude-opus-5-5 (WP02b audit)"}
+{"id": "2-s2.0-84871787580", "audit": "uphold", "new_verdict": "exclude", "code": "OFF", "reason": "Agricultural laser plant-height sensing.", "auditor": "claude-opus-5-5 (WP02b audit)"}
+{"id": "2-s2.0-84873912185", "audit": "uphold", "new_verdict": "exclude", "code": "E2", "reason": "Conference proceedings front matter (Conference Review).", "auditor": "claude-opus-5-5 (WP02b audit)"}
+{"id": "2-s2.0-84874808704", "audit": "uphold", "new_verdict": "exclude", "code": "OFF", "reason": "LMS demodulation for gyroscope; title clearly off-domain.", "auditor": "claude-opus-5-5 (WP02b audit)"}
+{"id": "2-s2.0-84878199671", "audit": "uphold", "new_verdict": "exclude", "code": "NONEMP", "reason": "Systematic review of RCTs on web-based nursing education; outcomes not LMS indicators.", "auditor": "claude-opus-5-5 (WP02b audit)"}
+{"id": "2-s2.0-84883022219", "audit": "uphold", "new_verdict": "exclude", "code": "E2", "reason": "Conference proceedings front matter (Conference Review).", "auditor": "claude-opus-5-5 (WP02b audit)"}
+{"id": "2-s2.0-84891060098", "audit": "uphold", "new_verdict": "exclude", "code": "E2", "reason": "Conference proceedings front matter (Conference Review).", "auditor": "claude-opus-5-5 (WP02b audit)"}
+{"id": "2-s2.0-84891117502", "audit": "uphold", "new_verdict": "exclude", "code": "E2", "reason": "Conference proceedings front matter (Conference Review).", "auditor": "claude-opus-5-5 (WP02b audit)"}
+{"id": "2-s2.0-84897750675", "audit": "uphold", "new_verdict": "exclude", "code": "E2", "reason": "Conference proceedings front matter (Conference Review).", "auditor": "claude-opus-5-5 (WP02b audit)"}
+{"id": "2-s2.0-84908388172", "audit": "overturn", "new_verdict": "maybe", "code": "I1", "reason": "Null abstract; initial teacher training students are HE, so title is not clearly E3. Handheld-PC use could yield activity data.", "auditor": "claude-opus-5-5 (WP02b audit)"}
+{"id": "2-s2.0-84911870960", "audit": "uphold", "new_verdict": "exclude", "code": "NOIND", "reason": "Questionnaire on motives for choosing distance study; no activity or log data.", "auditor": "claude-opus-5-5 (WP02b audit)"}
+{"id": "2-s2.0-84938679926", "audit": "uphold", "new_verdict": "exclude", "code": "OFF", "reason": "SpO2 sensor validation; not education.", "auditor": "claude-opus-5-5 (WP02b audit)"}
+{"id": "2-s2.0-84944463586", "audit": "uphold", "new_verdict": "exclude", "code": "E3", "reason": "Survey of IT faculty members on LMS acceptance; no students.", "auditor": "claude-opus-5-5 (WP02b audit)"}
+{"id": "2-s2.0-84949895688", "audit": "uphold", "new_verdict": "exclude", "code": "OFF", "reason": "LiDAR sensor compensation.", "auditor": "claude-opus-5-5 (WP02b audit)"}
+{"id": "2-s2.0-84975046652", "audit": "uphold", "new_verdict": "exclude", "code": "NOIND", "reason": "Questionnaire on motives and demographics; no platform or activity data.", "auditor": "claude-opus-5-5 (WP02b audit)"}
+{"id": "2-s2.0-84981709145", "audit": "uphold", "new_verdict": "exclude", "code": "NONEMP", "reason": "Overview of health-workforce education strategies; no empirical data.", "auditor": "claude-opus-5-5 (WP02b audit)"}
+{"id": "2-s2.0-84988919942", "audit": "uphold", "new_verdict": "exclude", "code": "OFF", "reason": "Normalized sign LMS filter algorithm.", "auditor": "claude-opus-5-5 (WP02b audit)"}
+{"id": "2-s2.0-84996921171", "audit": "uphold", "new_verdict": "exclude", "code": "OFF", "reason": "Pharmaceutical lipid microspheres.", "auditor": "claude-opus-5-5 (WP02b audit)"}
+{"id": "2-s2.0-85009677236", "audit": "uphold", "new_verdict": "exclude", "code": "NONEMP", "reason": "Descriptive chapter on ICT in Polish education; no data.", "auditor": "claude-opus-5-5 (WP02b audit)"}
+{"id": "2-s2.0-85012278039", "audit": "uphold", "new_verdict": "exclude", "code": "OFF", "reason": "Marine ecotoxicology monitoring.", "auditor": "claude-opus-5-5 (WP02b audit)"}

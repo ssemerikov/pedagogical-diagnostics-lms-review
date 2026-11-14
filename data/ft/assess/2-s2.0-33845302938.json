@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-33845302938",
+ "arm": "S",
+ "doi": "10.1109/ithet.2005.1560288",
+ "title": "Full scale experiences with didactic changes in distance education in master of industrial information technology (MII)",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "NOREL",
+ "reason": "Descriptive experience report on didactic changes in a distance master's programme: questionnaire feedback and plotted group mail/internet activity per period, never related per student to success or a construct; no statistics.",
+ "extraction": {
+  "country": "Denmark",
+  "design": "case study / programme evaluation",
+  "n": "nr",
+  "n_quote": null,
+  "population": "part-time distance master's students in industrial IT, Aalborg University",
+  "lms_indicators": "student and supervisor e-mail counts per group and period (descriptive)",
+  "outcome_or_construct": "none analysed (student questionnaire opinions)",
+  "effect_sizes": [],
+  "notes": "Secondary E1: no sample size or statistical analysis reported."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-13"
+}

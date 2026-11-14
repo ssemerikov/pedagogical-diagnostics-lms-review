@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-85061305268",
+ "independent_decision": "exclude",
+ "independent_code": "NOREL",
+ "assessor_decision": "exclude",
+ "assessor_code": "NOREL",
+ "agree": true,
+ "code_agree": true,
+ "final_decision": "exclude",
+ "final_code": "E4",
+ "reason": "Within-subject laboratory experiment comparing task time and correct answers across four conditions, with eye-tracking as mediator; eye-tracking is not a platform measure. Assessor and I both coded NOREL at first; under Rule I (achievement compared, no platform measure) the consistent code is E4.",
+ "extraction_check": {
+  "n": "ok",
+  "n_value": 24,
+  "n_quote": "Twenty-four undergraduate and graduate students [10 females and",
+  "n_note": "number given in words or split by OCR; value confirmed by adjudicator",
+  "effect_sizes": [],
+  "table2_changes": []
+ },
+ "adjudicator": "claude-fable-5-2 (WP05b)",
+ "adjudicated_on": "2026-11-13",
+ "rule_I_recode": "NOREL to E4 in the consistency sweep of 2026-11-13 (rule_notes section 11)."
+}

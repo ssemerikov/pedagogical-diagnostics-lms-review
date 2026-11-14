@@ -1,0 +1,22 @@
+{
+ "id": "2-s2.0-105043924681",
+ "independent_decision": "exclude",
+ "independent_code": "E4",
+ "assessor_decision": "exclude",
+ "assessor_code": "NOREL",
+ "agree": true,
+ "code_agree": false,
+ "final_decision": "exclude",
+ "final_code": "NOREL",
+ "reason": "Two-class quasi-experiment on a creative-thinking test and questionnaires. Blind I coded E4; an LMS engagement metric is plotted against creative scores but no statistic is reported, which is the recorded-but-never-related case, so the assessor's NOREL stands.",
+ "extraction_check": {
+  "n": "ok",
+  "n_value": 64,
+  "n_quote": "consisted of 32 students (class 02) who were",
+  "effect_sizes": [],
+  "table2_changes": [],
+  "n_note": "64 = 32 + 32, experimental and control classes"
+ },
+ "adjudicator": "claude-fable-5-2 (WP05b)",
+ "adjudicated_on": "2026-11-13"
+}

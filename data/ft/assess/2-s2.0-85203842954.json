@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-85203842954",
+ "arm": "S",
+ "doi": "10.18687/laccei2024.1.1.247",
+ "title": "Factors affecting the use of “Maker Route” E-learning management systems for the development of digital manufacturing skills in higher education-Engineering",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "NOREL",
+ "reason": "Focus groups and Likert surveys on perceived attractiveness, reliability, content quality and purchase intention of the 'Maker Route' e-learning programme; all data self-report, no platform-recorded measure or learning-success outcome.",
+ "extraction": {
+  "country": "Peru",
+  "design": "mixed: focus group + survey (non-experimental)",
+  "n": 220,
+  "n_quote": "design that used a sample of 220 students from the Faculty of",
+  "population": "engineering and health sciences/humanities students, Universidad Continental",
+  "lms_indicators": "none",
+  "outcome_or_construct": "perceived appeal, reliability, quality, purchase intention",
+  "effect_sizes": [],
+  "notes": "LACCEI 2024 conference paper."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-13"
+}

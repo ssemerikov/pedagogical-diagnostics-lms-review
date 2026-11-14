@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-84964595263",
+ "arm": "S",
+ "doi": "10.1016/j.asoc.2016.03.026",
+ "title": "Evaluation of estimation models using the Minimum Interval of Equivalence",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "NOREL",
+ "reason": "Off-domain: software-engineering paper proposing an equivalence-testing measure to compare software effort estimation methods on public project datasets; 'LMS' refers to least median squares regression. No students or learning platform.",
+ "extraction": {
+  "country": "Spain; UK",
+  "design": "methodological / benchmark on software project datasets",
+  "n": "nr",
+  "n_quote": null,
+  "population": "none (software project datasets)",
+  "lms_indicators": "none",
+  "outcome_or_construct": "none",
+  "effect_sizes": [],
+  "notes": "Full text matches the worklist title. No OFF code at full text, so coded NOREL per shard rule."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-13"
+}

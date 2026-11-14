@@ -1,0 +1,23 @@
+{
+ "id": "OUCI2-4grma5WW",
+ "arm": "O2",
+ "doi": "10.47794/jkhws.v13i01.119",
+ "title": "THE EFFECT OF USING A MOODLE-BASED LEARNING MANAGEMENT SYSTEM (LMS) ON MOTIVATION AND LEARNING OUTCOMES OF NURSING STUDENTS",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "E6",
+ "reason": "Article body is in Indonesian (only the second abstract is English). Secondarily, the only relation reported links self-reported MSLQ motivation to an LMS-delivered test score; no platform activity indicator is analysed.",
+ "extraction": {
+  "country": "Indonesia",
+  "design": "one-group pre-test/post-test quasi-experiment",
+  "n": 34,
+  "n_quote": "The sample consisted of 34 second-semester students in the D3 Nursing program.",
+  "population": "D3 nursing students, 1 institute",
+  "lms_indicators": "none per student (test administered in Moodle)",
+  "outcome_or_construct": "MSLQ motivation; LMS-based test score",
+  "effect_sizes": [],
+  "notes": "Secondary code NOREL: R=0.68 (R2=0.46) is MSLQ motivation vs test score, both non-log measures."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-13"
+}

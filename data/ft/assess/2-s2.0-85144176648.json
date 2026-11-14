@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-85144176648",
+ "arm": "S",
+ "doi": "10.1080/0142159x.2022.2151884",
+ "title": "Instructional media selection principles for online medical education and emerging models for the new normal",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "NONEMP",
+ "reason": "Conceptual Medical Teacher article deriving instructional-media selection principles and an algorithmic model from media synchronicity and learning theories. No empirical data, participants or indicator-outcome analysis.",
+ "extraction": {
+  "country": "South Korea / New Zealand (authors' affiliations)",
+  "design": "conceptual / theory-based guidance",
+  "n": "nr",
+  "n_quote": null,
+  "population": "none",
+  "lms_indicators": "none",
+  "outcome_or_construct": "none",
+  "effect_sizes": [],
+  "notes": ""
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-13"
+}

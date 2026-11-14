@@ -1,0 +1,69 @@
+{
+ "id": "2-s2.0-85063288496",
+ "arm": "S",
+ "doi": "10.1177/0735633117753935",
+ "title": "Emotions, Motivation, Cognitive–Metacognitive Strategies, and Behavior as Predictors of Learning Performance in Blended Learning",
+ "decision": "include",
+ "criteria_met": [
+  "I1",
+  "I2"
+ ],
+ "exclusion_code": null,
+ "reason": "Moodle log variables (missing/turned-in activities, partially viewed materials, time spent) are correlated per student with overall grade and with MSLQ motivation and strategy subscales, and enter hierarchical regression on grade.",
+ "extraction": {
+  "country": "Mexico",
+  "design": "correlational (Pearson, hierarchical regression) + data-mining classifiers",
+  "n": 137,
+  "n_quote": "empirical study in a higher educational course with 137 Mexican students.",
+  "population": "undergraduate chemical biology students in a blended applied-computing course, Instituto Politécnico Nacional",
+  "lms_indicators": "number of missing (and turned-in) learning activities, partially and fully viewed SCORM materials, time spent in Moodle",
+  "outcome_or_construct": "overall course grade; MSLQ motivation and cognitive-metacognitive strategy subscales; SEDS engagement/disaffection",
+  "effect_sizes": [
+   {
+    "statistic": "r",
+    "value": "−.523 (p<.01)",
+    "between": "missing learning activities ↔ overall grade",
+    "quote": "19 \u0002.523** .138 .088 \u0002.157 \u0002.382** .536** \u0002.035",
+    "location": "Table 3, row 19 col 1"
+   },
+   {
+    "statistic": "r",
+    "value": ".138 (n.s.); −.035 (n.s.)",
+    "between": "partially viewed materials ↔ overall grade; time spent ↔ overall grade",
+    "quote": "19 \u0002.523** .138 .088 \u0002.157 \u0002.382** .536** \u0002.035",
+    "location": "Table 3, row 19 cols 2 and 7"
+   },
+   {
+    "statistic": "r",
+    "value": "−.448 (p<.01); .195 (p<.05)",
+    "between": "missing learning activities ↔ MSLQ self-efficacy; partially viewed materials ↔ self-efficacy",
+    "quote": "11 \u0002.448** .195* \u0002.125 \u0002.050 \u0002.189* \u0002.388** \u0002.029",
+    "location": "Table 3, row 11"
+   },
+   {
+    "statistic": "r",
+    "value": "−.448 (p<.01); .178 (p<.05)",
+    "between": "missing learning activities ↔ metacognitive self-regulation; partially viewed materials ↔ metacognitive self-regulation",
+    "quote": "14 \u0002.448** .178* \u0002.151 \u0002.056 \u0002.208* \u0002.372** \u0002.050",
+    "location": "Table 3, row 14"
+   },
+   {
+    "statistic": "beta",
+    "value": "−0.523 (p<.01), R2 = .274 (Model 1)",
+    "between": "missing learning activities ↔ overall grade",
+    "quote": "1 Missing learning activities \u00020.198 0.028 \u00020.523** .268 .274",
+    "location": "Table 4"
+   },
+   {
+    "statistic": "beta",
+    "value": "−0.19 (p<.01) in Model 4 with motivation, emotion and strategy predictors, R2 = .693",
+    "between": "missing learning activities ↔ overall grade (adjusted)",
+    "quote": "4 Missing learning activities \u00020.072 0.022 \u00020.19** .679 .693",
+    "location": "Table 4"
+   }
+  ],
+  "notes": "In the text file the minus sign is rendered as control character U+0002; quotes keep it verbatim. Time spent unrelated to grade. Missing activities partly define the grade (authors acknowledge). Spent time row shows implausible max < mean (as printed)."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-13"
+}

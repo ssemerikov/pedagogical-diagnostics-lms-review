@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-85135917828",
+ "arm": "S",
+ "doi": "10.2169/internalmedicine.9291-21",
+ "title": "Educational Approaches That Enhance Online Clinical Clerkship during the COVID-19 Pandemic",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "NOREL",
+ "reason": "National cross-sectional survey of medical students: self-reported exposure to online clerkship approaches (quiz, assignment, etc.) related by mixed models to self-reported satisfaction, motivation and knowledge/skill acquisition. All data self-report; no platform records.",
+ "extraction": {
+  "country": "Japan (78 medical schools)",
+  "design": "cross-sectional survey, linear mixed models",
+  "n": 1671,
+  "n_quote": "Finally, 1,671 responses were used for the analysis of this study.",
+  "population": "5th- and 6th-year medical students, 78 schools",
+  "lms_indicators": "none (self-reported frequency of quizzes, assignment submission, etc.)",
+  "outcome_or_construct": "self-reported satisfaction, motivation, knowledge and skill acquisition, self-study time",
+  "effect_sizes": [],
+  "notes": "Abstract says 1,711 matched inclusion criteria; the text and Table 2 give 1,671 analysed."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-12"
+}

@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-79957445089",
+ "arm": "S",
+ "doi": "10.1016/j.compedu.2011.04.005",
+ "title": "The role of readiness factors in E-learning outcomes: An empirical study",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "E3",
+ "reason": "Respondents are 96 teachers at Tehran high schools (not HE/VET students). Secondarily all variables (e-learning factors, readiness, outcomes) come from one questionnaire; 'LMS' here means latent moderated structuring.",
+ "extraction": {
+  "country": "Iran",
+  "design": "questionnaire survey, hierarchical moderated regression",
+  "n": 96,
+  "n_quote": "A questionnaire was completed by 96 respondents.",
+  "population": "teachers at Tehran high schools using technology-based teaching",
+  "lms_indicators": "none",
+  "outcome_or_construct": "perceived e-learning outcomes",
+  "effect_sizes": [],
+  "notes": "Secondary NOREL (self-report only)."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-13"
+}

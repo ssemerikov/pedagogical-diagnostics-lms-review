@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-105027464841",
+ "arm": "S",
+ "doi": "10.37251/jetlc.v3i2.2446",
+ "title": "Smart Supervision: Leveraging ELISTA to Strengthen Student Motivation and Thesis Completion",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "NOREL",
+ "reason": "Regression of self-reported motivation on Likert-rated perceptions of lecturer interaction in the ELISTA LMS. Activity logs are named as an instrument but never analysed; all quantitative variables are self-report.",
+ "extraction": {
+  "country": "Indonesia (Universitas Jambi)",
+  "design": "mixed methods (survey regression + interviews)",
+  "n": 100,
+  "n_quote": "A total of 100 Physics Education students at Universitas Jambi participated as respondents in this study.",
+  "population": "undergraduate physics education students in thesis supervision, 1 university",
+  "lms_indicators": "none analysed (ELISTA activity logs mentioned only)",
+  "outcome_or_construct": "motivation to complete the final project (self-report)",
+  "effect_sizes": [],
+  "notes": "R² = 0.236; β = 0.341 (clarity) and 0.268 (feedback) are perception-to-motivation paths, not LMS indicators. Inconsistency: ANOVA total df = 162 implies 163 cases, against 100 respondents stated."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-12"
+}

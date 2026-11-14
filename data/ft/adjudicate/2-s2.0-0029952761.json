@@ -1,0 +1,21 @@
+{
+ "id": "2-s2.0-0029952761",
+ "independent_decision": "exclude",
+ "independent_code": "NOREL",
+ "assessor_decision": "exclude",
+ "assessor_code": "E3",
+ "agree": true,
+ "code_agree": false,
+ "final_decision": "exclude",
+ "final_code": "E3",
+ "reason": "Self-report inventories predict grades in a course delivered by interactive television. Blind I coded NOREL; the sample is high-school students, so the assessor's E3 takes precedence.",
+ "extraction_check": {
+  "n": "ok",
+  "n_value": 120,
+  "n_quote": "Of the 120 students enrolled for ASL I in the",
+  "effect_sizes": [],
+  "table2_changes": []
+ },
+ "adjudicator": "claude-fable-5-2 (WP05b)",
+ "adjudicated_on": "2026-11-13"
+}

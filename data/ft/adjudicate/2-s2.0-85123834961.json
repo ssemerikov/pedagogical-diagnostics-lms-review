@@ -1,0 +1,21 @@
+{
+ "id": "2-s2.0-85123834961",
+ "independent_decision": "exclude",
+ "independent_code": "NOREL",
+ "assessor_decision": "exclude",
+ "assessor_code": "NOREL",
+ "agree": true,
+ "code_agree": true,
+ "final_decision": "exclude",
+ "final_code": "NOREL",
+ "reason": "Percentages of interview answers after an online lecture; student reports are not scored or related to any outcome.",
+ "extraction_check": {
+  "n": "ok",
+  "n_value": 185,
+  "n_quote": "views and analysis of student reports. There were 185 students (19–22 years old)",
+  "effect_sizes": [],
+  "table2_changes": []
+ },
+ "adjudicator": "claude-fable-5-2 (WP05b)",
+ "adjudicated_on": "2026-11-13"
+}

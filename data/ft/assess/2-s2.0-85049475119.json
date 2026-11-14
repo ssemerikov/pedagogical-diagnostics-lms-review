@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-85049475119",
+ "arm": "S",
+ "doi": null,
+ "title": "Simulation play patterning as a motivation tool for students",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "NOREL",
+ "reason": "Survey of pharmacy students and residents on career-choice motives and teaching preferences (percentages only), plus a description of a business game; no platform-recorded measure and no relation to learning success.",
+ "extraction": {
+  "country": "Russia",
+  "design": "descriptive questionnaire survey",
+  "n": "nr",
+  "n_quote": null,
+  "population": "3rd-5th year pharmacy students (intramural, mixed, extramural) and residents, Sechenov University",
+  "lms_indicators": "none",
+  "outcome_or_construct": "self-reported career-choice motives",
+  "effect_sizes": [],
+  "notes": "English text; sample size not stated. Secondary E1."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-13"
+}

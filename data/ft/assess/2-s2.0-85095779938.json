@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-85095779938",
+ "arm": "S",
+ "doi": "10.26803/ijlter.19.9.10",
+ "title": "Analysis of the efficiency of china’s distance economic education in force majeure circumstances",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "NOREL",
+ "reason": "Descriptive anonymous survey of 498 economics students about distance-learning platforms, content and effectiveness during COVID-19, reported as response percentages. No platform-recorded indicator; all data self-report.",
+ "extraction": {
+  "country": "China (Jiaxing University)",
+  "design": "cross-sectional survey (descriptive percentages)",
+  "n": 498,
+  "n_quote": "an anonymous survey was conducted with participation of 498 students of the 1st-4th year of study majoring in Business Economics from the Economics Department.",
+  "population": "1st-4th year Business Economics undergraduates, 1 university",
+  "lms_indicators": "none",
+  "outcome_or_construct": "self-reported platform preferences and perceived effectiveness of distance learning",
+  "effect_sizes": [],
+  "notes": "Activity-product analysis is mentioned among methods but no such data are reported."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-12"
+}

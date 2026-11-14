@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-85105821545",
+ "arm": "S",
+ "doi": "10.35699/1983-3652.2021.29177",
+ "title": "Synchronous and asynchronous distance learning of anaphora in foreign languages: An experimental study",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "NOREL",
+ "reason": "Compares synchronous, asynchronous and control groups on anaphora tests. Moodle access is monitored but never analysed; the only correlations relate test scores to proficiency and self-reported motivation (MSLQ), so no LMS indicator or activity-product indicator enters an analysis.",
+ "extraction": {
+  "country": "Brazil (Federal University of Rio Grande do Sul)",
+  "design": "experimental (2 experimental groups + control), Spearman correlations, Kruskal-Wallis",
+  "n": 45,
+  "n_quote": "a short course was taught in the first semester of 2020 to 45 under- graduate students with a major in English or Spanish at the Federal University of Rio Grande do",
+  "population": "undergraduate Modern Language (English/Spanish) majors, 1 university",
+  "lms_indicators": "Moodle access and forum/exercise participation monitored (asynchronous group) but not analysed",
+  "outcome_or_construct": "anaphora reading/writing test scores; MSLQ task value and self-efficacy (self-report)",
+  "effect_sizes": [],
+  "notes": "Body text is English (Portuguese abstract only), so E6 does not apply. Reported Spearman correlations are pretest score ↔ proficiency/self-reported motivation (e.g. self-efficacy rho = 0.515), i.e. achievement ↔ self-report, not indicator ↔ outcome; the rho symbol is lost in the extracted text."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-12"
+}

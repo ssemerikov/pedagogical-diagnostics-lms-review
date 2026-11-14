@@ -1,0 +1,33 @@
+{
+ "id": "OUCI-004",
+ "arm": "O1-noOA",
+ "doi": "10.32919/uesit.2022.04.03",
+ "title": null,
+ "decision": "exclude",
+ "criteria_met": [
+  "I1"
+ ],
+ "exclusion_code": "E2",
+ "reason": "Same authors, course, data and result as the already-included kolgatin2020systematicity (SHS Web Conf 75, 03009): 54 students, 274 Moodle reports, on-time-submission ratio vs final test, Pearson r = 0.28. A 2022 journal republication, so it adds no independent evidence.",
+ "extraction": {
+  "country": "Ukraine (Simon Kuznets Kharkiv National University of Economics)",
+  "design": "correlational (Pearson r)",
+  "n": 54,
+  "n_quote": "In total, 54 students took part in experiment. 274 reports were analysed.",
+  "population": "second-year computer science and software engineering bachelor students, Operating Systems course, 1 university",
+  "lms_indicators": "share of the 11 Moodle Assignment reports submitted on time (systematicity indicator); submission timestamps by day and hour",
+  "outcome_or_construct": "final written test result (ratio to maximum)",
+  "effect_sizes": [
+   {
+    "statistic": "r",
+    "value": "0.28",
+    "between": "share of reports submitted on time ↔ final test result",
+    "quote": "Pearson correlation ... between these two variables is 0.28.",
+    "location": "Results and discussion, p. 35"
+   }
+  ],
+  "notes": "Meets I1 in substance; excluded only as a repeat of kolgatin2020systematicity (identical sample, figures and wording). The PDF text layer interleaves a running header ('Ukr. J. of Educ. Stud. and Inf. Technol.') inside the sentence; the quote omits it with ' ... '. First author is a co-author of the manuscript under review. arm O1-noOA: full text now held, so E7 (D8) does not apply."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-12"
+}

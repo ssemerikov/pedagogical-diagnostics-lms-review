@@ -1,0 +1,24 @@
+{
+ "id": "2-s2.0-85192716149",
+ "arm": "S",
+ "doi": "10.9743/jeo.2024.21.2.6",
+ "title": "INFLUENCE OF GAMIFICATION ON STUDENT ENGAGEMENT IN ONLINE DISCUSSIONS USING SELF-DETERMINATION THEORY",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "NOREL",
+ "reason": "One-group non-gamified vs gamified forum sessions; log counts of posts/replies, rubric grades and perceived relatedness are each compared across conditions by repeated-measures ANOVA. Log indicators are never related to success or a construct per student.",
+ "extraction": {
+  "country": "Indonesia (Universitas Indonesia; author affiliation)",
+  "design": "quasi-experimental one-group pre-post (repeated-measures ANOVA) + interviews",
+  "n": 60,
+  "n_quote": "Sixty participants used the developed online discussion website and held two",
+  "population": "university students (volunteers), 1 university",
+  "lms_indicators": "forum logs: number of posts and replies (analysed only as condition outcomes)",
+  "outcome_or_construct": "post/reply content grades (rubric); perceived relatedness (self-report)",
+  "effect_sizes": [],
+  "notes": "n given in words ('Sixty'). Gamification lowered replies and changed relatedness; no indicator-outcome association is reported."
+ },
+ "quote_check": "forced: n given as the word Sixty | n not in n_quote and no \"sum\" note: 60",
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-12"
+}

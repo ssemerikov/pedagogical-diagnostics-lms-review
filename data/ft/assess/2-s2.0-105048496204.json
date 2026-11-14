@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-105048496204",
+ "arm": "S",
+ "doi": "10.3390/app16168128",
+ "title": "Balancing Gamification and Self-Regulated Learning in a User-Centered Analytics Dashboard for LMS Platforms",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "NOREL",
+ "reason": "Design study of an SRL/gamification dashboard: a Figma prototype with mock data evaluated by six undergraduates via think-aloud, interview, SUS and TAM ratings. Authors state it reports perceptions, not learning outcomes; no real LMS data.",
+ "extraction": {
+  "country": "Canada (Polytechnique Montréal; Université de Montréal)",
+  "design": "design-thinking prototype evaluation (think-aloud, survey)",
+  "n": 6,
+  "n_quote": "than learning outcomes. Six undergraduate students completed think-aloud sessions, a",
+  "population": "undergraduate students",
+  "lms_indicators": "none (mock data)",
+  "outcome_or_construct": "usability (SUS 93.75), perceived ease of use (self-report)",
+  "effect_sizes": [],
+  "notes": ""
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-12"
+}

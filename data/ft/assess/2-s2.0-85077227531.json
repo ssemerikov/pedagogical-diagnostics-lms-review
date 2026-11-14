@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-85077227531",
+ "arm": "S",
+ "doi": "10.14569/ijacsa.2019.0101116",
+ "title": "Empirical analysis of context based content delivery for M-learning scenarios using ANFIS",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "NOREL",
+ "reason": "ANFIS model of content-format preference from questionnaire answers about context, device and preferences; evaluated by RMSE across membership functions. No LMS-recorded indicator, and no relation to learning success or a personality-related construct.",
+ "extraction": {
+  "country": "India (Belagavi, Karnataka; author affiliations)",
+  "design": "predictive modelling (ANFIS) on questionnaire data",
+  "n": 700,
+  "n_quote": "The context relative information has been collected in real ... time where 700 engineering students participated.",
+  "population": "engineering undergraduates (several branches)",
+  "lms_indicators": "none (self-reported context and preference questionnaire)",
+  "outcome_or_construct": "preferred content format/delivery scenario (self-report)",
+  "effect_sizes": [],
+  "notes": "Only RMSE of ANFIS membership functions is reported; no learning outcome."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-12"
+}

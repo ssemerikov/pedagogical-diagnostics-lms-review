@@ -1,0 +1,23 @@
+{
+ "id": "OUCI2-45r1xGXq",
+ "arm": "O2",
+ "doi": "10.34142/2709-7986.2026.31.1.13",
+ "title": "Digital benchmarking tools for assessment in maritime English training",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "E4",
+ "reason": "Single-group pre/post comparison of maritime English test levels after digital benchmarking tools in Moodle. Moodle activity growth is described only narratively; no per-student indicator is related to an outcome. No n or statistics reported.",
+ "extraction": {
+  "country": "Ukraine (Kherson State Maritime Academy)",
+  "design": "single-group pre/post pedagogical experiment",
+  "n": "nr",
+  "n_quote": null,
+  "population": "cadets (future ship engineers), 1 maritime higher-education institution",
+  "lms_indicators": "Moodle login frequency and task completion described descriptively at group level only",
+  "outcome_or_construct": "English proficiency pre/post test; questionnaire motivation",
+  "effect_sizes": [],
+  "notes": "\"The participants were not divided into control and experimental groups\"; results only in bar charts (Fig. 1, Fig. 2) with no test statistics. Bilingual English/Ukrainian article. Secondary code: NOREL (Moodle activity data reported only narratively)."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-12"
+}

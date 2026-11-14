@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-0029952761",
+ "arm": "S",
+ "doi": "10.3233/tad-1996-53-413",
+ "title": "Mainepoint: Outcomes of teaching American sign language via distance learning",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "E3",
+ "reason": "Sample is Maine high school students taking ASL by distance learning (K-12). Secondarily, predictors (self-concept, learning styles, technology-use checklists) are all self-report questionnaires.",
+ "extraction": {
+  "country": "USA",
+  "design": "prospective correlational (predictors of course success)",
+  "n": 120,
+  "n_quote": "Of the 120 students enrolled for ASL I in the",
+  "population": "high school students (deaf, hard of hearing, learning-disabled, hearing) in eight Maine schools",
+  "lms_indicators": "none (self-reported technology use)",
+  "outcome_or_construct": "ASL I/II course grades; proficiency/satisfaction with technologies",
+  "effect_sizes": [],
+  "notes": "Secondary NOREL (no platform-recorded indicator)."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-13"
+}

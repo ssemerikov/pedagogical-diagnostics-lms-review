@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-85013779436",
+ "arm": "S",
+ "doi": "10.1109/icter.2016.7829901",
+ "title": "An innovative mobile learning framework for the field of Agriculture extension Sri Lanka",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "E3",
+ "reason": "Mobile-learning framework for agriculture extension in Sri Lanka; learners are farmers and agriculture extension officers, not higher- or vocational-education students. Evaluation is framework/usability-oriented without indicator-outcome relations.",
+ "extraction": {
+  "country": "Sri Lanka (Badulla district)",
+  "design": "framework development with experimental evaluation",
+  "n": "nr",
+  "n_quote": null,
+  "population": "farmers and agriculture extension officers",
+  "lms_indicators": "none analysed",
+  "outcome_or_construct": "factors such as usability, learning style, personalisation (identified, not measured against indicators)",
+  "effect_sizes": [],
+  "notes": "Secondary code: NOREL."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-12"
+}

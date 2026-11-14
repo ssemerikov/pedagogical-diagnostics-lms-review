@@ -1,0 +1,23 @@
+{
+ "id": "OUCI2-4bPNB8PL",
+ "arm": "O2",
+ "doi": "10.26661/2786-5622-2026-3-33",
+ "title": "METHODOLOGICAL FOUNDATIONS OF ORGANISING A PEDAGOGICAL EXPERIMENT FOR DIAGNOSING THE MOTIVATION OF HIGHER EDUCATION STUDENTS IN LEARNING MANAGEMENT SYSTEMS",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "NONEMP",
+ "reason": "Methodological framework for diagnosing motivation with AMS plus LMS behavioural indicators. Names tests (chi-square, t, Spearman) and an EG/CG design (n = 250) but reports no results at all; no empirical data in the publication.",
+ "extraction": {
+  "country": "Ukraine (Kharkiv and Sumy universities)",
+  "design": "described EG/CG pedagogical experiment; framework paper",
+  "n": 250,
+  "n_quote": "The study involved 250 undergraduate and gradu- ... ate students, including 120 participants in the experi-",
+  "population": "undergraduate and graduate students, 2 universities",
+  "lms_indicators": "LMS access frequency, resource interaction, assignment submission behaviour, online communication (listed, not analysed)",
+  "outcome_or_construct": "learning motivation (AMS, author questionnaire)",
+  "effect_sizes": [],
+  "notes": "Text says \"Behavioural data were not treated as independent measures but as complementary evidence\". No results tables or numbers. Two-column layout; quote pieces from left column. Secondary code: NOREL. NONEMP applied because no results are reported (precedence NONEMP > NOREL)."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-12"
+}

@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-105054628743",
+ "arm": "S",
+ "doi": "10.1038/s41598-026-70691-3",
+ "title": "Enhancing student performance prediction using an optimized RNN-LSTM model: a step towards personalized education",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "NONEMP",
+ "reason": "LSTM student-performance prediction evaluated only on a synthetic dataset of 720 generated records; no data from real students or a real LMS, so no empirical indicator-outcome relation.",
+ "extraction": {
+  "country": "nr",
+  "design": "predictive modelling on synthetic data",
+  "n": "nr",
+  "n_quote": null,
+  "population": "none (synthetic records simulating higher-education students)",
+  "lms_indicators": "simulated sequential academic features (3 features x 20 time steps)",
+  "outcome_or_construct": "simulated pass/fail label",
+  "effect_sizes": [],
+  "notes": "Authors: 'The study conducted experiments using a synthetic dataset designed for experimentation, which included 720 student records.' Secondary: E3 (no human sample)."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-12"
+}

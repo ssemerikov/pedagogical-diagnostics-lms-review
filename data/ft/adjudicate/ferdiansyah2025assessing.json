@@ -1,0 +1,63 @@
+{
+ "id": "ferdiansyah2025assessing",
+ "part": "C",
+ "independent_decision": "exclude",
+ "independent_code": "E4",
+ "assessor_decision": "include (re-extraction mode; criteria_met=[])",
+ "agree": true,
+ "final_decision": "include",
+ "final_code": null,
+ "reason": "Part C (D8: original inclusion unchanged). Single-group pre/post achievement test (N = 35) plus a descriptive self-report SDL questionnaire; gamification activity is the intervention, never a measured per-student indicator. Would be E4 under the update rules; assessor reached the same reading.",
+ "extraction_check": {
+  "n": "corrected",
+  "n_value": 35,
+  "n_quote": "A purposive sampling strategy was utilized to select 35 Islamic un",
+  "effect_sizes": [
+   {
+    "value": "0.624 (pre-test vs post-test paired correlation; NOT an indicator-outcome effect)",
+    "status": "ok",
+    "quote": "Pair 1         Pre-test & Post-test        35          0.624                0.001"
+   }
+  ],
+  "table2_changes": [
+   {
+    "column": "n",
+    "from": "60",
+    "to": "35",
+    "quote": "A purposive sampling strategy was utilized to select 35 Islamic un"
+   },
+   {
+    "column": "country",
+    "from": "nr",
+    "to": "Indonesia",
+    "quote": "Universitas Muhammadiyah Sidenreng Rappang, Indonesia. This sam"
+   },
+   {
+    "column": "design",
+    "from": "Correlational",
+    "to": "Pre-experimental single-group pre/post test, with SDL questionnaire and interviews",
+    "quote": "education. This study employed a pre-experimental, single-group pre- and post-test design involving 35 Islamic"
+   },
+   {
+    "column": "lms_indicators",
+    "from": "Gamification activity records",
+    "to": "None analysed (gamification elements are the intervention only)",
+    "quote": "Results of questionnaire on SDL in the gamified course (N = 35)."
+   },
+   {
+    "column": "effect_size",
+    "from": "nr",
+    "to": "nr for indicator-outcome (only a within-group pre/post t-test is reported)",
+    "quote": "Pair 1         Pre-test & Post-test        35          0.624                0.001"
+   }
+  ]
+ },
+ "sensitivity": {
+  "criteria_met": [],
+  "meets_update_rules": false,
+  "decisive_quote": "education. This study employed a pre-experimental, single-group pre- and post-test design involving 35 Islamic",
+  "note": "No activity record enters any analysis; SDL is self-reported after the course only. Any manuscript sentence saying activity records correlate with SDL indicators is unsupported. Table 3's mean difference (6.027) conflicts with Table 1 means."
+ },
+ "adjudicator": "claude-fable-5-2 (WP05b)",
+ "adjudicated_on": "2026-11-12"
+}

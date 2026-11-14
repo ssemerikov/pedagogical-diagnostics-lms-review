@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-79959826981",
+ "arm": "S",
+ "doi": "10.1109/tlt.2009.35",
+ "title": "ReLOAD: Real laboratories operated at a distance",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "NOREL",
+ "reason": "Describes the ReLOAD remote-laboratory system and reports students' opinions from online tick-box questionnaires and focus groups/interviews. No per-student usage indicator or lab-work product is related to outcomes or traits.",
+ "extraction": {
+  "country": "UK (University of Leeds)",
+  "design": "system description plus questionnaire and focus-group evaluation",
+  "n": "nr",
+  "n_quote": null,
+  "population": "engineering undergraduates (approx. 120 per year group)",
+  "lms_indicators": "none analysed",
+  "outcome_or_construct": "student opinions (self-report)",
+  "effect_sizes": [],
+  "notes": "Over 50 students interviewed; questionnaire n not extracted."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-12"
+}

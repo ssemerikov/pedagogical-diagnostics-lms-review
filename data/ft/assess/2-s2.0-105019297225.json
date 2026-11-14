@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-105019297225",
+ "arm": "S",
+ "doi": null,
+ "title": "Features of using mobile applications to identify plants and Google Lens during the learning process",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "E3",
+ "reason": "Evaluates plant-identification apps: recognition accuracy on 350 plant images and an expert survey on usability for biology classes. No student sample (experts and app tests only); no LMS indicator related to learning success or traits.",
+ "extraction": {
+  "country": "Ukraine (Kyiv)",
+  "design": "app accuracy test plus expert survey",
+  "n": "nr",
+  "n_quote": null,
+  "population": "experts in digital didactics; no students",
+  "lms_indicators": "none",
+  "outcome_or_construct": "app recognition accuracy; expert usability ratings",
+  "effect_sizes": [],
+  "notes": "Recognition rates 71–92.6% are app accuracies, not learner indicators. CEUR-style conference paper (ICHTML 2025 co-located workshop). Could equally be coded NOREL."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-12"
+}

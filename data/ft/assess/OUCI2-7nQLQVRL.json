@@ -1,0 +1,23 @@
+{
+ "id": "OUCI2-7nQLQVRL",
+ "arm": "O2",
+ "doi": "10.47649/vau.26.v80.i1.24",
+ "title": "METHODOLOGICAL FRAMEWORK FOR DEVELOPING AN AI-BASED DISTANCE LEARNING PLATFORM",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "NOREL",
+ "reason": "Framework paper with a quasi-experiment comparing AI-platform and control groups on self-report Likert scales (satisfaction, perceived effectiveness, engagement, TAM); platform analytics are described but no recorded measure is analysed.",
+ "extraction": {
+  "country": "Kazakhstan",
+  "design": "framework proposal + quasi-experimental group comparison (questionnaire)",
+  "n": "nr",
+  "n_quote": "The study involved 60 students selected from universities",
+  "population": "undergraduate students with technical/pedagogical profile, Kh. Dosmukhamedov Atyrau University",
+  "lms_indicators": "none analysed",
+  "outcome_or_construct": "self-reported satisfaction, learning effectiveness, engagement, technology adoption",
+  "effect_sizes": [],
+  "notes": "Sample size inconsistent: 'involved 120 undergraduate students' in one passage, '60 students ... two comparable groups of 30' in another. Cohen's d 0.95-1.20 are group differences on self-report scales."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-13"
+}

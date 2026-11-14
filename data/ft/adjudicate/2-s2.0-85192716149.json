@@ -1,0 +1,22 @@
+{
+ "id": "2-s2.0-85192716149",
+ "independent_decision": "exclude",
+ "independent_code": "NOREL",
+ "assessor_decision": "exclude",
+ "assessor_code": "NOREL",
+ "agree": true,
+ "code_agree": true,
+ "final_decision": "exclude",
+ "final_code": "NOREL",
+ "reason": "Posts and replies from logs, rubric grades and perceived relatedness are each compared between non-gamified and gamified sessions; the log counts are never related to grades or to a construct per student.",
+ "extraction_check": {
+  "n": "ok",
+  "n_value": 60,
+  "n_quote": "Sixty participants used the developed online discussion website and held two",
+  "n_note": "number given in words or split by OCR; value confirmed by adjudicator",
+  "effect_sizes": [],
+  "table2_changes": []
+ },
+ "adjudicator": "claude-fable-5-2 (WP05b)",
+ "adjudicated_on": "2026-11-13"
+}

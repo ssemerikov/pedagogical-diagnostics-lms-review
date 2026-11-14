@@ -1,0 +1,61 @@
+{
+ "id": "farameita2025integration",
+ "arm": "O1-included",
+ "doi": "10.59631/multidiscience.v2i2.404",
+ "title": "Evaluation of the Integration of Learning Management Systems with Virtual Reality Platform",
+ "decision": "include",
+ "criteria_met": [
+  "I1"
+ ],
+ "exclusion_code": null,
+ "reason": "Re-extraction. VR-in-LMS usage metrics (time in VR, completion rate, modules completed) correlated with post-test retention (r = 0.62, 0.45, 0.33). Meets I1, but sample is government-institution employees in professional training: E3 risk flagged.",
+ "extraction": {
+  "country": "Indonesia",
+  "design": "mixed methods: Pearson correlation, t-test, ANOVA, multiple regression, CFA, interviews",
+  "n": 200,
+  "n_quote": "A ... total of 200 participants from various Indonesian government institutions took part ... in a one-month professional training program",
+  "population": "employees of Indonesian government institutions in a one-month professional training programme (not HE students)",
+  "lms_indicators": "time spent in VR (minutes/day), module completion rate (%), number of modules completed, training duration (days); system-generated",
+  "outcome_or_construct": "knowledge retention (post-test score %); SDT motivation (autonomy, competence, relatedness; self-report)",
+  "effect_sizes": [
+   {
+    "statistic": "r",
+    "value": "0.62",
+    "between": "time spent in VR (minutes/day) ↔ post-test retention score",
+    "quote": "Time spent in VR 0.62 0.000 Moderate to strong",
+    "location": "Table 5, p. 391"
+   },
+   {
+    "statistic": "r",
+    "value": "0.45",
+    "between": "module completion rate ↔ post-test retention score",
+    "quote": "Completion Rate (%) 0.45 0.001 Moderate correlation",
+    "location": "Table 5, p. 391"
+   },
+   {
+    "statistic": "r",
+    "value": "0.33",
+    "between": "number of modules completed ↔ post-test retention score",
+    "quote": "Modules Completed 0.33 0.015 Weak to moderate",
+    "location": "Table 5, p. 391"
+   },
+   {
+    "statistic": "beta (standardised)",
+    "value": "0.41",
+    "between": "VR duration ↔ retention score, adjusted for autonomy and engagement scores",
+    "quote": "VR duration emerged as the strongest predictor (β = 0.41, p < 0.001)",
+    "location": "Section 3.5, Table 7, p. 392"
+   }
+  ],
+  "notes": "Three Table 2 cells change: country Indonesia (not nr); effect size reported (r = 0.62 strongest); 'object-interaction frequency' is not measured anywhere in the text (indicators are time in VR, completion rate, modules completed). E3: participants are government employees, which brief_2b lists as a non-qualifying sample. The manuscript's narrative ('personality scales') does not match: constructs are SDT motivation and engagement, used as co-predictors, not related to the VR metrics. Completion-rate data for 160 of 200 (Table 4); ANOVA F(2, 187) implies 190 cases; regression R2 not reported. Consistency check (not an estimate): the Table 5 p-values do not fit the stated N. With N = 160-200, r = 0.45 and r = 0.33 would give p far below 0.001, yet the paper reports p = 0.001 and p = 0.015; the correlations' N is never stated. Treat the r values with caution."
+ },
+ "table2_current": {
+  "country": "nr",
+  "design": "CFA",
+  "n": "200",
+  "lms_indicators": "Time in VR environment, object-interaction frequency",
+  "effect_size": "nr"
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-12"
+}

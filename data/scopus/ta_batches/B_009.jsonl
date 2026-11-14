@@ -1,0 +1,25 @@
+{"id": "2-s2.0-58249121047", "verdict": "exclude", "code": "OFF", "reason": "Mussel lysosomes", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85113893006", "verdict": "exclude", "code": "NOIND", "reason": "Learning style, self-efficacy and satisfaction questionnaire in dental students; no activity indicators", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-84872955676", "verdict": "exclude", "code": "OFF", "reason": "Rolling mill control", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-105011670125", "verdict": "exclude", "code": "OFF", "reason": "Protein function prediction", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85047255869", "verdict": "maybe", "code": "I2", "reason": "Flipped learning, self-efficacy and academic performance in university; activity indicators unclear", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85126335724", "verdict": "exclude", "code": "OFF", "reason": "Network estimation", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85065467360", "verdict": "exclude", "code": "OFF", "reason": "Power filter algorithms", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85072400300", "verdict": "exclude", "code": "OFF", "reason": "Machining chatter", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-0029746553", "verdict": "exclude", "code": "OFF", "reason": "LMS algorithm", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-105000199380", "verdict": "exclude", "code": "OFF", "reason": "Infrared imaging", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-77949670872", "verdict": "exclude", "code": "OFF", "reason": "Vibration control", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85140891490", "verdict": "exclude", "code": "NOIND", "reason": "Attitude and motivation questionnaire of medical students; no activity indicators", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-105003884269", "verdict": "exclude", "code": "NOIND", "reason": "Survey of EFL learning emotions in SPOC blended learning; no activity data", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-0020737603", "verdict": "exclude", "code": "OFF", "reason": "LMS predictive filters", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-105038603936", "verdict": "maybe", "code": "I3", "reason": "Virtual laboratory performance assessment calibration for university students; data on student activity possible", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85118112318", "verdict": "exclude", "code": "E3", "reason": "Home-based science experiments under DepEd, school pupils", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-84908388172", "verdict": "exclude", "code": "E3", "reason": "Initial teacher training handheld PCs, no abstract", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85049061382", "verdict": "exclude", "code": "OFF", "reason": "Video stabilization", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85204238775", "verdict": "maybe", "code": "I2", "reason": "Flipped classroom and self-regulation in teachers pursuing higher education; indicators unclear", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-84969916962", "verdict": "maybe", "code": "I2", "reason": "E-learning recommendation using psychological type and learning style; empirical data unclear", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-84893318278", "verdict": "exclude", "code": "OFF", "reason": "Cancer model", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-105020456533", "verdict": "exclude", "code": "OFF", "reason": "Pharmacology", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85073732459", "verdict": "pass", "code": "I2", "reason": "Student motivation and satisfaction with platform-based autonomous language study at university", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85077645197", "verdict": "exclude", "code": "OFF", "reason": "Zebra mussel toxicology", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85149837772", "verdict": "maybe", "code": "I2", "reason": "No abstract; AR for student motivation in distance learning", "screener": "claude-sonnet-5-5 (WP02b first pass)"}

@@ -1,0 +1,23 @@
+{
+ "id": "OUCI-036",
+ "arm": "N",
+ "doi": "10.37724/rsu.2021.58.2.011",
+ "title": "Professional Involvement as a Factor of Psychological Readiness for Professional Activities",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "E6",
+ "reason": "Article (pp. 122-130 of a whole-issue PDF) is written in Russian. Secondarily all data are questionnaires (Bass-Smekal-Kucher orientation, Cattell 16PF) with no platform measure.",
+ "extraction": {
+  "country": "Russia",
+  "design": "cross-sectional questionnaire survey",
+  "n": 348,
+  "n_quote": "The study involves 348 17-22-year-old law students of Russian universities.",
+  "population": "law students aged 17-22, Russian universities",
+  "lms_indicators": "none",
+  "outcome_or_construct": "professional orientation; 16PF personality factors",
+  "effect_sizes": [],
+  "notes": "The file is the entire issue of Psikhologo-pedagogicheskii poisk 2021 no. 2 (58); the target article is at lines ~6318-6790. Secondary NOREL (self-report only)."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-13"
+}

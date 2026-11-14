@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-85208603306",
+ "arm": "S",
+ "doi": "10.1186/s12909-024-06175-7",
+ "title": "Application of the online teaching model based on BOPPPS virtual simulation platform in preventive medicine undergraduate experiment",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "E4",
+ "reason": "Class-level experimental vs control comparison (BOPPPS plus virtual simulation platform vs traditional) of experiment-report scores, engagement and Biggs questionnaires by t-tests. Virtual-simulation scores are named but no per-student indicator is related to any outcome.",
+ "extraction": {
+  "country": "China (Binzhou Medical University)",
+  "design": "quasi-experimental, two classes",
+  "n": 100,
+  "n_quote": "The participants were 100 undergraduates of preventive medicine in Binzhou Medical University, class 2019.",
+  "population": "preventive medicine undergraduates, 1 university",
+  "lms_indicators": "virtual simulation platform scores (named only; not analysed against outcomes)",
+  "outcome_or_construct": "experiment report scores; student engagement scale; Biggs study process (deep/surface learning, self-report); teacher self-efficacy",
+  "effect_sizes": [],
+  "notes": "Group contrasts only (t and P values)."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-12"
+}

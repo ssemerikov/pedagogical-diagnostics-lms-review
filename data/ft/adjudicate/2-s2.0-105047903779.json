@@ -1,0 +1,21 @@
+{
+ "id": "2-s2.0-105047903779",
+ "independent_decision": "exclude",
+ "independent_code": "E4",
+ "assessor_decision": "exclude",
+ "assessor_code": "E4",
+ "agree": true,
+ "code_agree": true,
+ "final_decision": "exclude",
+ "final_code": "E4",
+ "reason": "Cohort comparison of examination scores between traditional and hybrid teaching plus a satisfaction survey; group contrasts only.",
+ "extraction_check": {
+  "n": "ok",
+  "n_value": 402,
+  "n_quote": "A total of 402 ... students were included: 107 in the control group (the Class of ... 2017) and 295 in the experimental groups (the Classes of",
+  "effect_sizes": [],
+  "table2_changes": []
+ },
+ "adjudicator": "claude-fable-5-2 (WP05b)",
+ "adjudicated_on": "2026-11-13"
+}

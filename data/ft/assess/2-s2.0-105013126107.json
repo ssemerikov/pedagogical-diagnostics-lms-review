@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-105013126107",
+ "arm": "S",
+ "doi": "10.3390/app15158714",
+ "title": "Validation of the Player Personality and Dynamics Scale",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "NOREL",
+ "reason": "Psychometric validation (EFA/CFA) of a self-report player-profile questionnaire; gaming habits are self-reported and no platform-recorded or activity measure is related to learning success or a construct.",
+ "extraction": {
+  "country": "Spain",
+  "design": "cross-sectional survey, factor analysis (CFA)",
+  "n": 635,
+  "n_quote": "The sample consisted of a total of 635 individuals: 67.4% identified as male, 31.5% as female, and 1.1% did not specify their gender.",
+  "population": "mixed sample, mostly Canary Islands; 41.3% university students, others not in HE",
+  "lms_indicators": "none",
+  "outcome_or_construct": "player personality/dynamics profiles (Toxic, Joker, Tryhard, Aesthetic, Coacher)",
+  "effect_sizes": [],
+  "notes": "Sample is only partly HE students (E3 not applied since a large share are university students). Fit RMSEA=0.06, CFI=0.95 concern the scale structure."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-13"
+}

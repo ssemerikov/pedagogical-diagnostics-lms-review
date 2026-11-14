@@ -1,0 +1,20 @@
+{
+ "id": "OUCI2-4bP0Eg8L",
+ "independent_decision": "exclude",
+ "independent_code": "E4",
+ "assessor_decision": "exclude",
+ "assessor_code": "E4",
+ "agree": true,
+ "code_agree": true,
+ "final_decision": "exclude",
+ "final_code": "E4",
+ "reason": "Cohort-level grade success and quality percentages across years; Moodle visits appear only as aggregates per resource.",
+ "extraction_check": {
+  "n": "nr_confirmed",
+  "n_value": "nr",
+  "effect_sizes": [],
+  "table2_changes": []
+ },
+ "adjudicator": "claude-fable-5-2 (WP05b)",
+ "adjudicated_on": "2026-11-13"
+}

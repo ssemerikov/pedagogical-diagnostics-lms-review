@@ -1,0 +1,21 @@
+{
+ "id": "2-s2.0-85204875563",
+ "independent_decision": "exclude",
+ "independent_code": "NOREL",
+ "assessor_decision": "exclude",
+ "assessor_code": "E4",
+ "agree": true,
+ "code_agree": false,
+ "final_decision": "exclude",
+ "final_code": "E4",
+ "reason": "VARK questionnaire and pre/post tests in an online course for working laboratory chemists; no platform indicator. Blind I coded NOREL; a pre/post intervention with achievement outcomes and no activity measure is E4 under the rule clarification, as the assessor coded it. E3 is arguable (employees); the shared rule decides trainees on other criteria.",
+ "extraction_check": {
+  "n": "ok",
+  "n_value": 100,
+  "n_quote": "A research sample of 100 chemists working in Mega Alfa labs underwent online learning of laboratory parasitology skills via Facebook posts and WhatsApp dictated messages",
+  "effect_sizes": [],
+  "table2_changes": []
+ },
+ "adjudicator": "claude-fable-5-2 (WP05b)",
+ "adjudicated_on": "2026-11-13"
+}

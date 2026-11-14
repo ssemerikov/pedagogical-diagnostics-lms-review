@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-84948679085",
+ "arm": "S",
+ "doi": "10.1108/18363261211281744",
+ "title": "Effects of LMS, self-efficacy, and self-regulated learning on LMS effectiveness in business education",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "NOREL",
+ "reason": "PLS-SEM of a 35-item Likert survey (IS success model): e-LMS use, self-efficacy, self-regulated learning, satisfaction and perceived effectiveness are all self-reported. No platform-recorded indicator or activity product is analysed.",
+ "extraction": {
+  "country": "USA (large Midwest university)",
+  "design": "PLS-SEM survey",
+  "n": 140,
+  "n_quote": "and usable for a response rate of 31.3 percent. The 674 sample consists of 140 business",
+  "population": "business students enrolled in online courses, 1 university",
+  "lms_indicators": "none (self-reported e-LMS use)",
+  "outcome_or_construct": "perceived satisfaction and LMS effectiveness; self-efficacy; SRL (self-report)",
+  "effect_sizes": [],
+  "notes": "674 usable surveys overall; the paper analyses the 140 business students."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-12"
+}

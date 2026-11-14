@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-85074638047",
+ "arm": "S",
+ "doi": "10.15293/2658-6762.1904.10",
+ "title": "The development of engineering students’ foreign language discursive competence: Motivational educational factors",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "E6",
+ "reason": "Article body is in Russian (Science for Education Today, 2019); only an extended English abstract and references are in English. Study: experiment on discursive competence of 39 Chinese engineering students at Tomsk Polytechnic University.",
+ "extraction": {
+  "country": "Russia",
+  "design": "pedagogical experiment + questionnaires (per English abstract)",
+  "n": 39,
+  "n_quote": "Thirty nine (39) Chinese students pursuing",
+  "population": "Chinese undergraduate engineering students, Tomsk Polytechnic University",
+  "lms_indicators": "nr (Moodle mentioned in the Russian text)",
+  "outcome_or_construct": "foreign-language discursive competence",
+  "effect_sizes": [],
+  "notes": "Not assessed further after E6."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-13"
+}

@@ -1,0 +1,21 @@
+{
+ "id": "2-s2.0-84948679085",
+ "independent_decision": "exclude",
+ "independent_code": "NOREL",
+ "assessor_decision": "exclude",
+ "assessor_code": "NOREL",
+ "agree": true,
+ "code_agree": true,
+ "final_decision": "exclude",
+ "final_code": "NOREL",
+ "reason": "PLS-SEM of a Likert survey; LMS use, self-efficacy and self-regulated learning are all self-reported.",
+ "extraction_check": {
+  "n": "ok",
+  "n_value": 140,
+  "n_quote": "and usable for a response rate of 31.3 percent. The 674 sample consists of 140 business",
+  "effect_sizes": [],
+  "table2_changes": []
+ },
+ "adjudicator": "claude-fable-5-2 (WP05b)",
+ "adjudicated_on": "2026-11-13"
+}

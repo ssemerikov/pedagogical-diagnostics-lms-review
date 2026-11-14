@@ -1,0 +1,22 @@
+{
+ "id": "2-s2.0-85062044313",
+ "independent_decision": "exclude",
+ "independent_code": "NOREL",
+ "assessor_decision": "exclude",
+ "assessor_code": "NOREL",
+ "agree": true,
+ "code_agree": true,
+ "final_decision": "exclude",
+ "final_code": "NOREL",
+ "reason": "Qualitative thematic analysis of reflections from nine students; no measure is related to success or a construct.",
+ "extraction_check": {
+  "n": "ok",
+  "n_value": 9,
+  "n_quote": "This study used a qualitative descriptive design with a sample of nine second- and third-year pharmacy students.",
+  "n_note": "number given in words or split by OCR; value confirmed by adjudicator",
+  "effect_sizes": [],
+  "table2_changes": []
+ },
+ "adjudicator": "claude-fable-5-2 (WP05b)",
+ "adjudicated_on": "2026-11-13"
+}

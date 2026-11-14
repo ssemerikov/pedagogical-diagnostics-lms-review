@@ -1,0 +1,22 @@
+{
+ "id": "2-s2.0-85117921314",
+ "independent_decision": "exclude",
+ "independent_code": "NOREL",
+ "assessor_decision": "exclude",
+ "assessor_code": "E4",
+ "agree": true,
+ "code_agree": false,
+ "final_decision": "exclude",
+ "final_code": "E4",
+ "reason": "Grade distributions and emotion-questionnaire profiles compared between experimental and control groups as percentages; no platform-recorded measure. Blind I coded NOREL, as the assessor first did; a group comparison with grades among the outcomes is E4 under the rule clarification, and the assessor's revised file says the same.",
+ "extraction_check": {
+  "n": "ok",
+  "n_value": 57,
+  "n_quote": "the 1st year, in the amount of 57 people, with an average age of",
+  "effect_sizes": [],
+  "table2_changes": []
+ },
+ "adjudicator": "claude-fable-5-2 (WP05b)",
+ "adjudicated_on": "2026-11-13",
+ "recompared": "The assessor revised this file after my first adjudication; re-compared against the current assess file on 2026-11-13."
+}

@@ -1,0 +1,41 @@
+{
+ "id": "2-s2.0-85047255869",
+ "independent_decision": "include",
+ "independent_code": "I1",
+ "assessor_decision": "include",
+ "assessor_code": null,
+ "agree": true,
+ "code_agree": true,
+ "final_decision": "include",
+ "final_code": null,
+ "reason": "Per-student LMS video view counts, dichotomised, are compared on final exam score by t-test (n = 37). Meets I1; small sample and a dichotomised indicator.",
+ "extraction_check": {
+  "n": "ok",
+  "n_value": 37,
+  "n_quote": "Participants consisted of sophomore students (n=37, 26 male, 11",
+  "effect_sizes": [
+   {
+    "value": "t = -2.304, p = 0.027 (final exam score: mean 54.22, n = 23, fewer than 2 views vs 72.71, n = 14, more than 2 views)",
+    "status": "ok",
+    "quote": "counts of      times                                        -2.304",
+    "quote2": "(0.027*)",
+    "note": "Table cells are split across lines in the text layer; each number was located on lines 124-128 of the text."
+   }
+  ],
+  "table2_changes": []
+ },
+ "adjudicator": "claude-fable-5-2 (WP05b)",
+ "adjudicated_on": "2026-11-13",
+ "criteria_met": [
+  "I1"
+ ],
+ "table2_row": {
+  "country": "South Korea (Catholic Kwandong University)",
+  "design": "single-class flipped-learning study; indicator-group t-test; pre/post self-efficacy",
+  "n": 37,
+  "lms_indicators": "LMS view counts of the lecture movie clip (attendance rate of LMS data)",
+  "outcome_or_construct": "final exam score",
+  "effect_size": "t = -2.30, p = .027 (exam mean 72.7 vs 54.2 for more vs fewer than two video views)"
+ },
+ "table2_row_source": "assessor extraction, cells confirmed by adjudicator"
+}

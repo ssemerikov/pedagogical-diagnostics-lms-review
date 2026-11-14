@@ -1,0 +1,23 @@
+{
+ "id": "OUCI-029",
+ "arm": "N",
+ "doi": "10.7256/2454-0676.2025.4.76120",
+ "title": "A study of intrinsic motivation for learning a foreign language during the COVID-19 pandemic",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "E6",
+ "reason": "Full text is in Russian (nbpublish.com article page, 2025), with an English abstract only. Publication language is neither English nor Ukrainian. Abstract indicates questionnaire-based motivation study.",
+ "extraction": {
+  "country": "Russia",
+  "design": "questionnaire study (per English abstract)",
+  "n": "nr",
+  "n_quote": null,
+  "population": "university students learning a foreign language",
+  "lms_indicators": "none evident",
+  "outcome_or_construct": "intrinsic motivation, emotions",
+  "effect_sizes": [],
+  "notes": "Body sampled: Russian. Saved web page includes site navigation."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-12"
+}

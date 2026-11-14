@@ -1,0 +1,58 @@
+cff-version: 1.2.0
+message: >-
+  If you use the data, code or specification in this repository, please cite the article below and this
+  repository.
+title: >-
+  Pedagogical diagnostics for LMS-integrated forecasting: review pipeline, screening data and
+  forecasting-model specification
+type: dataset
+authors:
+  - family-names: Kolgatin
+    given-names: Oleksandr H.
+    orcid: "https://orcid.org/0000-0001-8423-2359"
+    affiliation: Simon Kuznets Kharkiv National University of Economics
+  - family-names: Kolgatina
+    given-names: Larysa S.
+    orcid: "https://orcid.org/0000-0003-2650-8921"
+    affiliation: H. S. Skovoroda Kharkiv National Pedagogical University
+  - family-names: Ponomareva
+    given-names: Nadiia S.
+    orcid: "https://orcid.org/0000-0001-9840-7287"
+    affiliation: Kharkiv University of Technology “STEP”
+  - family-names: Semerikov
+    given-names: Serhiy O.
+    orcid: "https://orcid.org/0000-0003-0789-0272"
+    affiliation: >-
+      Kryvyi Rih State Pedagogical University; Academy of Cognitive and Natural Sciences; Institute for
+      Digitalisation of Education of the NAES of Ukraine; Zhytomyr Polytechnic State University; Center for
+      Information-analytical and Technical Support of Nuclear Power Facilities Monitoring of the NAS of Ukraine
+repository-code: "https://github.com/ssemerikov/pedagogical-diagnostics-lms-review"
+license:
+  - MIT
+  - CC-BY-4.0
+keywords:
+  - pedagogical diagnostics
+  - learning management system
+  - educational recommender systems
+  - systematic review
+  - PRISMA 2020
+preferred-citation:
+  type: article
+  status: submitted
+  year: 2026
+  title: >-
+    Pedagogical diagnostics as a basis for educational recommendation systems: LMS-integrated forecasting of
+    learning technology effectiveness
+  authors:
+    - family-names: Kolgatin
+      given-names: Oleksandr H.
+      orcid: "https://orcid.org/0000-0001-8423-2359"
+    - family-names: Kolgatina
+      given-names: Larysa S.
+      orcid: "https://orcid.org/0000-0003-2650-8921"
+    - family-names: Ponomareva
+      given-names: Nadiia S.
+      orcid: "https://orcid.org/0000-0001-9840-7287"
+    - family-names: Semerikov
+      given-names: Serhiy O.
+      orcid: "https://orcid.org/0000-0003-0789-0272"

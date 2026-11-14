@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-85101097999",
+ "arm": "S",
+ "doi": "10.1037/tmb0000020",
+ "title": "Combined Cognitive–Motivational Modules Delivered via an LMS Increase Undergraduate Biology Grades",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "E4",
+ "reason": "Randomised trials meta-analysed: effect of assigned LMS-delivered cognitive/motivational modules (group membership) on course grades. 'Timely access' is a study-level moderator; no per-student platform measure enters any analysis.",
+ "extraction": {
+  "country": "USA",
+  "design": "10 randomised experiments, internal meta-analysis with moderators",
+  "n": 3092,
+  "n_quote": "Participants were 3,092 undergraduate introductory biology students tested in 10 studies at three universities over 4 years.",
+  "population": "undergraduate introductory biology students, 3 universities",
+  "lms_indicators": "none per student (module access timing coded per study/semester)",
+  "outcome_or_construct": "final course grade",
+  "effect_sizes": [],
+  "notes": "Overall intervention effect g = .30 (treatment vs control); timely vs cramming access g = .39 vs .14 is a semester-level moderator. These are group-membership effects, not indicator-outcome relations."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-13"
+}

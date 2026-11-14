@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-105045371744",
+ "arm": "S",
+ "doi": "10.1016/j.jsurg.2026.104062",
+ "title": "A Best-practice Model for Online Teaching With Feedback Driven Video Analysis in Surgical Skills Training",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "NOREL",
+ "reason": "Describes an online surgical-skills course with video upload and feedback: submission compliance by task and satisfaction survey are reported descriptively. Video submissions are not scored into indicators related to skill outcome or a trait; no inferential analysis.",
+ "extraction": {
+  "country": "Germany (Universitätsklinikum Jena)",
+  "design": "descriptive course evaluation (4 iterations) plus survey",
+  "n": 67,
+  "n_quote": "ruary 2024 and March 2025. Sixty-seven students who",
+  "population": "undergraduate medical students, 1 university",
+  "lms_indicators": "video submission counts per task on Opencast (descriptive only)",
+  "outcome_or_construct": "satisfaction and perceived value (self-report)",
+  "effect_sizes": [],
+  "notes": "73 participated, 67 analysed. Text says standardised pre/post testing was not yet in place. OSATS used for tutor feedback, not analysed against submissions."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-12"
+}

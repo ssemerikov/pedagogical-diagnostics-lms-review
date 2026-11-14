@@ -1,0 +1,21 @@
+{
+ "id": "2-s2.0-84982918831",
+ "independent_decision": "exclude",
+ "independent_code": "NOREL",
+ "assessor_decision": "exclude",
+ "assessor_code": "NOREL",
+ "agree": true,
+ "code_agree": true,
+ "final_decision": "exclude",
+ "final_code": "NOREL",
+ "reason": "Questionnaire SEM; module features, motivation and learning effectiveness are all Likert self-report, with no Moodle log data.",
+ "extraction_check": {
+  "n": "ok",
+  "n_value": 276,
+  "n_quote": "tionnaires were received, of which 276 (78.9%) were",
+  "effect_sizes": [],
+  "table2_changes": []
+ },
+ "adjudicator": "claude-fable-5-2 (WP05b)",
+ "adjudicated_on": "2026-11-13"
+}

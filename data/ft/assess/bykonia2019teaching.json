@@ -1,0 +1,30 @@
+{
+ "id": "bykonia2019teaching",
+ "arm": "O1-included",
+ "doi": "10.5430/ijhe.v8n4p115",
+ "title": "Teaching Business English to Future Economists Using a Multimedia Textbook",
+ "decision": "include",
+ "criteria_met": [],
+ "exclusion_code": null,
+ "reason": "Re-extraction (inclusion not re-decided). Single-group pre/post percentages from self-report questionnaires on learning preferences; no LMS indicator or scored work product, test scores unreported, no inferential statistics. Would fail I1-I4 (NOREL; E1 arguable); flagged.",
+ "extraction": {
+  "country": "Ukraine (Academy of the State Penitentiary Service, Chernihiv)",
+  "design": "single-group pre/post (traditional semester then flipped semester); descriptive percentages",
+  "n": 87,
+  "n_quote": "Therefore, the experimental group involved 87 (49 males and 38 females) students who were doing the course in",
+  "population": "first-year Economics and Social studies students, 1 institution",
+  "lms_indicators": "none measured (multimedia textbook; no LMS log or work-product indicator recorded or analysed)",
+  "outcome_or_construct": "self-reported learning preferences (4-option questionnaire), self-reported involvement/commitment/motivation/practical application, course satisfaction; final ESP test (no scores reported)",
+  "effect_sizes": [],
+  "notes": "No control group despite the 'experimental group' label. Only pre/post percentages, e.g. 'doing computer-assisted work independently' 37% -> 67% (Table 2), motivation 49% -> 79% (Table 3). No inferential statistics; SEM (AMOS) is named but no output is reported. Secondary: E1 (nothing reported from which reliability could be judged). Same full text as calibration record 2-s2.0-85073683089 (excluded NOREL in worklist main). Table 2 cells 'Experimental/control' and 'nr' n: n is now recoverable (87, single group; there is no control group, so 'Experimental/control' is wrong)."
+ },
+ "table2_current": {
+  "country": "Ukraine",
+  "design": "Experimental\\slash control",
+  "n": "nr",
+  "lms_indicators": "Digital-environment work products",
+  "effect_size": "nr"
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-12"
+}

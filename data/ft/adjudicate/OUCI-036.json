@@ -1,0 +1,21 @@
+{
+ "id": "OUCI-036",
+ "independent_decision": "exclude",
+ "independent_code": "E6",
+ "assessor_decision": "exclude",
+ "assessor_code": "E6",
+ "agree": true,
+ "code_agree": true,
+ "final_decision": "exclude",
+ "final_code": "E6",
+ "reason": "The file is a Russian-language journal issue; the target article is in Russian.",
+ "extraction_check": {
+  "n": "ok",
+  "n_value": 348,
+  "n_quote": "The study involves 348 17-22-year-old law students of Russian universities.",
+  "effect_sizes": [],
+  "table2_changes": []
+ },
+ "adjudicator": "claude-fable-5-2 (WP05b)",
+ "adjudicated_on": "2026-11-13"
+}

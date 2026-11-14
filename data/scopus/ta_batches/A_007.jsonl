@@ -1,0 +1,25 @@
+{"id": "2-s2.0-105001712315", "verdict": "exclude", "code": "NONEMP", "reason": "Scoping review of social robots and learning analytics.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85196215526", "verdict": "exclude", "code": "NOIND", "reason": "SEM-neural network on e-LMS acceptance intention; survey, no activity indicators.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-105004260336", "verdict": "exclude", "code": "OFF", "reason": "Image fusion; no abstract.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85029442830", "verdict": "exclude", "code": "E2", "reason": "Conference proceedings front matter, not a study.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-105019297225", "verdict": "maybe", "code": "I1", "reason": "No abstract; mobile apps in learning process; empirical content and population unclear.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85209184174", "verdict": "exclude", "code": "E3", "reason": "Clinical nurses, not students.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-105017504608", "verdict": "maybe", "code": "I1", "reason": "Blended learning with crash cart for nursing students; knowledge and skills outcomes; activity indicators unclear.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85186971234", "verdict": "exclude", "code": "OFF", "reason": "Optical fibre sensing algorithm.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-80052268208", "verdict": "exclude", "code": "OFF", "reason": "Maglev vibration suppression; no abstract.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85124572389", "verdict": "maybe", "code": "I1", "reason": "Learning analytics dashboards in LMS for motivation, engagement and achievement; empirical status unclear.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85123834961", "verdict": "maybe", "code": "I2", "reason": "Students' mobile learning motivation (intrinsic and extrinsic); also teachers; indicators unclear.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-84949009072", "verdict": "maybe", "code": "I2", "reason": "No abstract; book chapter on corrections learning and performance; population unclear.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85117745082", "verdict": "exclude", "code": "E6", "reason": "Portuguese-language qualitative study of medical teachers' perceptions.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85217619612", "verdict": "exclude", "code": "OFF", "reason": "Language model adapters NLP.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85200583576", "verdict": "exclude", "code": "OFF", "reason": "Retrieval-augmented language models.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85197481554", "verdict": "exclude", "code": "NOIND", "reason": "Survey of factors in LMS success in Dubai; no activity indicators evident.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85112164023", "verdict": "exclude", "code": "E2", "reason": "Conference proceedings front matter.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85073220785", "verdict": "exclude", "code": "OFF", "reason": "Linear motor control.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-0742268518", "verdict": "maybe", "code": "I2", "reason": "No abstract; learning traits, motivation and performance dynamics; population unknown.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-105052107885", "verdict": "pass", "code": "I1", "reason": "Predicts EFL student performance from LMS logs, quizzes, attendance and engagement metrics in higher education.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85145451700", "verdict": "exclude", "code": "E3", "reason": "HR managers and employees.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-105028714004", "verdict": "exclude", "code": "NONEMP", "reason": "Systematic review; secondary school students.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85074638047", "verdict": "maybe", "code": "I2", "reason": "Abstract in Russian but language field en; engineering students motivational conditions; indicators unclear.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85034642537", "verdict": "exclude", "code": "OFF", "reason": "Transformer noise engineering.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85045642239", "verdict": "exclude", "code": "OFF", "reason": "Power system eigen-analysis.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}

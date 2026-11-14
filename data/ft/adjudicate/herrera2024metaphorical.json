@@ -1,0 +1,45 @@
+{
+ "id": "herrera2024metaphorical",
+ "part": "C",
+ "independent_decision": "exclude",
+ "independent_code": "NOREL",
+ "assessor_decision": "include (re-extraction mode; criteria_met=[])",
+ "agree": true,
+ "final_decision": "include",
+ "final_code": null,
+ "reason": "Part C (D8: original inclusion unchanged). Moodle-derived progress, interaction rate and time, and final grades, are each compared between the old and the new LMS as classroom averages (Wilcoxon). No analysis relates an indicator to performance or a construct. Would be NOREL; assessor reached the same reading.",
+ "extraction_check": {
+  "n": "corrected",
+  "n_value": "1697 students (2023-A) and 1859 students (2023-B); unit of analysis 224 virtual classrooms",
+  "n_quote": "education, international business, and business administration, with a total of 1697 students [...] consisted of the observations collected for 224 virtual classrooms.",
+  "effect_sizes": [],
+  "table2_changes": [
+   {
+    "column": "n",
+    "from": "nr",
+    "to": "1697 and 1859 students in two semesters; 224 virtual classrooms analysed",
+    "quote": "for the first intervention period (semester 2023-A previous LMS) and 1859 students during"
+   },
+   {
+    "column": "design",
+    "from": "Case study",
+    "to": "Case study: before/after system comparison of classroom averages (Wilcoxon signed-rank)",
+    "quote": "obtained from 224 virtual classrooms."
+   },
+   {
+    "column": "lms_indicators",
+    "from": "Interaction quality with virtual classroom objects",
+    "to": "Classroom-average progress (% activities completed), interaction rate and connection time from the Moodle database",
+    "quote": "of the academic period were performance, progress, interaction rate, and time spent by"
+   }
+  ]
+ },
+ "sensitivity": {
+  "criteria_met": [],
+  "meets_update_rules": false,
+  "decisive_quote": "the previous system and the newly implemented virtual classroom system, a significant",
+  "note": "Indicators are platform-recorded but aggregated per classroom and treated as outcomes of the system change; system period is group membership, not an indicator. Assessor left n as nr; the two cohort sizes are stated in the text."
+ },
+ "adjudicator": "claude-fable-5-2 (WP05b)",
+ "adjudicated_on": "2026-11-12"
+}

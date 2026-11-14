@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-84982918831",
+ "arm": "S",
+ "doi": "10.1177/0266666915581719",
+ "title": "Perceived learning outcomes from Moodle: An empirical study of intrinsic and extrinsic motivating factors",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "NOREL",
+ "reason": "Questionnaire SEM (276 usable responses) relating perceived Moodle module features and Academic Motivation Scale to perceived learning effectiveness and self-rated academic performance. All variables are 5-point Likert self-report; no Moodle logs.",
+ "extraction": {
+  "country": "Pakistan (Allama Iqbal Open University, OLIVE)",
+  "design": "cross-sectional survey, SEM",
+  "n": 276,
+  "n_quote": "tionnaires were received, of which 276 (78.9%) were",
+  "population": "undergraduate and postgraduate online students (business, management, computing), 1 university",
+  "lms_indicators": "none (perceived Moodle features)",
+  "outcome_or_construct": "intrinsic/extrinsic motivation (AMS), perceived learning effectiveness, self-reported academic performance",
+  "effect_sizes": [],
+  "notes": "800 targeted, 350 returned."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-12"
+}

@@ -1,0 +1,47 @@
+{
+ "id": "2-s2.0-85206140870",
+ "independent_decision": "include",
+ "independent_code": "I1",
+ "assessor_decision": "include",
+ "assessor_code": null,
+ "agree": true,
+ "code_agree": true,
+ "final_decision": "include",
+ "final_code": null,
+ "reason": "Canvas-recorded optional practice attempts and page-access counts per student enter mixed models of exam scores over four exams (65 students). Meets I1; I3 is not needed, since attempts are log counts rather than scored products.",
+ "extraction_check": {
+  "n": "ok",
+  "n_value": 65,
+  "n_quote": "The final sample size was 65 students (34 in the leaderboard",
+  "effect_sizes": [
+   {
+    "value": "b (unstandardised, LMM) = 0.006, 95% CI 0.003–0.009, p<0.001 (marginal R2 = 0.088) (practice attempts ↔ exam score)",
+    "status": "ok",
+    "quote": "Attempts 0.006 0.003–0.009 <0.001",
+    "note": "composite value (b, CI, p); each number checked by hand against Tables 1-2 (text lines 409 and 437)"
+   },
+   {
+    "value": "b (unstandardised, LMM) = 0.002, 95% CI 0.001–0.004, p=0.007 (marginal R2 = 0.140) (practice engagement (access counts) ↔ exam score)",
+    "status": "ok",
+    "quote": "Access Counts 0.002 0.001–0.004 0.007",
+    "note": "composite value (b, CI, p); each number checked by hand against Tables 1-2 (text lines 409 and 437)"
+   }
+  ],
+  "table2_changes": []
+ },
+ "adjudicator": "claude-fable-5-2 (WP05b)",
+ "adjudicated_on": "2026-11-13",
+ "criteria_met": [
+  "I1"
+ ],
+ "table2_row": {
+  "country": "USA",
+  "design": "longitudinal quasi-experiment (group-randomised leaderboard vs control) with multilevel linear mixed models",
+  "n": 65,
+  "lms_indicators": "number of optional practice quiz/exam attempts per exam period; practice engagement (LB/practice page access counts)",
+  "outcome_or_construct": "exam scores (% correct, 4 exams)",
+  "effect_size": "b = 0.006 exam-score proportion per practice attempt (95% CI 0.003-0.009); b = 0.002 per page access; marginal R2 = 0.088"
+ },
+ "table2_row_source": "assessor extraction, cells confirmed by adjudicator",
+ "recompared": "The assessor revised this file after my first adjudication; re-compared against the current assess file on 2026-11-13."
+}

@@ -1,0 +1,25 @@
+{"id": "OUCI2-9jd2vxPq", "verdict": "exclude", "code": "NONEMP", "reason": "Conceptual design model for industrial gamification; workforce training, no data", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "OUCI2-7XaQK313", "verdict": "exclude", "code": "NONEMP", "reason": "Narrative review of technology-based assessment instruments in secondary science", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "OUCI2-4OqmnP2N", "verdict": "exclude", "code": "NOIND", "reason": "Pre-post technology acceptance survey in LMS; abstract states no LMS-use or learning measures", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "OUCI2-4bPXAWgB", "verdict": "exclude", "code": "E3", "reason": "Employee performance at university staff; not students", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "OUCI2-lmbPyXBP", "verdict": "pass", "code": "I2", "reason": "Flipped course with LMS, SRL scales and AI-RAG interaction logs, medical students; mediation analysis", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "OUCI2-4yNvd3Wg", "verdict": "maybe", "code": "I2", "reason": "Digital competence, learning motivation and academic performance; LMS use unclear, likely survey only", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "OUCI2-7nQLQVRL", "verdict": "maybe", "code": "I1", "reason": "AI-based distance learning platform with learner modelling and experiment; platform indicators unclear", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "OUCI2-4grma5WW", "verdict": "maybe", "code": "I2", "reason": "Moodle LMS use, motivation and learning outcomes of nursing students with regression; LMS indicators unclear", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "OUCI2-731K1KLQ", "verdict": "exclude", "code": "NONEMP", "reason": "Literature review of Google Sites in mathematics teaching", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "OUCI2-7qEddaVJ", "verdict": "exclude", "code": "NONEMP", "reason": "Review of Indonesian EFL LMS studies", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "OUCI2-ldoJWXVk", "verdict": "maybe", "code": "I3", "reason": "Future teachers in digital environment, competency tasks; experiment with student activity products possible", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "OUCI2-4201EqzB", "verdict": "exclude", "code": "NONEMP", "reason": "Theoretical overview of innovative technologies in language teaching", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "OUCI2-leLPaZxJ", "verdict": "exclude", "code": "NONEMP", "reason": "PRISMA systematic review of taekwondo technology", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "OUCI2-4VPazBzY", "verdict": "maybe", "code": "I2", "reason": "CMC and gamification in higher education, empirical evidence plus frameworks; empirical content unclear", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "OUCI2-7XavzXNx", "verdict": "exclude", "code": "NOIND", "reason": "Plant identification apps accuracy comparison; no learning-activity indicators", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "OUCI2-9JQd5Z1m", "verdict": "exclude", "code": "NONEMP", "reason": "Systematic review of LMS gamification", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "OUCI2-4bP0Eg8L", "verdict": "pass", "code": "I1", "reason": "Moodle in distance learning of coaches; platform visit counts and success rates reported", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "OUCI2-4NkxWVyx", "verdict": "exclude", "code": "NONEMP", "reason": "Theoretical framework for AI and gamification, no data", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "OUCI2-7Wj1AeOX", "verdict": "exclude", "code": "E6", "reason": "Bulgarian-language record", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "OUCI2-7qEdQXDK", "verdict": "maybe", "code": "I1", "reason": "IT-based media including LMS and quizzes, experimental vs control; academic performance and engagement, indicators unclear", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "OUCI2-4VPV3ndW", "verdict": "exclude", "code": "OFF", "reason": "LMS means least-mean-squares filtering in pressure testing", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "OUCI2-9ZPyZnKz", "verdict": "exclude", "code": "NONEMP", "reason": "Literature review of OER economic sustainability", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "OUCI2-lxLjp1XE", "verdict": "exclude", "code": "E3", "reason": "Secondary school pupils, digital literacy and learning behaviour", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "OUCI2-7WjKv6jO", "verdict": "exclude", "code": "NONEMP", "reason": "Systematic literature review of COVID e-learning reforms", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "OUCI2-l11OKr55", "verdict": "maybe", "code": "I2", "reason": "ICT tools, motivation and learner autonomy; empirical design and LMS indicators unclear", "screener": "claude-sonnet-5-5 (WP02b first pass)"}

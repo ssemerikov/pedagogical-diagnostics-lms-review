@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-85218831497",
+ "arm": "S",
+ "doi": "10.1007/s11042-025-20657-w",
+ "title": "A comparative study of learning style model using machine learning for an adaptive E-learning",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "E3",
+ "reason": "Compares machine-learning learning-style identification in an adaptive e-learning system tested with 30 primary-school learners. Sample is not higher- or vocational-education students.",
+ "extraction": {
+  "country": "Morocco (authors' affiliations; not verified)",
+  "design": "ML comparison with small experiment",
+  "n": 30,
+  "n_quote": "30 learners from the second level of primary education participated in the experiment.",
+  "population": "primary-school pupils",
+  "lms_indicators": "learner behaviour in adaptive e-learning system",
+  "outcome_or_construct": "learning style",
+  "effect_sizes": [],
+  "notes": "Data availability statement says no datasets were generated or analysed."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-12"
+}

@@ -1,0 +1,21 @@
+{
+ "id": "2-s2.0-85064719172",
+ "independent_decision": "exclude",
+ "independent_code": "NONEMP",
+ "assessor_decision": "exclude",
+ "assessor_code": "NONEMP",
+ "agree": true,
+ "code_agree": true,
+ "final_decision": "exclude",
+ "final_code": "NONEMP",
+ "reason": "System and algorithm description; an evaluation with 48 students is mentioned but its results are not reported in this paper.",
+ "extraction_check": {
+  "n": "ok",
+  "n_value": 48,
+  "n_quote": "students studying a computer science-related majors. There were 48 students participating",
+  "effect_sizes": [],
+  "table2_changes": []
+ },
+ "adjudicator": "claude-fable-5-2 (WP05b)",
+ "adjudicated_on": "2026-11-13"
+}

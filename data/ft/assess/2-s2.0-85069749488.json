@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-85069749488",
+ "arm": "S",
+ "doi": "10.1007/978-3-030-23525-3_36",
+ "title": "Impact of Motivational Factors on the Learning Process in the Use of Learning Management Systems: An Empirical Study Based on Learners’ Experiences",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "NOREL",
+ "reason": "Short conference paper: online survey of 60 students (20 questions) on motivational aspects of using the OPAL LMS, reported as category percentages. Self-report only; no platform-recorded indicator.",
+ "extraction": {
+  "country": "Germany (University of Applied Sciences Mittweida)",
+  "design": "descriptive online survey",
+  "n": 60,
+  "n_quote": "ated by means of an online survey of 60 students with regard to the motivational",
+  "population": "university of applied sciences students using OPAL",
+  "lms_indicators": "none",
+  "outcome_or_construct": "perceived motivational factors (self-report)",
+  "effect_sizes": [],
+  "notes": "Text title lacks 'Impact of ... on the Learning Process' but authors/venue match (HCII 2019 poster, CCIS)."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-12"
+}

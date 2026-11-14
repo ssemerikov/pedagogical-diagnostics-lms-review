@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-84994193820",
+ "arm": "S",
+ "doi": null,
+ "title": "Personalized learning management system using semantic web based learning style detection",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "NONEMP",
+ "reason": "System proposal: an ontology (Protégé) infers a learner's Kolb style from tracked activity choice, frequency, time and results. Output is shown as Protégé query screenshots; no participants, dataset or validation against a measured style.",
+ "extraction": {
+  "country": "India (authors' affiliations)",
+  "design": "system design / ontology prototype",
+  "n": "nr",
+  "n_quote": null,
+  "population": "none",
+  "lms_indicators": "activity choice, access frequency, time spent, results (designed, not analysed)",
+  "outcome_or_construct": "Kolb learning style (inferred by rules)",
+  "effect_sizes": [],
+  "notes": "Journal of Chemical and Pharmaceutical Sciences (out-of-field venue)."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-12"
+}

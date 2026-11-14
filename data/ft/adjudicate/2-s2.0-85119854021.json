@@ -1,0 +1,21 @@
+{
+ "id": "2-s2.0-85119854021",
+ "independent_decision": "exclude",
+ "independent_code": "NOREL",
+ "assessor_decision": "exclude",
+ "assessor_code": "NOREL",
+ "agree": true,
+ "code_agree": true,
+ "final_decision": "exclude",
+ "final_code": "NOREL",
+ "reason": "Questionnaire study of learning motivation during isolation; correlations are among self-report scales.",
+ "extraction_check": {
+  "n": "ok",
+  "n_value": 107,
+  "n_quote": "processing methods. In total, 107 undergraduates took part in the study. The difficulties and benefits",
+  "effect_sizes": [],
+  "table2_changes": []
+ },
+ "adjudicator": "claude-fable-5-2 (WP05b)",
+ "adjudicated_on": "2026-11-13"
+}

@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-85061305268",
+ "arm": "S",
+ "doi": "10.1016/j.ergon.2018.12.006",
+ "title": "Eye movement as a mediator of the relationships among time pressure, feedback, and learning performance",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "NOREL",
+ "reason": "Lab experiment (24 students) where eye-tracker fixations (Tobii X2-30) mediate time-pressure and feedback effects on learning-task time and correctness (SEM). Eye-tracking is not an LMS-measurable indicator or activity product; no LMS indicator is analysed.",
+ "extraction": {
+  "country": "nr (not checked; US-style university setting)",
+  "design": "within-subject lab experiment (4 conditions), SEM",
+  "n": 24,
+  "n_quote": "Twenty-four undergraduate and graduate students [10 females and",
+  "population": "undergraduate and graduate students naive to project management",
+  "lms_indicators": "none (eye-tracker fixation counts/rates)",
+  "outcome_or_construct": "task completion time, correct answers in self-paced learning trials",
+  "effect_sizes": [],
+  "notes": "If eye-movement measures were deemed in scope, this would be an I1 candidate; adjudicator may reconsider. Experimental factors are time-to-deadline and feedback."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-12"
+}

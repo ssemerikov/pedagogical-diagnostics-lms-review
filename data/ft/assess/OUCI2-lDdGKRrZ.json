@@ -1,0 +1,23 @@
+{
+ "id": "OUCI2-lDdGKRrZ",
+ "arm": "O2",
+ "doi": "10.23900/ra.v24i112.947",
+ "title": "Education management in the context of China's \"one belt, one road\" initiative: cultural \"soft power\" and the elimination of local differences using music computer technologies and distance learning",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "E4",
+ "reason": "Single-group pre/post intervention (n = 16 music students) comparing vowel acoustics, knowledge and self-assessment with paired t-tests. No LMS-recorded indicator or activity-product indicator is related to learning-action success or a personality construct.",
+ "extraction": {
+  "country": "China (Guizhou Province; authors at Herzen State Pedagogical University, Russia)",
+  "design": "single-group pre/post, paired t-tests",
+  "n": 16,
+  "n_quote": "Sixteen music major students (8 male, 8 female, aged 19–25) from Guizhou Province, China,",
+  "population": "undergraduate music-performance students, local universities in Guizhou",
+  "lms_indicators": "none (distance-learning delivery only)",
+  "outcome_or_construct": "Praat acoustic measures, theory knowledge questionnaire, dialect self-assessment",
+  "effect_sizes": [],
+  "notes": "Recordings are the outcome, not an indicator linked to success. English text."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-12"
+}

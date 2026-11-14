@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-85099574840",
+ "arm": "S",
+ "doi": null,
+ "title": "Jigsaw in the time of pandemic",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "NOREL",
+ "reason": "Jigsaw collaborative-learning case report (one university course, moved online by COVID-19) evaluated by student perception surveys compared with the previous year. No platform-recorded indicator or activity product is related to success or a construct.",
+ "extraction": {
+  "country": "Spain (University of Girona)",
+  "design": "case study, repeated perception surveys",
+  "n": 12,
+  "n_quote": "given the larger number of surveyed students (last year 9 students, this year 12 students.",
+  "population": "3rd-year videogame design and development degree students, 1 course",
+  "lms_indicators": "none",
+  "outcome_or_construct": "self-reported effort, teamwork, perceived learning",
+  "effect_sizes": [],
+  "notes": "Authors call the correlations 'interesting, but hard to prove'. Survey respondents per year: 9 and 12."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-12"
+}

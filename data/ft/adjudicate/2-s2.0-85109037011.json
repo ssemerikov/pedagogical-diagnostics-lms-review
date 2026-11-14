@@ -1,0 +1,21 @@
+{
+ "id": "2-s2.0-85109037011",
+ "independent_decision": "exclude",
+ "independent_code": "E4",
+ "assessor_decision": "exclude",
+ "assessor_code": "E3",
+ "agree": true,
+ "code_agree": false,
+ "final_decision": "exclude",
+ "final_code": "E3",
+ "reason": "Four-group randomised reading experiment with test and perception outcomes. Blind I coded E4; participants are learners at a private language school, not higher- or vocational-education students, so the assessor's E3 takes precedence.",
+ "extraction_check": {
+  "n": "ok",
+  "n_value": 278,
+  "n_quote": "Participants included 278 intermediate EFL learners at a private language school.",
+  "effect_sizes": [],
+  "table2_changes": []
+ },
+ "adjudicator": "claude-fable-5-2 (WP05b)",
+ "adjudicated_on": "2026-11-13"
+}

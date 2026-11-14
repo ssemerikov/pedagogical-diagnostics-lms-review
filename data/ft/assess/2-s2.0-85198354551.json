@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-85198354551",
+ "arm": "S",
+ "doi": "10.1186/s12909-024-05741-3",
+ "title": "Effect of Tronclass combined with team-based learning on nursing students’ self-directed learning and academic performance: a pretest-posttest study",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "E4",
+ "reason": "Pre/post self-directed-learning scale scores and comparison of midterm/final grades with a previous graduated cohort after Tronclass plus team-based learning. No per-student Tronclass activity indicator is analysed; only pre-post and cohort contrasts.",
+ "extraction": {
+  "country": "China (university in Hunan Province)",
+  "design": "single-group pre-post + historical cohort comparison",
+  "n": 68,
+  "n_quote": "One out of 69 Participants dropped out of the program, and data from the rest 68 were collected.",
+  "population": "third-year undergraduate nursing students, 1 university",
+  "lms_indicators": "none analysed (Tronclass used for delivery)",
+  "outcome_or_construct": "self-directed learning ability (self-report scale); midterm and final grades",
+  "effect_sizes": [],
+  "notes": "Secondary: NOREL for the SDL scale (self-report)."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-12"
+}

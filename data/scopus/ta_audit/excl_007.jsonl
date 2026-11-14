@@ -1,0 +1,13 @@
+{"id": "2-s2.0-85200583576", "audit": "uphold", "new_verdict": "exclude", "code": "OFF", "reason": "Retrieval-augmented language models; LMs are language models.", "auditor": "claude-opus-5-5 (WP02b audit)"}
+{"id": "2-s2.0-85201152356", "audit": "uphold", "new_verdict": "exclude", "code": "E4", "reason": "Exam scores compared across in-person, online and hybrid cohorts; no learning-activity indicator.", "auditor": "claude-opus-5-5 (WP02b audit)"}
+{"id": "2-s2.0-85201534764", "audit": "uphold", "new_verdict": "exclude", "code": "E3", "reason": "Mothers in a community parenting programme; not students.", "auditor": "claude-opus-5-5 (WP02b audit)"}
+{"id": "2-s2.0-85202586225", "audit": "uphold", "new_verdict": "exclude", "code": "NOIND", "reason": "Self-report engagement, interaction and interest scales; no log data.", "auditor": "claude-opus-5-5 (WP02b audit)"}
+{"id": "2-s2.0-85209184174", "audit": "uphold", "new_verdict": "exclude", "code": "E3", "reason": "Practising clinical nurses in professional development; not students.", "auditor": "claude-opus-5-5 (WP02b audit)"}
+{"id": "2-s2.0-85210138795", "audit": "uphold", "new_verdict": "exclude", "code": "NOIND", "reason": "Focus-group interviews; no platform or product measure.", "auditor": "claude-opus-5-5 (WP02b audit)"}
+{"id": "2-s2.0-85210601503", "audit": "uphold", "new_verdict": "exclude", "code": "OFF", "reason": "Leiomyosarcoma molecular biology.", "auditor": "claude-opus-5-5 (WP02b audit)"}
+{"id": "2-s2.0-85211389083", "audit": "uphold", "new_verdict": "exclude", "code": "NONEMP", "reason": "Scoping review of digital feedback in clinical training; not LMS indicators.", "auditor": "claude-opus-5-5 (WP02b audit)"}
+{"id": "2-s2.0-85213271805", "audit": "uphold", "new_verdict": "exclude", "code": "OFF", "reason": "Curcumin and leiomyoma in hens.", "auditor": "claude-opus-5-5 (WP02b audit)"}
+{"id": "2-s2.0-85214735289", "audit": "uphold", "new_verdict": "exclude", "code": "OFF", "reason": "RLHF reward composition for language models.", "auditor": "claude-opus-5-5 (WP02b audit)"}
+{"id": "2-s2.0-85216308841", "audit": "uphold", "new_verdict": "exclude", "code": "E4", "reason": "Course formats compared on graduation radiology-report scores; achievement comparison, no activity indicator.", "auditor": "claude-opus-5-5 (WP02b audit)"}
+{"id": "2-s2.0-85218418747", "audit": "uphold", "new_verdict": "exclude", "code": "OFF", "reason": "Linear motor sliding-mode control.", "auditor": "claude-opus-5-5 (WP02b audit)"}
+{"id": "2-s2.0-8844277683", "audit": "uphold", "new_verdict": "exclude", "code": "OFF", "reason": "Adaptive IIR modelling of twin rotor system.", "auditor": "claude-opus-5-5 (WP02b audit)"}

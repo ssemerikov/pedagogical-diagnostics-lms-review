@@ -1,0 +1,24 @@
+{
+ "id": "2-s2.0-105042502652",
+ "arm": "S",
+ "doi": "10.9743/jeo.2026.23.2.7",
+ "title": "ADDRESSING LOWER THRESHOLD CONCEPT ISSUE AMONG DISTANCE LEARNERS: AN EMPIRICAL EVIDENCE OF SCHOLARLY TEACHING AND LEARNING (SOTL) IN FRANCHISE BUSINESS MANAGEMENT",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "NOREL",
+ "reason": "Action research with 11 adult distance learners using a Padlet infographic module, analysed thematically (interviews, essays, reflections) with case scores across cycles. No platform or activity-product indicator is empirically related to success or a construct.",
+ "extraction": {
+  "country": "Malaysia (Universiti Utara Malaysia)",
+  "design": "action research (qualitative, cyclical)",
+  "n": 11,
+  "n_quote": "Eleven adult learners (26 to 44 years old) of ... the BPME3023 Franchise Business Management ... course were selected to participate in the research.",
+  "population": "adult (working) distance learners, undergraduate business course, 1 university",
+  "lms_indicators": "none quantified (Padlet posts and essays analysed qualitatively)",
+  "outcome_or_construct": "understanding of threshold concepts (case-answer scores, interview themes)",
+  "effect_sizes": [],
+  "notes": "n given in words ('Eleven'); recorded as 11. No statistics."
+ },
+ "quote_check": "forced (n given as the word 'Eleven'); n_quote re-split into column fragments and re-verified verbatim",
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-12"
+}

@@ -1,0 +1,21 @@
+{
+ "id": "2-s2.0-105013126107",
+ "independent_decision": "exclude",
+ "independent_code": "NOREL",
+ "assessor_decision": "exclude",
+ "assessor_code": "NOREL",
+ "agree": true,
+ "code_agree": true,
+ "final_decision": "exclude",
+ "final_code": "NOREL",
+ "reason": "Psychometric validation of a self-report questionnaire; no platform-recorded measure.",
+ "extraction_check": {
+  "n": "ok",
+  "n_value": 635,
+  "n_quote": "The sample consisted of a total of 635 individuals: 67.4% identified as male, 31.5% as female, and 1.1% did not specify their gender.",
+  "effect_sizes": [],
+  "table2_changes": []
+ },
+ "adjudicator": "claude-fable-5-2 (WP05b)",
+ "adjudicated_on": "2026-11-13"
+}

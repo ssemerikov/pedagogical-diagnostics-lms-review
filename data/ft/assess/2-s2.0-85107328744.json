@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-85107328744",
+ "arm": "S",
+ "doi": "10.22521/edupij.2021.102.3",
+ "title": "The effects of a mobile pre-learning system with surface learning approach on academic achievement and mobile learning attitude",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "E4",
+ "reason": "Pretest-posttest non-equivalent control-group quasi-experiment: ANCOVA of achievement and comparison of mobile-learning attitude between groups; video viewing in the mobile pre-learning system is not measured per student or related to outcomes.",
+ "extraction": {
+  "country": "Turkey",
+  "design": "quasi-experimental pretest-posttest with non-equivalent control group (ANCOVA)",
+  "n": 135,
+  "n_quote": "Materials/methods – The research was conducted with 135 university",
+  "population": "university students in an Instructional Technologies course, Canakkale Onsekiz Mart University",
+  "lms_indicators": "none per student",
+  "outcome_or_construct": "academic achievement test; mobile learning attitude scale",
+  "effect_sizes": [],
+  "notes": "Secondary NOREL for the attitude scale (self-report). Effects are group-membership effects."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-13"
+}

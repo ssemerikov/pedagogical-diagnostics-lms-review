@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-85065619479",
+ "arm": "S",
+ "doi": "10.15507/1991-9468.094.023.201901.008-022",
+ "title": "Using e-learning tools to enhance students-mathematicians' competences in the context of international academic mobility programmes",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "E4",
+ "reason": "Compares competence-mastery scores and motivation change between a target group using a multilingual Math-Bridge course (14) and a control group (8); no per-student platform activity measure enters any analysis.",
+ "extraction": {
+  "country": "Russia",
+  "design": "target vs control group comparison (descriptive)",
+  "n": "nr",
+  "n_quote": null,
+  "population": "Russian-speaking master's students in 'Optimization Methods', Kazan National Research Technical University (KAI)",
+  "lms_indicators": "none",
+  "outcome_or_construct": "competence mastery score; interest/motivation in mathematics",
+  "effect_sizes": [],
+  "notes": "English text (Integration of Education, international section); Cyrillic only in metadata and references. Groups of 14 and 8 students; no inferential statistics."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-13"
+}

@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-105029193628",
+ "arm": "S",
+ "doi": "10.18260/1-2--57669",
+ "title": "Statics and Dynamics: A Case Study of Supplementing Traditional Lectures with High Impact Practices such as Multiple-Attempt-Testing and Project-Based-Homework",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "E4",
+ "reason": "Compares cohort grade distributions and class averages per test attempt across semesters (baseline 2019 vs 2023/2024); entry/exit MSLQ surveys only compared pre/post. No per-student Canvas measure is related to success or to a construct.",
+ "extraction": {
+  "country": "USA",
+  "design": "case study, cohort comparison across semesters + pre/post survey",
+  "n": "nr",
+  "n_quote": "test was conducted with 81 students (n=81) voluntarily deciding to respond to both the entry and exit surveys.",
+  "population": "Statics and Dynamics engineering undergraduates, University of Central Florida (several semesters; e.g. 177 in Summer 2024 Dynamics, 340 in Spring 2019 Statics baseline)",
+  "lms_indicators": "Canvas-graded multiple-attempt test scores, aggregated by attempt (class level)",
+  "outcome_or_construct": "grade distributions, pass and DFW rates; self-reported MSLQ SRL, self-efficacy, test anxiety (pre/post)",
+  "effect_sizes": [],
+  "notes": "n_quote refers to the survey subsample. Paired-sample correlations (e.g. SRL r=.667) are entry-exit stability of the same self-report scale, not indicator-outcome relations. Secondary NOREL. ASEE conference paper."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-13"
+}

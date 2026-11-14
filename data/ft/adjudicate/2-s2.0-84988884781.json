@@ -1,0 +1,22 @@
+{
+ "id": "2-s2.0-84988884781",
+ "independent_decision": "exclude",
+ "independent_code": "NOREL",
+ "assessor_decision": "exclude",
+ "assessor_code": "NOREL",
+ "agree": true,
+ "code_agree": true,
+ "final_decision": "exclude",
+ "final_code": "NOREL",
+ "reason": "Eye-blink and facial-temperature recordings of eight students described against questionnaire impressions without statistics; biometric sensors are not LMS-measurable indicators.",
+ "extraction_check": {
+  "n": "ok",
+  "n_value": 8,
+  "n_quote": "Eight students were chosen as examinee totally.",
+  "effect_sizes": [],
+  "table2_changes": [],
+  "n_note": "number given in words or as a sum (8 students in two groups of 4)"
+ },
+ "adjudicator": "claude-fable-5-2 (WP05b)",
+ "adjudicated_on": "2026-11-13"
+}

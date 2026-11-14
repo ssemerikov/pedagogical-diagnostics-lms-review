@@ -1,0 +1,21 @@
+{
+ "id": "2-s2.0-85203842954",
+ "independent_decision": "exclude",
+ "independent_code": "NOREL",
+ "assessor_decision": "exclude",
+ "assessor_code": "NOREL",
+ "agree": true,
+ "code_agree": true,
+ "final_decision": "exclude",
+ "final_code": "NOREL",
+ "reason": "Technology-acceptance survey of 220 students analysed by PLS-SEM; all constructs self-reported.",
+ "extraction_check": {
+  "n": "ok",
+  "n_value": 220,
+  "n_quote": "design that used a sample of 220 students from the Faculty of",
+  "effect_sizes": [],
+  "table2_changes": []
+ },
+ "adjudicator": "claude-fable-5-2 (WP05b)",
+ "adjudicated_on": "2026-11-13"
+}

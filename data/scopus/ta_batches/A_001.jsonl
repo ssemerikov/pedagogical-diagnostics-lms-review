@@ -1,0 +1,25 @@
+{"id": "2-s2.0-105043924681", "verdict": "maybe", "code": "I1", "reason": "No abstract; prospective teachers are students, but title unclear on LMS indicators.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-105026633270", "verdict": "maybe", "code": "I2", "reason": "No abstract; online L2 speaking with motivation-based frameworks; indicators unclear.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85139888211", "verdict": "exclude", "code": "OFF", "reason": "3D-printed lab equipment for bulk materials; not education.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-79551561894", "verdict": "exclude", "code": "OFF", "reason": "LMS adaptive filter, speech signal processing.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-84944228015", "verdict": "maybe", "code": "I2", "reason": "MOOC physical chemistry; student motivation and feedback reported; unclear whether activity data used.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85138612342", "verdict": "exclude", "code": "OFF", "reason": "Colorectal cancer biology.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-84870333138", "verdict": "exclude", "code": "E3", "reason": "Web-based corporate training of insurance employees.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-105035255632", "verdict": "exclude", "code": "OFF", "reason": "Active noise control in elevators.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-105028984739", "verdict": "maybe", "code": "I1", "reason": "Medical students online course; module assessments and reflections; indicators unclear.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85139441500", "verdict": "maybe", "code": "I1", "reason": "Organic chemistry online vs in-person lab discussion and performance; may include activity measures.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-105052658977", "verdict": "exclude", "code": "OFF", "reason": "Cancer risk assessment, LMS = linearized multistage model.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85199000461", "verdict": "exclude", "code": "OFF", "reason": "Pharmacokinetics, liver microsomes.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-84864004349", "verdict": "exclude", "code": "OFF", "reason": "Modal analysis engineering; no abstract.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85130818632", "verdict": "maybe", "code": "I2", "reason": "No abstract; student and teacher attitudes to distance learning; indicators unclear.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-80053229633", "verdict": "exclude", "code": "OFF", "reason": "Sarcoma biology; no abstract.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-105037328807", "verdict": "exclude", "code": "OFF", "reason": "LMS equalizer algorithm for high-speed links.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-84878199671", "verdict": "exclude", "code": "NONEMP", "reason": "Systematic review of web-based nursing education.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-105046241580", "verdict": "exclude", "code": "NOIND", "reason": "Survey-based PLS-SEM on AI/LMS adoption intention; no log or activity indicators.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85199888105", "verdict": "exclude", "code": "OFF", "reason": "Language models reinforcement learning NLP.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-105029008520", "verdict": "exclude", "code": "OFF", "reason": "Industrial fault diagnosis.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85116359361", "verdict": "exclude", "code": "OFF", "reason": "Liquid metal stress sensors.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85105483497", "verdict": "pass", "code": "I1", "reason": "Randomised field experiment on MOOC platform; calls to action and course completion/procrastination.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-105037866613", "verdict": "exclude", "code": "OFF", "reason": "Soft tissue tumour transcriptomics.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85190368855", "verdict": "exclude", "code": "NOIND", "reason": "Cross-sectional survey on online education devices and technical problems; no activity indicators.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-84871787580", "verdict": "exclude", "code": "OFF", "reason": "Agricultural laser sensing.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}

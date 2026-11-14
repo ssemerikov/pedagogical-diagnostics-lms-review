@@ -1,0 +1,20 @@
+{
+ "id": "2-s2.0-105003668220",
+ "independent_decision": "exclude",
+ "independent_code": "E6",
+ "assessor_decision": "exclude",
+ "assessor_code": "E6",
+ "agree": true,
+ "code_agree": true,
+ "final_decision": "exclude",
+ "final_code": "E6",
+ "reason": "Full text is in Persian with an English abstract only; language is neither English nor Ukrainian.",
+ "extraction_check": {
+  "n": "nr_unverified",
+  "n_value": "nr",
+  "effect_sizes": [],
+  "table2_changes": []
+ },
+ "adjudicator": "claude-fable-5-2 (WP05b)",
+ "adjudicated_on": "2026-11-13"
+}

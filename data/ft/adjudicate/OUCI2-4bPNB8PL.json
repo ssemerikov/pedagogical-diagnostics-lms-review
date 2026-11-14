@@ -1,0 +1,21 @@
+{
+ "id": "OUCI2-4bPNB8PL",
+ "independent_decision": "exclude",
+ "independent_code": "NONEMP",
+ "assessor_decision": "exclude",
+ "assessor_code": "NONEMP",
+ "agree": true,
+ "code_agree": true,
+ "final_decision": "exclude",
+ "final_code": "NONEMP",
+ "reason": "Methodological framework for an experiment; tests and a design with 250 students are named but no results are reported.",
+ "extraction_check": {
+  "n": "ok",
+  "n_value": 250,
+  "n_quote": "The study involved 250 undergraduate and gradu- ... ate students, including 120 participants in the experi-",
+  "effect_sizes": [],
+  "table2_changes": []
+ },
+ "adjudicator": "claude-fable-5-2 (WP05b)",
+ "adjudicated_on": "2026-11-13"
+}

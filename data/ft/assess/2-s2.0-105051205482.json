@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-105051205482",
+ "arm": "S",
+ "doi": "10.1186/s12909-026-09829-w",
+ "title": "Enhancing histology education: Iranian medical students’ experience with eHistoLab web-application virtual microscopy",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "E4",
+ "reason": "Two-group pre/post comparison of histology knowledge (eHistoLab virtual microscopy vs e-lecturing) plus preference percentages. LMS only delivers materials; no per-student platform indicator is related to outcomes.",
+ "extraction": {
+  "country": "Iran (Smart University of Medical Sciences)",
+  "design": "quasi-experimental, two groups pre-post",
+  "n": 100,
+  "n_quote": "A total of 100 medical, dentistry, and pharmacy students enrolled in a histology course at Smart University of Medical Sciences (SMUMS), Iran, during the summer semester of 2023 participated in the study.",
+  "population": "medical, dentistry and pharmacy students, 1 university",
+  "lms_indicators": "none (LMS and app used for delivery)",
+  "outcome_or_construct": "histology knowledge test; tool preferences (self-report)",
+  "effect_sizes": [],
+  "notes": "Cohen's d = 1.31 is a pre-post/group effect, not an indicator-outcome relation."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-12"
+}

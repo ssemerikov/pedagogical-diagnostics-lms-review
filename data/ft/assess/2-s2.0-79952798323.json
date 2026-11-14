@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-79952798323",
+ "arm": "S",
+ "doi": "10.1109/icelet.2010.5708384",
+ "title": "How can human web based activity represent learning progress?",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "NONEMP",
+ "reason": "Conceptual conference paper applying activity theory to propose logging online-community activity with e-portfolios for assessment; no participants, data or analysis.",
+ "extraction": {
+  "country": "Iran",
+  "design": "conceptual / framework proposal",
+  "n": "nr",
+  "n_quote": null,
+  "population": "none (no empirical sample)",
+  "lms_indicators": "proposed: logged community activities and e-portfolio content",
+  "outcome_or_construct": "none",
+  "effect_sizes": [],
+  "notes": "ICELET 2010 conference paper."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-13"
+}

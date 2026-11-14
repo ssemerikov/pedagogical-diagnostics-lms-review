@@ -1,0 +1,27 @@
+{
+ "database": "OUCI (Open Ukrainian Citation Index, ouci.dntb.gov.ua)",
+ "run_started": "2026-11-12T08:16:25+02:00",
+ "access": "a review-team member's own Chrome browser, driven by Claude in Chrome; Cloudflare check cleared normally by the browser (no bypass)",
+ "query_url_param": "title=",
+ "total_results_stated": "184 публікацій",
+ "per_page": 10,
+ "pages": 19,
+ "title_param_scope": "title+abstract+DOI",
+ "title_param_scope_evidence": "The simple-search field that the 'title=' parameter fills is labelled 'Назва, анотація, DOI' (Title, abstract, DOI) on the results page; keywords are not named.",
+ "facets_page1": {
+  "Журнальна стаття": 165,
+  "Оприлюднений вміст": 8,
+  "Стаття збірника": 7,
+  "Глава книги": 2,
+  "Дисертація": 1,
+  "year_2026": 50,
+  "year_2025": 29,
+  "open_access": 70
+ },
+ "official_name": "Open Ukrainian Scientific Content Initiative (OUCI)",
+ "run_finished": "2026-11-12T08:23:04+02:00",
+ "records_collected": 184,
+ "records_with_doi": 184,
+ "unique_dois": 184,
+ "official_name_evidence": "https://ouci.dntb.gov.ua/en/about/ heading and first sentence: \"The Open Ukrainian Scientific Content Initiative (OUCI) is a national effort ... that use the Cited-by service from Crossref and support the Initiative for Open Citations.\" Developer: State Scientific and Technical Library of Ukraine (SSTL)."
+}

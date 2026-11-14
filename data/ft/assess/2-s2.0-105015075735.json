@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-105015075735",
+ "arm": "S",
+ "doi": "10.17549/gbfr.2025.30.8.136",
+ "title": "The Impact of Familiarity with Technology-Based Teaching Methods on the Acceptance of Online Learning Programs Among Business Students at Priviate Universities in Vietnam",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "NOREL",
+ "reason": "Mixed-methods technology-acceptance study: interviews, then a survey of 238 business students analysed with PLS-SEM. All constructs (familiarity, awareness, ease of use, acceptance) are self-reported; no platform-recorded indicator.",
+ "extraction": {
+  "country": "Vietnam (private universities)",
+  "design": "interviews plus survey, PLS-SEM",
+  "n": 238,
+  "n_quote": "turers and students to identify factors, followed by a quantitative survey of 238 business students, analyzed using",
+  "population": "business students at private universities",
+  "lms_indicators": "none",
+  "outcome_or_construct": "acceptance of online learning (self-report)",
+  "effect_sizes": [],
+  "notes": ""
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-12"
+}

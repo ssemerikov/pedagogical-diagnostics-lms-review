@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-85138664208",
+ "arm": "S",
+ "doi": "10.2174/18744346-v16-e2206270",
+ "title": "The Learning Contract and its Impact on Scholarship among Moroccan Nursing Students",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "NOREL",
+ "reason": "Perception questionnaire on an e-learning learning contract among 58 nursing students, reported descriptively. All data are self-report; no platform-recorded indicator or activity product is related to success or a construct.",
+ "extraction": {
+  "country": "Morocco (Higher Institute of Nursing and Health Techniques, Casablanca)",
+  "design": "cross-sectional survey (descriptive)",
+  "n": 58,
+  "n_quote": "A group of 58 students participated in a survey conducted by questionnaire, with a response rate of 86.20%.",
+  "population": "semester-4 multi-skilled nursing students (professional licence), 1 institute",
+  "lms_indicators": "none",
+  "outcome_or_construct": "perceived autonomy, motivation and application (self-report)",
+  "effect_sizes": [],
+  "notes": "Response rate 86.20% of 58 implies about 50 respondents; analysed n not stated separately."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-12"
+}

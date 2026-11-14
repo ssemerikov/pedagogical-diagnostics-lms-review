@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-85139441500",
+ "arm": "S",
+ "doi": "10.1021/acs.jchemed.2c00437",
+ "title": "Looking at the Laboratory Discussion: Course Modality Choice and Student Performance in Organic Chemistry",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "E4",
+ "reason": "Institutional records: logistic regression of online vs face-to-face lab-discussion enrolment and hierarchical regression of lab grades on modality and student characteristics. Modality is group membership; no per-student LMS activity measure enters the models.",
+ "extraction": {
+  "country": "USA",
+  "design": "correlational (logistic and hierarchical regression on institutional data)",
+  "n": 2226,
+  "n_quote": "This study consisted of a total of 2,226 students (n = 1,402",
+  "population": "organic chemistry course-sequence students at a US AANAPISI university, 2015-2017",
+  "lms_indicators": "none (enrolment modality only)",
+  "outcome_or_construct": "organic chemistry laboratory performance (grade); choice of online LD",
+  "effect_sizes": [],
+  "notes": "Online vs face-to-face modality effect on lab performance is a format comparison, not an indicator-outcome relation."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-13"
+}

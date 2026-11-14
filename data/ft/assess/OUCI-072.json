@@ -1,0 +1,23 @@
+{
+ "id": "OUCI-072",
+ "arm": "N",
+ "doi": "10.31992/0869-3617-2019-28-8-9-119-127",
+ "title": "Optimization of Online Course Content According to Users Activity Statistics",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "E6",
+ "reason": "Article body is in Russian (Vysshee obrazovanie v Rossii, 'Education Online' section). Topic: optimising online-course content from user-activity statistics of part-time distance students at Tomsk Polytechnic University.",
+ "extraction": {
+  "country": "Russia",
+  "design": "nr (descriptive use of course activity statistics)",
+  "n": "nr",
+  "n_quote": null,
+  "population": "part-time distance students, Tomsk Polytechnic University",
+  "lms_indicators": "Moodle course activity statistics (per the abstract)",
+  "outcome_or_construct": "nr",
+  "effect_sizes": [],
+  "notes": "Worklist title is an English translation of 'Оптимизация контента онлайн-курса по данным статистики активности пользователей'. Not assessed further after E6."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-13"
+}

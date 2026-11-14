@@ -1,0 +1,23 @@
+{
+ "id": "OUCI-001",
+ "arm": "N",
+ "doi": "10.31992/0869-3617-2020-29-8-9-117-126",
+ "title": "Usage of Learning Management System Web Analytics in Blended Learning Self-Study Evaluation",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "E6",
+ "reason": "Article body is in Russian (Vysshee Obrazovanie v Rossii / Pedagogika vysshei shkoly); only the metadata and an end abstract are English. Topic (Blackboard learning-analytics criteria for independent work) is otherwise relevant.",
+ "extraction": {
+  "country": "Russia",
+  "design": "methodology with application to one course",
+  "n": "nr",
+  "n_quote": null,
+  "population": "students of an Information Technologies course, Far Eastern Federal University",
+  "lms_indicators": "Blackboard analytics: mean result of test attempts, days active, mean time on course, etc.",
+  "outcome_or_construct": "success of independent work (composite metric)",
+  "effect_sizes": [],
+  "notes": "Worklist title is an English translation; full-text title 'Оценка самостоятельной работы студентов при смешанном обучении на основе данных учебной аналитики'. Not assessed further after E6."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-13"
+}

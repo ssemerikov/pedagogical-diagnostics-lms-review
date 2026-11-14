@@ -1,0 +1,41 @@
+{
+ "id": "OUCI2-4kEb33no",
+ "arm": "O2",
+ "doi": "10.66556/2786-586x.59.tsepkalo-o",
+ "title": "Blended English Language Learning as a Tool for Enhancing Academic Motivation and Developing Learners' Autonomy",
+ "decision": "include",
+ "criteria_met": [
+  "I1",
+  "I3"
+ ],
+ "exclusion_code": null,
+ "reason": "Ukrainian-language blended-learning experiment. Moodle trace (self-initiated practice-quiz iterations) and reflective-journal regularity correlated with speaking fluency and final case score (Spearman). Meets I1/I3; scales reported with Cronbach-alpha procedure.",
+ "extraction": {
+  "country": "Ukraine (Igor Sikorsky Kyiv Polytechnic Institute)",
+  "design": "quasi-experimental EG/CG plus correlational (Spearman), mixed methods",
+  "n": 120,
+  "n_quote": "experiment (n=120: control group n=58, experimental group n=62), questionnaires based on",
+  "population": "technical-university students in professional English courses, 1 university",
+  "lms_indicators": "Moodle logs: number of self-initiated attempts on practice lexico-grammar quizzes; regularity of reflective journal (Learning Logs) entries",
+  "outcome_or_construct": "speaking fluency in synchronous classes; final communicative case score; also motivation/autonomy (group contrasts only)",
+  "effect_sizes": [
+   {
+    "statistic": "Spearman rho",
+    "value": "0.68",
+    "between": "number of self-initiated practice-quiz iterations (Moodle) ↔ speaking fluency in synchronous classes",
+    "quote": "лексико-граматичних тестах і вільністю мовлення на синхронних заняттях (𝜌 = ... 0,68;𝑝 < 0,01);",
+    "location": "Results, section 3"
+   },
+   {
+    "statistic": "Spearman rho",
+    "value": "0.54",
+    "between": "regularity of reflective-journal entries ↔ final communicative case score",
+    "quote": "(Learning Logs) та оцінкою за підсумковии комунікативнии кеис (𝜌 = 0,54;𝑝 < 0,01).",
+    "location": "Results, section 3"
+   }
+  ],
+  "notes": "Sample for the correlations not stated (presumably EG n = 62). How fluency was scored is not described. English abstract describes the rho = 0.54 outcome as 'overcoming the language barrier', the body as the final case score. Cronbach alpha given only as threshold (≥ 0.80). Language: Ukrainian."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-12"
+}

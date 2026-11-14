@@ -1,0 +1,21 @@
+{
+ "id": "2-s2.0-105017504608",
+ "independent_decision": "exclude",
+ "independent_code": "E4",
+ "assessor_decision": "exclude",
+ "assessor_code": "E4",
+ "agree": true,
+ "code_agree": true,
+ "final_decision": "exclude",
+ "final_code": "E4",
+ "reason": "Two-group quasi-experiment on knowledge, skills and decision-making; group contrasts only, no per-student activity indicator.",
+ "extraction_check": {
+  "n": "ok",
+  "n_value": 85,
+  "n_quote": "A total of 85 nursing students were included in the final analysis, divided into two groups: intervention and control.",
+  "effect_sizes": [],
+  "table2_changes": []
+ },
+ "adjudicator": "claude-fable-5-2 (WP05b)",
+ "adjudicated_on": "2026-11-13"
+}

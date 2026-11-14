@@ -1,0 +1,21 @@
+{
+ "id": "2-s2.0-84855612645",
+ "independent_decision": "exclude",
+ "independent_code": "E4",
+ "assessor_decision": "exclude",
+ "assessor_code": "E4",
+ "agree": true,
+ "code_agree": true,
+ "final_decision": "exclude",
+ "final_code": "E4",
+ "reason": "Cohort comparison of examination scores between a concept-mapping group and a control group; maps are not scored as indicators.",
+ "extraction_check": {
+  "n": "ok",
+  "n_value": 25,
+  "n_quote": "in the study was 25. The learning intervention (concept ... mapping) group consisted of 19 students.",
+  "effect_sizes": [],
+  "table2_changes": []
+ },
+ "adjudicator": "claude-fable-5-2 (WP05b)",
+ "adjudicated_on": "2026-11-13"
+}

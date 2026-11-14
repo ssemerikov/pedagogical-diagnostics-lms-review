@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-85204437107",
+ "arm": "S",
+ "doi": "10.1145/3670013.3670065",
+ "title": "The Integration of H5p Interactive Videos: An Empirical Examination of Effectiveness in Enhancing the Performance of Students in Differential Equations",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "E4",
+ "reason": "Compares grading-period grades (t-tests) between a board-and-marker group (81) and a group with added H5P interactive videos (203), plus a perception survey. Only group contrasts; no per-student H5P interaction data enters any analysis.",
+ "extraction": {
+  "country": "Philippines (Mapúa Malayan Colleges Laguna)",
+  "design": "two-group comparison of grades, t-test; survey",
+  "n": 284,
+  "n_quote": "Group A has a ... population of 81 students, uses board and marker (BM) approach ... Group B has a total of 203 stu-",
+  "population": "engineering students in Differential Equations, 1 institution",
+  "lms_indicators": "none (group membership: with/without H5P videos on Blackboard)",
+  "outcome_or_construct": "prelim, midterm, final grades; perceptions",
+  "effect_sizes": [],
+  "notes": "n = 81 (Group A) + 203 (Group B), summed by assessor from 'Group A has a population of 81 students' and 'Group B has a total of 203 students'. Secondary code: NOREL."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-13"
+}

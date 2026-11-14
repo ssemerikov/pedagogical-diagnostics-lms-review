@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-105001699914",
+ "arm": "S",
+ "doi": "10.1007/s10459-025-10425-8",
+ "title": "The effect of self-reflection on the outcomes of online clinical skills training: a comparative study",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "E4",
+ "reason": "RCT comparing an online module with vs without self-reflection prompts on knowledge, self-efficacy and observed skills. Only group contrasts; written reflections are not analysed against any outcome, so no indicator enters an analysis.",
+ "extraction": {
+  "country": "Australia (University of Queensland)",
+  "design": "experimental/control (RCT, 2x2 pre-post)",
+  "n": 88,
+  "n_quote": "resulting in a final sample of 88 participants (Control: N = 44; Experimental: N = 44)",
+  "population": "undergraduate and postgraduate health and social science students, 1 university",
+  "lms_indicators": "none analysed (asynchronous online module; experimental group's written reflections collected but not used as a measure)",
+  "outcome_or_construct": "knowledge quiz, self-efficacy/confidence (self-report), observed consultation skills (checklist)",
+  "effect_sizes": [],
+  "notes": "Reported effects (e.g. Cohen's d = 0.46, 0.59) are condition effects (group membership), not indicator-outcome relations, so not extracted. Online module delivered via recorded lecture and Qualtrics, not an LMS."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-12"
+}

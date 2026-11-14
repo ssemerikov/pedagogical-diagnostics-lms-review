@@ -1,0 +1,22 @@
+{
+ "id": "2-s2.0-105045371744",
+ "independent_decision": "exclude",
+ "independent_code": "NOREL",
+ "assessor_decision": "exclude",
+ "assessor_code": "NOREL",
+ "agree": true,
+ "code_agree": true,
+ "final_decision": "exclude",
+ "final_code": "NOREL",
+ "reason": "Descriptive account of video-submission compliance and a satisfaction survey; submissions are not related to skill outcomes.",
+ "extraction_check": {
+  "n": "ok",
+  "n_value": 67,
+  "n_quote": "ruary 2024 and March 2025. Sixty-seven students who",
+  "n_note": "number given in words or split by OCR; value confirmed by adjudicator",
+  "effect_sizes": [],
+  "table2_changes": []
+ },
+ "adjudicator": "claude-fable-5-2 (WP05b)",
+ "adjudicated_on": "2026-11-13"
+}

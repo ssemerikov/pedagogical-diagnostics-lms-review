@@ -1,0 +1,64 @@
+{
+ "id": "2-s2.0-84993953291",
+ "independent_decision": "include",
+ "independent_code": "I4",
+ "assessor_decision": "include",
+ "agree": true,
+ "final_decision": "include",
+ "final_code": null,
+ "criteria_met": [
+  "I4"
+ ],
+ "reason": "Features of digital annotation activity during reading are correlated with NEO-IPIP personality scores (Table 1, 120 volunteers) and used to estimate two traits, checked against the questionnaire for 100 volunteers. Meets I4. Sample mixes graduate students with other adult volunteers, so E3 is borderline but not clear.",
+ "extraction_check": {
+  "n": "corrected",
+  "n_value": "120 (correlation study, Table 1); 100 (validation of the estimates)",
+  "n_quote": "activity and his personality traits (Omheni et al., 2014). Indeed, we consider group of 120 volunteers. [...] We recruited 100 volunteers (35 women and 65 men) aged between 22 and 50 years. Most of the",
+  "n_note": "Assessor gave only the 100 of the validation; the Pearson table rests on 120.",
+  "effect_sizes": [
+   {
+    "value": "r = -0.287 (total number of annotation acts vs neuroticism)",
+    "status": "corrected",
+    "quote": "TNAA -0,059 0,128 -0,138 0,089 -0,287",
+    "note": "Missed by the assessor, who stated that no r value is printed. Table 1 is in the text layer. Bold (significance) marking is lost in the text."
+   },
+   {
+    "value": "r = -0.210 (average number of annotation acts vs extraversion)",
+    "status": "corrected",
+    "quote": "ANAA 0,003 0,080 -0,210 0,163 -0,183"
+   },
+   {
+    "value": "r = 0.182 (number of textual annotation acts vs conscientiousness)",
+    "status": "corrected",
+    "quote": "NTAA 0,001 0,182 0,040 0,085 -0,211"
+   },
+   {
+    "value": "Mean 0.02, RMSE 0.10, p 0.03 (annotation-based vs questionnaire conscientiousness)",
+    "status": "ok",
+    "quote": "Neo-IPIP inventory 0.02 0.10 0.03"
+   },
+   {
+    "value": "R2 = 0.12 (annotation features vs conscientiousness, multiple regression)",
+    "status": "corrected",
+    "quote": "we show that prediction regarding Conscientiousness is reasonably accurate, with R2 value of 0.12,"
+   },
+   {
+    "value": "R2 = 0.14 (annotation features vs neuroticism, multiple regression)",
+    "status": "corrected",
+    "quote": "Neuroticism we obtained the model with the best fit, with an R2 value of 0.14, Fobserved value of 3.11"
+   }
+  ],
+  "table2_changes": []
+ },
+ "table2_row": {
+  "country": "Tunisia",
+  "design": "Correlational, with validation of trait estimates against a questionnaire",
+  "n": "120 (correlations); 100 (validation)",
+  "lms_indicators": "Counts and types of digital annotation acts in an online reading tool",
+  "effect_size": "r = -0.29 (annotation count vs neuroticism), -0.21 (vs extraversion), 0.18 (textual annotations vs conscientiousness)"
+ },
+ "adjudicator": "claude-fable-5-2 (WP05b)",
+ "adjudicated_on": "2026-11-13",
+ "companion_report": "2-s2.0-84994219912 (TOJDE 2016) reports the same two samples and the same tables; it is excluded as E2. Its Table 1 keeps the significance marks lost here: -.287*, -.210* and .182* are significant at p < .05.",
+ "borderline": "E3: adult volunteers, 'the majority ... are graduate students'. Not a clearly non-HE sample, so E3 is not applied; report with this caveat."
+}

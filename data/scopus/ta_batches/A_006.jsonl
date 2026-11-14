@@ -1,0 +1,25 @@
+{"id": "2-s2.0-0003138476", "verdict": "exclude", "code": "OFF", "reason": "Mathematics of dynamical systems.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-105017416835", "verdict": "exclude", "code": "E3", "reason": "Delphi study on nurses' e-learning content; not student indicators.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85038808578", "verdict": "exclude", "code": "E6", "reason": "Spanish-language gamification model paper; also conceptual with expert validation.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85084821665", "verdict": "exclude", "code": "OFF", "reason": "Motor unbalance compensation.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85111008490", "verdict": "exclude", "code": "OFF", "reason": "Localisation signal equalisation.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-105028879433", "verdict": "exclude", "code": "OFF", "reason": "Vibration control.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85207520976", "verdict": "exclude", "code": "OFF", "reason": "Power system denoising.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85111472016", "verdict": "exclude", "code": "OFF", "reason": "Backpropagation algorithm; no abstract.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85107761067", "verdict": "exclude", "code": "OFF", "reason": "Video quality assessment; no abstract.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-18944402839", "verdict": "exclude", "code": "OFF", "reason": "Nonlinear wave dynamics.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85153719531", "verdict": "exclude", "code": "NOIND", "reason": "Satisfaction survey on online higher education; no activity indicators.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-0033728974", "verdict": "exclude", "code": "OFF", "reason": "Adaptive filter learning curves.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-80051892047", "verdict": "exclude", "code": "OFF", "reason": "Fish toxicology; no abstract.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85190371149", "verdict": "exclude", "code": "OFF", "reason": "Tensor LMS algorithm.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-105024773019", "verdict": "exclude", "code": "E6", "reason": "Russian-language abstract; teacher motivation in additional professional education (teachers, not students).", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-105046329301", "verdict": "exclude", "code": "OFF", "reason": "PMSM drive control; no abstract.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85214735289", "verdict": "exclude", "code": "OFF", "reason": "Language model RL reward composition.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-74849088223", "verdict": "exclude", "code": "OFF", "reason": "Active magnetic bearing vibration.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85197177201", "verdict": "exclude", "code": "OFF", "reason": "Lipid nanoparticles for mRNA.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85146580167", "verdict": "maybe", "code": "I2", "reason": "Web-based gamified program with achievement, motivation and flow; student population and activity data unclear.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-84982918831", "verdict": "maybe", "code": "I2", "reason": "Moodle motivating features, perceived effectiveness and performance of online students; survey-based, platform data unclear.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85090623479", "verdict": "maybe", "code": "I2", "reason": "No abstract; medical students' self-education; empirical content unknown.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85166260841", "verdict": "exclude", "code": "OFF", "reason": "Mussel ecotoxicology.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85197312027", "verdict": "maybe", "code": "I1", "reason": "Blended vs online ophthalmology teaching; satisfaction and learning; activity indicators unclear.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85165147709", "verdict": "maybe", "code": "I2", "reason": "Students' creativity in consortium model; development and testing; indicators unclear.", "screener": "claude-sonnet-5-5 (WP02b first pass)"}

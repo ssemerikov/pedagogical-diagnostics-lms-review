@@ -1,0 +1,21 @@
+{
+ "id": "2-s2.0-85077227531",
+ "independent_decision": "exclude",
+ "independent_code": "NOREL",
+ "assessor_decision": "exclude",
+ "assessor_code": "NOREL",
+ "agree": true,
+ "code_agree": true,
+ "final_decision": "exclude",
+ "final_code": "NOREL",
+ "reason": "ANFIS model of content-format preference built on questionnaire answers; no platform indicator and no relation to success or a construct.",
+ "extraction_check": {
+  "n": "ok",
+  "n_value": 700,
+  "n_quote": "The context relative information has been collected in real ... time where 700 engineering students participated.",
+  "effect_sizes": [],
+  "table2_changes": []
+ },
+ "adjudicator": "claude-fable-5-2 (WP05b)",
+ "adjudicated_on": "2026-11-13"
+}

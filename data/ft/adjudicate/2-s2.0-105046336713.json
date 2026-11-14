@@ -1,0 +1,51 @@
+{
+ "id": "2-s2.0-105046336713",
+ "independent_decision": "include",
+ "independent_code": "I1",
+ "assessor_decision": "include",
+ "agree": true,
+ "final_decision": "include",
+ "final_code": null,
+ "criteria_met": [
+  "I1"
+ ],
+ "reason": "Per-student logged use of an LMS-integrated help tool (yes/no and query intensity) is analysed against Exam 2 score, unmatched and propensity-matched; logged lab time and attendance predict tool use. Meets I1. The association with exam score disappears after matching.",
+ "extraction_check": {
+  "n": "corrected",
+  "n_value": "595 analysed (256 users, 339 non-users); the abstract says 589",
+  "n_quote": "Of the 659 enrolled students, 595 who completed both",
+  "n_note": "Assessor took 589 from the abstract. Methods and Results give 595 in the final dataset.",
+  "effect_sizes": [
+   {
+    "value": "t = 1.95, p = 0.0519 (CodeHelp use vs Exam 2, unmatched)",
+    "status": "ok",
+    "quote": "CodeHelp users (t = 1.95, p = 0.0519)."
+   },
+   {
+    "value": "t = −1.03, p = 0.3035 (CodeHelp use vs Exam 2, propensity-matched)",
+    "status": "ok",
+    "quote": "between CodeHelp users and matched non-users (t = −1.03,"
+   },
+   {
+    "value": "OR = 48.87 (lab time -> CodeHelp use; indicator-to-indicator, not an outcome relation)",
+    "status": "ok",
+    "quote": "likely to use CodeHelp (odds ratio = 48.87). Atten-"
+   },
+   {
+    "value": "OR = 7.31 (attendance -> CodeHelp use; indicator-to-indicator)",
+    "status": "ok",
+    "quote": "of 7.31. Exam 1 performance had a positive but marginal"
+   }
+  ],
+  "table2_changes": []
+ },
+ "table2_row": {
+  "country": "USA",
+  "design": "Quasi-experimental; logistic regression and propensity-score matching",
+  "n": "595",
+  "lms_indicators": "Logged use and query count of an LMS-integrated LLM help tool; Codio lab time; iClicker attendance",
+  "effect_size": "Tool use vs exam score: t = 1.95 (p = .052) unmatched; t = -1.03 (p = .30) matched"
+ },
+ "adjudicator": "claude-fable-5-2 (WP05b)",
+ "adjudicated_on": "2026-11-13"
+}

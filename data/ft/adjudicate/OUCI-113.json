@@ -1,0 +1,20 @@
+{
+ "id": "OUCI-113",
+ "independent_decision": "exclude",
+ "independent_code": "NOREL",
+ "assessor_decision": "exclude",
+ "assessor_code": "NONEMP",
+ "agree": true,
+ "code_agree": false,
+ "final_decision": "exclude",
+ "final_code": "NONEMP",
+ "reason": "Poster abstract describing a quasi-experimental design with questionnaires and focus groups. Blind I coded NOREL; the abstract reports no results or numbers at all, so the assessor's NONEMP takes precedence.",
+ "extraction_check": {
+  "n": "nr_unverified",
+  "n_value": "nr",
+  "effect_sizes": [],
+  "table2_changes": []
+ },
+ "adjudicator": "claude-fable-5-2 (WP05b)",
+ "adjudicated_on": "2026-11-13"
+}

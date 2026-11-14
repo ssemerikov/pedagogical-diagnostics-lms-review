@@ -1,0 +1,71 @@
+{
+ "id": "2-s2.0-85063288496",
+ "independent_decision": "include",
+ "independent_code": "I1,I2",
+ "assessor_decision": "include",
+ "assessor_code": null,
+ "agree": true,
+ "code_agree": true,
+ "final_decision": "include",
+ "final_code": null,
+ "reason": "Moodle log variables (missing activities, viewed materials, time) are correlated per student with overall grade and with MSLQ subscales and enter a hierarchical regression on grade (137 students). Meets I1 and I2. Missing activities partly define the grade, which inflates r = -.523.",
+ "extraction_check": {
+  "n": "ok",
+  "n_value": 137,
+  "n_quote": "empirical study in a higher educational course with 137 Mexican students.",
+  "effect_sizes": [
+   {
+    "value": "r = −.523 (p<.01) (missing learning activities ↔ overall grade)",
+    "status": "ok",
+    "quote": "19 \u0002.523** .138 .088 \u0002.157 \u0002.382** .536** \u0002.035",
+    "note": "minus sign is rendered as control character U+0002 in the text layer; sign and value checked by hand on text lines 486, 489, 494, 509, 517"
+   },
+   {
+    "value": "r = .138 (n.s.); −.035 (n.s.) (partially viewed materials ↔ overall grade; time spent ↔ overall grade)",
+    "status": "ok",
+    "quote": "19 \u0002.523** .138 .088 \u0002.157 \u0002.382** .536** \u0002.035",
+    "note": "minus sign is rendered as control character U+0002 in the text layer; sign and value checked by hand on text lines 486, 489, 494, 509, 517"
+   },
+   {
+    "value": "r = −.448 (p<.01); .195 (p<.05) (missing learning activities ↔ MSLQ self-efficacy; partially viewed materials ↔ self-efficacy)",
+    "status": "ok",
+    "quote": "11 \u0002.448** .195* \u0002.125 \u0002.050 \u0002.189* \u0002.388** \u0002.029",
+    "note": "minus sign is rendered as control character U+0002 in the text layer; sign and value checked by hand on text lines 486, 489, 494, 509, 517"
+   },
+   {
+    "value": "r = −.448 (p<.01); .178 (p<.05) (missing learning activities ↔ metacognitive self-regulation; partially viewed materials ↔ metacognitive self-regulation)",
+    "status": "ok",
+    "quote": "14 \u0002.448** .178* \u0002.151 \u0002.056 \u0002.208* \u0002.372** \u0002.050",
+    "note": "minus sign is rendered as control character U+0002 in the text layer; sign and value checked by hand on text lines 486, 489, 494, 509, 517"
+   },
+   {
+    "value": "beta = −0.523 (p<.01), R2 = .274 (Model 1) (missing learning activities ↔ overall grade)",
+    "status": "ok",
+    "quote": "1 Missing learning activities \u00020.198 0.028 \u00020.523** .268 .274",
+    "note": "minus sign is rendered as control character U+0002 in the text layer; sign and value checked by hand on text lines 486, 489, 494, 509, 517"
+   },
+   {
+    "value": "beta = −0.19 (p<.01) in Model 4 with motivation, emotion and strategy predictors, R2 = .693 (missing learning activities ↔ overall grade (adjusted))",
+    "status": "ok",
+    "quote": "4 Missing learning activities \u00020.072 0.022 \u00020.19** .679 .693",
+    "note": "minus sign is rendered as control character U+0002 in the text layer; sign and value checked by hand on text lines 486, 489, 494, 509, 517"
+   }
+  ],
+  "table2_changes": []
+ },
+ "adjudicator": "claude-fable-5-2 (WP05b)",
+ "adjudicated_on": "2026-11-13",
+ "criteria_met": [
+  "I1",
+  "I2"
+ ],
+ "table2_row": {
+  "country": "Mexico",
+  "design": "correlational (Pearson, hierarchical regression) + data-mining classifiers",
+  "n": 137,
+  "lms_indicators": "number of missing (and turned-in) learning activities, partially and fully viewed SCORM materials, time spent in Moodle",
+  "outcome_or_construct": "overall course grade; MSLQ motivation and cognitive-metacognitive strategy subscales; SEDS engagement/disaffection",
+  "effect_size": "r = -.52 (missing activities vs overall grade); r = .14 n.s. (partially viewed materials); r = -.04 n.s. (time spent); r = -.45 (missing activities vs self-efficacy)"
+ },
+ "table2_row_source": "assessor extraction, cells confirmed by adjudicator"
+}

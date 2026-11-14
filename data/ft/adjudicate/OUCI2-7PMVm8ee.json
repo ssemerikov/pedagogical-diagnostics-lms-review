@@ -1,0 +1,21 @@
+{
+ "id": "OUCI2-7PMVm8ee",
+ "independent_decision": "exclude",
+ "independent_code": "E4",
+ "assessor_decision": "exclude",
+ "assessor_code": "E4",
+ "agree": true,
+ "code_agree": true,
+ "final_decision": "exclude",
+ "final_code": "E4",
+ "reason": "Single-group pretest-posttest of a concept test and an SRL questionnaire; no LMS activity measure is analysed.",
+ "extraction_check": {
+  "n": "ok",
+  "n_value": 32,
+  "n_quote": "The sample consisted of 32 students from one intact class.",
+  "effect_sizes": [],
+  "table2_changes": []
+ },
+ "adjudicator": "claude-fable-5-2 (WP05b)",
+ "adjudicated_on": "2026-11-13"
+}

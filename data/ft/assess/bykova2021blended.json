@@ -1,0 +1,30 @@
+{
+ "id": "bykova2021blended",
+ "arm": "O1-included",
+ "doi": "10.55056/cte.236",
+ "title": "Blended learning in the context of digitalization",
+ "decision": "include",
+ "criteria_met": [],
+ "exclusion_code": null,
+ "reason": "Re-extraction (inclusion not re-decided). Descriptive case study: counts of Moodle registration, guest access, task completion by level and forum use are read as DigComp levels. No statistical indicator-outcome relation; personality constructs absent. Would likely fail I1-I4; flagged.",
+ "extraction": {
+  "country": "Ukraine (Vocational College of Oleksandr Dovzhenko Hlukhiv National Pedagogical University)",
+  "design": "descriptive case study (trial implementation of blended learning; counts and percentages)",
+  "n": 59,
+  "n_quote": "59 students of different ages were involved in the study.",
+  "population": "future masters of industrial training in sewing, vocational college of a pedagogical university",
+  "lms_indicators": "Moodle self-registration success, use of 'Guest access', percentage of tasks completed at reproductive/interpretive/creative levels, forum and e-mail communication, Google Meet use",
+  "outcome_or_construct": "digital competence level (DigComp 2.1 areas 1, 2, 5) inferred by the authors from the same activity counts",
+  "effect_sizes": [],
+  "notes": "Table 2 cells: country Ukraine and LMS indicators confirmed; design is descriptive rather than quasi-experimental (no comparison group, no test); n = 59 now recoverable. No effect size can exist: the competence levels are assigned from the activity counts themselves (e.g. 'at least 8 out of 30 people (26.6%) ... met the criteria of the third level of DigComp'), so indicator and construct are not independently measured. Sub-counts use inconsistent bases (30, 36, 59; 40 students = 41.6% implies ~96). Vocational-college sample satisfies E3."
+ },
+ "table2_current": {
+  "country": "Ukraine",
+  "design": "Quasi-experimental",
+  "n": "nr",
+  "lms_indicators": "Platform engagement, DigComp competence",
+  "effect_size": "nr"
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-12"
+}

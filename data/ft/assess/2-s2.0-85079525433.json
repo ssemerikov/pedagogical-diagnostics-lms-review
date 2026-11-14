@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-85079525433",
+ "arm": "S",
+ "doi": "10.12973/eu-jer.9.1.19",
+ "title": "\"Flipped learning\" methodology in professional training of future language teachers",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "E4",
+ "reason": "Flipped-classroom experiment (EG/CG): language proficiency compared between groups; correlations link self-reported readiness, motivation and perceived learning only. No platform-recorded measure enters any analysis.",
+ "extraction": {
+  "country": "Ukraine",
+  "design": "2x2 split-plot experiment (EG/CG, pre/post) + survey",
+  "n": 61,
+  "n_quote": "Two groups of students were formed to participate in this experiment (with the total number of 61students)",
+  "population": "second-year language and literature teaching students, Khmelnytskyi Humanitarian-Pedagogical Academy",
+  "lms_indicators": "none (multimedia textbook used for delivery)",
+  "outcome_or_construct": "language proficiency; self-reported learning readiness, academic motivation, perceived learning, learning preferences",
+  "effect_sizes": [],
+  "notes": "Secondary NOREL: r = .41-.69 among self-report scales only (paper prints 'p> .05' with '**p< .01' in the table)."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-13"
+}

@@ -1,0 +1,25 @@
+{"id": "2-s2.0-86000001877", "verdict": "exclude", "code": "OFF", "reason": "LMS adaptive filtering signal processing", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85176383065", "verdict": "pass", "code": "I1", "reason": "Formative assessment in blended LMS for higher ed; engagement and motivation, quasi-experimental", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-105048496204", "verdict": "maybe", "code": "I2", "reason": "LMS analytics dashboard for motivation/self-regulation; formative prototype evaluation, empirical link unclear", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85095779938", "verdict": "maybe", "code": "I1", "reason": "Distance education efficiency in Chinese HE; abstract unclear on indicators", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-33745635892", "verdict": "exclude", "code": "OFF", "reason": "Tokamak plasma physics", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-84879342819", "verdict": "exclude", "code": "OFF", "reason": "Snail biology", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-105052939022", "verdict": "exclude", "code": "OFF", "reason": "LMS filter for magnetic bearings", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-42749096319", "verdict": "exclude", "code": "OFF", "reason": "Mussel toxicology", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-77955026288", "verdict": "exclude", "code": "OFF", "reason": "Wireless sensor networks", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-0033640798", "verdict": "exclude", "code": "OFF", "reason": "Reflectance estimation LMS method", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-84863151303", "verdict": "exclude", "code": "OFF", "reason": "Train carbody modal analysis", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-80052014058", "verdict": "exclude", "code": "OFF", "reason": "Adaptive noise cancellation voice communication", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85047138995", "verdict": "exclude", "code": "OFF", "reason": "Power line engineering project", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85121333603", "verdict": "exclude", "code": "OFF", "reason": "Adaptive filtering LMS algorithm", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-105041162159", "verdict": "exclude", "code": "OFF", "reason": "Dietary fiber obesity biology", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-105043690903", "verdict": "exclude", "code": "OFF", "reason": "Microvibration control engineering", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85020747818", "verdict": "exclude", "code": "OFF", "reason": "Photoelectric pod control engineering", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-105040154002", "verdict": "exclude", "code": "OFF", "reason": "Hybrid vehicle control", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85181726127", "verdict": "exclude", "code": "E4", "reason": "Online vs in-person comparison of final test scores only; pure achievement comparison", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85173961223", "verdict": "exclude", "code": "E2", "reason": "Retracted paper; also university staff not students", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85064678466", "verdict": "pass", "code": "I2", "reason": "MOOC case study on motivation and student success with platform data", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85175355055", "verdict": "maybe", "code": "I2", "reason": "Cognitive style and critical thinking in distance learning STEM students; indicators unclear", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-84944463586", "verdict": "exclude", "code": "E3", "reason": "Faculty acceptance of LMS, not students", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85062044313", "verdict": "exclude", "code": "NOIND", "reason": "Qualitative course evaluation, no activity indicators", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85061665417", "verdict": "maybe", "code": "I3", "reason": "Remote lab for e-learning engineering; unclear whether empirical activity data", "screener": "claude-sonnet-5-5 (WP02b first pass)"}

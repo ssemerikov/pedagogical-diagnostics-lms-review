@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-85203715105",
+ "arm": "S",
+ "doi": "10.15503/jecs2024.1.435.451",
+ "title": "RESEARCH ON THE TYPES OF FUTURE TEACHERS’ SELF-REALISATION UNDER CONDITIONS OF A DIGITAL EDUCATIONAL ENVIRONMENT",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "NOREL",
+ "reason": "Psychological typology of future teachers' self-realisation from anonymous Google-form questionnaires (Personal Orientation Inventory and others), with Spearman correlations and k-means clustering. All data self-report; no digital-environment indicator or activity product is analysed.",
+ "extraction": {
+  "country": "Ukraine (Kherson State University; Ivan Franko National University of Lviv)",
+  "design": "cross-sectional survey, correlation and cluster analysis",
+  "n": "nr",
+  "n_quote": null,
+  "population": "final-year Bachelor's and Master's pedagogy students, 2 universities",
+  "lms_indicators": "none",
+  "outcome_or_construct": "self-realisation types, time competence, value orientations, motivation (self-report)",
+  "effect_sizes": [],
+  "notes": "Text is readable but the PDF font encoding drops some digits: the sample size reads 'n 29 individuals: females (n 22 6.7) and males (n 4 1.1)', so n is not recoverable from the text layer. Studying in a digital environment is the context, not a measured indicator."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-12"
+}

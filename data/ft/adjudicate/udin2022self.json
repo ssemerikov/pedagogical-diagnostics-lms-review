@@ -1,0 +1,45 @@
+{
+ "id": "udin2022self",
+ "part": "C",
+ "independent_decision": "exclude",
+ "independent_code": "NOREL",
+ "assessor_decision": "include (re-extraction mode; criteria_met=[])",
+ "agree": true,
+ "final_decision": "include",
+ "final_code": null,
+ "reason": "Part C (D8: original inclusion unchanged). Questionnaire-only SEM study of self-efficacy and perceptions of online learning. Completion, discussion participation and test passing are self-efficacy questionnaire items, not LMS records. Would be NOREL; assessor reached the same reading.",
+ "extraction_check": {
+  "n": "corrected",
+  "n_value": "155 complete responses (the abstract says 156)",
+  "n_quote": "questionnaire to 400 students and received 155 students with complete responses. The sample was randomly",
+  "effect_sizes": [],
+  "table2_changes": [
+   {
+    "column": "n",
+    "from": "nr",
+    "to": "155 (abstract: 156)",
+    "quote": "questionnaire to 400 students and received 155 students with complete responses. The sample was randomly"
+   },
+   {
+    "column": "design",
+    "from": "Survey + log analysis",
+    "to": "Cross-sectional questionnaire survey (CFA and SEM); no log analysis",
+    "quote": "program in semesters 4 and 6. Questionnaires using google forms were distributed online. The questionnaire was"
+   },
+   {
+    "column": "lms_indicators",
+    "from": "Course and assignment completion, discussion participation, test passing",
+    "to": "None recorded by the LMS (these are self-efficacy questionnaire items)",
+    "quote": "I participate actively in online discussions (Item08)"
+   }
+  ]
+ },
+ "sensitivity": {
+  "criteria_met": [],
+  "meets_update_rules": false,
+  "decisive_quote": "research with an online questionnaire tool was applied to collect data from 156 students. The data were analyzed using the",
+  "note": "All variables are self-report; the text contains no log data. Table 2's 'log analysis' and its indicator list misdescribe the study. Reported paths link self-efficacy to perceptions only."
+ },
+ "adjudicator": "claude-fable-5-2 (WP05b)",
+ "adjudicated_on": "2026-11-12"
+}

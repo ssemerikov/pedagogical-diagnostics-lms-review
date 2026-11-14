@@ -1,0 +1,23 @@
+{
+ "id": "OUCI2-l11OKr55",
+ "arm": "O2",
+ "doi": "10.63878/jalt2088",
+ "title": "THE ROLE OF ICT TOOLS IN PROMOTING LEARNER AUTONOMY",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "NOREL",
+ "reason": "ICT/LMS use and learner autonomy are both measured by survey and pre/post autonomy tests; no platform-recorded indicator. Results give no statistics at all (no coefficients, means or p-values).",
+ "extraction": {
+  "country": "Pakistan",
+  "design": "mixed methods: pre/post quasi-experiment, survey correlation/regression, teacher interviews",
+  "n": "nr",
+  "n_quote": "Approximately 200 students were chosen to participate in the quantitative aspect of the research.",
+  "population": "first-year undergraduate EFL students, 1 public university; 20 teachers interviewed",
+  "lms_indicators": "self-reported number and kind of ICT tools used (incl. LMS)",
+  "outcome_or_construct": "learner autonomy (self-regulation, goal setting), SDT motivation",
+  "effect_sizes": [],
+  "notes": "Secondary E1: correlation, regression and ANOVA reported only verbally with no numbers; n given as 'approximately 200'."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-13"
+}

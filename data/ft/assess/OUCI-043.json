@@ -1,0 +1,23 @@
+{
+ "id": "OUCI-043",
+ "arm": "N",
+ "doi": "10.25726/c3395-4401-0495-e",
+ "title": "Digital educational environment as a factor of improving the quality of education in a rural small school",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "E6",
+ "reason": "Article body is in Russian (Upravlenie obrazovaniem: teoriya i praktika). Secondarily it concerns a rural small school (K-12 pupils), not higher or vocational education.",
+ "extraction": {
+  "country": "Russia",
+  "design": "nr",
+  "n": "nr",
+  "n_quote": null,
+  "population": "rural small-school pupils (Yakutia)",
+  "lms_indicators": "none identified",
+  "outcome_or_construct": "quality of school education",
+  "effect_sizes": [],
+  "notes": "Secondary E3 (school setting). Not assessed further after E6."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-13"
+}

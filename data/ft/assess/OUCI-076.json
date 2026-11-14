@@ -1,0 +1,23 @@
+{
+ "id": "OUCI-076",
+ "arm": "N",
+ "doi": "10.58224/2687-0428-2024-6-6-239-245",
+ "title": "Целеполагание при обучении школьников на дистанционном обучении",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "E6",
+ "reason": "File is a whole Russian-language journal issue (Review of Pedagogical Research, 2024, 6(6)) containing the target article, which is in Russian and concerns schoolchildren (also E3). Not English or Ukrainian.",
+ "extraction": {
+  "country": "Russia",
+  "design": "nr",
+  "n": "nr",
+  "n_quote": null,
+  "population": "school pupils in distance learning (per title)",
+  "lms_indicators": "nr",
+  "outcome_or_construct": "goal-setting",
+  "effect_sizes": [],
+  "notes": "2 MB text of the full issue; target article located by title only, not read in detail."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-12"
+}

@@ -1,0 +1,22 @@
+{
+ "id": "OUCI-091",
+ "independent_decision": "exclude",
+ "independent_code": "E4",
+ "assessor_decision": "exclude",
+ "assessor_code": "E4",
+ "agree": true,
+ "code_agree": true,
+ "final_decision": "exclude",
+ "final_code": "E4",
+ "reason": "The re-saved file is still the first page only (498 words). Its structured abstract states the design, a pre-test/post-test control-group comparison of face-to-face and online flipped learning on achievement and beliefs, which is enough to exclude; no platform indicator is described.",
+ "extraction_check": {
+  "n": "nr_confirmed",
+  "n_value": "nr",
+  "effect_sizes": [],
+  "table2_changes": []
+ },
+ "adjudicator": "claude-fable-5-2 (WP05b)",
+ "adjudicated_on": "2026-11-13",
+ "assess_date_seen": "2026-11-13",
+ "basis": "first page (title, abstract, start of introduction) only; decision rests on the design stated in the abstract"
+}

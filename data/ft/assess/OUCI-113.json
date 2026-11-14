@@ -1,0 +1,23 @@
+{
+ "id": "OUCI-113",
+ "arm": "N",
+ "doi": "10.5339/qfarc.2018.ssahpd855",
+ "title": "Fostering independent learning amongst English for Academic Purposes students through exploration of digital tools",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "NONEMP",
+ "reason": "Poster abstract (QFARC 2018) describing a quasi-experimental EAP study design; no results or numbers are reported. Discussion-board tool reports are not analysed as indicators.",
+ "extraction": {
+  "country": "Qatar",
+  "design": "quasi-experimental mixed methods (poster abstract)",
+  "n": "nr",
+  "n_quote": null,
+  "population": "English for Academic Purposes students",
+  "lms_indicators": "online discussion-board tool reports (not analysed)",
+  "outcome_or_construct": "attitudes to digital tools (questionnaire); focus groups",
+  "effect_sizes": [],
+  "notes": "The full text is the complete poster abstract (~1,600 words incl. references). No numbers reported. Secondary code: NOREL. NONEMP applied because the publication contains no empirical results."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-12"
+}

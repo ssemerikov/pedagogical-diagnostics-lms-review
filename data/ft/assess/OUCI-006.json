@@ -1,0 +1,23 @@
+{
+ "id": "OUCI-006",
+ "arm": "N",
+ "doi": "10.1121/1.4743166",
+ "title": "Experimental evaluation of leaky LMS algorithms for active noise reduction in communication headsets",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "E3",
+ "reason": "Off-topic: 'LMS' is the least-mean-squares adaptive filter (active noise reduction in headsets). No students or education. The ~290-word text is the complete JASA meeting abstract; nothing further exists to seek. E3 is the nearest code.",
+ "extraction": {
+  "country": "nr",
+  "design": "engineering algorithm evaluation (meeting abstract)",
+  "n": "nr",
+  "n_quote": null,
+  "population": "none (no human participants)",
+  "lms_indicators": "none",
+  "outcome_or_construct": "none",
+  "effect_sizes": [],
+  "notes": "Text file is the publisher page for J. Acoust. Soc. Am. 108, 2483–2484 (2000), marked 'Meeting abstract. No PDF available.' Could alternatively be recorded as unusable_fulltext; off-topic status is clear either way."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-12"
+}

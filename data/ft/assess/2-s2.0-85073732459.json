@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-85073732459",
+ "arm": "S",
+ "doi": "10.15507/1991-9468.096.023.201903.475-489",
+ "title": "The role of the tutor in the choice of pedagogical management tools for autonomous work in foreign languages",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "NOREL",
+ "reason": "Likert survey (85 usable questionnaires) and interviews on tutors' management of autonomous work on an e-platform; descriptive percentages of student opinions only. No platform-recorded indicator or activity product is related to success or a personality construct.",
+ "extraction": {
+  "country": "Russia (Financial University, Moscow)",
+  "design": "descriptive survey plus interviews",
+  "n": 85,
+  "n_quote": "questionnaires were disregarded due to in- ... complete answers, resulting in a return rate ... of 85. Students who agreed to participate",
+  "population": "second-year distance-learning students of foreign languages, 1 university",
+  "lms_indicators": "none",
+  "outcome_or_construct": "perceptions of tutoring and platform use (self-report)",
+  "effect_sizes": [],
+  "notes": "Published in English (Integration of Education). 88 questionnaires administered."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-12"
+}

@@ -1,0 +1,74 @@
+{
+ "id": "farameita2025integration",
+ "part": "C",
+ "independent_decision": "include",
+ "independent_code": "I1",
+ "assessor_decision": "include",
+ "agree": true,
+ "final_decision": "include",
+ "final_code": null,
+ "reason": "Part C (D8: original inclusion unchanged). System-generated VR/LMS usage metrics correlated with post-test retention scores (r = 0.62, 0.45, 0.33; beta = 0.41). Meets I1. Population is government-institution staff in a one-month professional training programme, so E3 is arguable; treated as trainees under the shared rule.",
+ "extraction_check": {
+  "n": "ok",
+  "n_value": 200,
+  "n_quote": "total of 200 participants from various Indonesian government institutions took part",
+  "effect_sizes": [
+   {
+    "value": "r = 0.62 (time spent in VR, minutes/day vs post-test score)",
+    "status": "ok",
+    "quote": "Specifically, time spent using VR modules (r = 0.62, p < 0.001) and completion rate (r"
+   },
+   {
+    "value": "r = 0.45 (completion rate vs post-test score)",
+    "status": "ok",
+    "quote": "Completion rate also exhibited a moderate positive correlation (r = 0.45, p = 0.001),"
+   },
+   {
+    "value": "r = 0.33 (modules completed vs post-test score)",
+    "status": "ok",
+    "quote": "between the number of completed modules and retention (r = 0.33, p = 0.015),"
+   },
+   {
+    "value": "beta = 0.41 (VR duration, multiple regression on retention)",
+    "status": "ok",
+    "quote": "duration emerged as the strongest predictor (β = 0.41, p < 0.001), followed by"
+   }
+  ],
+  "table2_changes": [
+   {
+    "column": "country",
+    "from": "nr",
+    "to": "Indonesia",
+    "quote": "total of 200 participants from various Indonesian government institutions took part"
+   },
+   {
+    "column": "design",
+    "from": "CFA",
+    "to": "Mixed methods (Pearson correlation, multiple regression; CFA only for construct validity)",
+    "quote": "correlation analysis to examine the relationship between VR usage and retention"
+   },
+   {
+    "column": "lms_indicators",
+    "from": "Time in VR environment, object-interaction frequency",
+    "to": "Time in VR (minutes/day), module completion rate, modules completed (object-interaction frequency is not in the text)",
+    "quote": "usage and learning outcomes. Time spent in VR, module completion rates, and the"
+   },
+   {
+    "column": "effect_size",
+    "from": "nr",
+    "to": "r = 0.62 (time in VR), 0.45 (completion rate), 0.33 (modules completed) with post-test score",
+    "quote": "Specifically, time spent using VR modules (r = 0.62, p < 0.001) and completion rate (r"
+   }
+  ]
+ },
+ "sensitivity": {
+  "criteria_met": [
+   "I1"
+  ],
+  "meets_update_rules": true,
+  "decisive_quote": "total of 200 participants from various Indonesian government institutions took part",
+  "note": "I1 met on indicator-outcome grounds. E3 caveat: employees in in-service training, not HE students; 2b lists 'employees' under E3. Counted as meeting only because the shared rule decides trainees on other criteria. Report with this caveat."
+ },
+ "adjudicator": "claude-fable-5-2 (WP05b)",
+ "adjudicated_on": "2026-11-12"
+}

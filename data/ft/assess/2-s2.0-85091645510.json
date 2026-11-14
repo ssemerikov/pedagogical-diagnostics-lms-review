@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-85091645510",
+ "arm": "S",
+ "doi": "10.32744/pse.2020.4.29",
+ "title": "Using game platforms of class management in online-learning for improve the quality of educational results",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "E6",
+ "reason": "Full text is in Russian (English title and abstract only). Also the sample is 48 pupils of a lyceum (school) in Kirov, and the analysis is a sign test on pre/post results.",
+ "extraction": {
+  "country": "Russia (Kirov)",
+  "design": "pedagogical experiment, sign test",
+  "n": 48,
+  "n_quote": "В педагогическом эксперименте задействованы 48 обучающихся (75% девушек и 25% юношей) из «Лицея естественных наук» г. Киров.",
+  "population": "lyceum (secondary school) pupils",
+  "lms_indicators": "ClassDojo class-management content (not analysed as an indicator)",
+  "outcome_or_construct": "quality of educational results (control tasks)",
+  "effect_sizes": [],
+  "notes": "Body text measured: ~25,000 Cyrillic vs ~1,100 Latin characters in the middle of the document. Secondary: E3 (school pupils), E4."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-12"
+}

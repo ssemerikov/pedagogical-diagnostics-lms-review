@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-82455192625",
+ "arm": "S",
+ "doi": "10.2316/p.2011.734-039",
+ "title": "Accessible and collaborative moodle-based learning management environment for web users with varying degrees of hearing",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "NOREL",
+ "reason": "System description of an accessible Moodle environment for deaf and hard-of-hearing users with two usability tests (System Usability Scale); no learning-success measure or construct is related to platform data.",
+ "extraction": {
+  "country": "Slovenia",
+  "design": "system development + usability evaluation (SUS)",
+  "n": "nr",
+  "n_quote": null,
+  "population": "deaf and hard-of-hearing test users (adults with low computer literacy; younger users)",
+  "lms_indicators": "none",
+  "outcome_or_construct": "perceived usability (SUS)",
+  "effect_sizes": [],
+  "notes": "Usability perceptions only. First experiment reported 16 participants."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-13"
+}

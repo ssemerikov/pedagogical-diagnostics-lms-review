@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-84884296334",
+ "arm": "S",
+ "doi": null,
+ "title": "Outcome, economic and operational benefits of hybrid courses - A public research university perspective",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "E4",
+ "reason": "Course-level comparison of final exam averages across 2011-2013 cohorts as online content was added, plus course ratings and staff-time costs; no per-student platform measure (forums, quizzes, video use) is related to outcomes.",
+ "extraction": {
+  "country": "USA",
+  "design": "case study, cohort comparison across years",
+  "n": "nr",
+  "n_quote": null,
+  "population": "mechanical and aerospace engineering undergraduates, UC Irvine (3 courses, 50-350 students each)",
+  "lms_indicators": "none per student (course components described)",
+  "outcome_or_construct": "final exam average per cohort; course evaluations; instructor/TA time",
+  "effect_sizes": [],
+  "notes": "Dynamics cohorts of 314, 352 and later years; average grade 60.9/61.0, 64.1, 66.1. ASEE 2013 conference paper."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-13"
+}

@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-105043924681",
+ "arm": "S",
+ "doi": null,
+ "title": "Development of a DICT Learning Model with Differentiated Digital Modules to Enhance Creative Thinking, Learner Independence, and Technology Integration in Prospective Elementary Teachers",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "NOREL",
+ "reason": "Quasi-experiment comparing DICT and control classes on a creative-thinking test, SRL questionnaire and TPACK scale. LMS engagement metric and selected-material complexity appear only in density plots against creative scores, with no statistic reported.",
+ "extraction": {
+  "country": "Indonesia",
+  "design": "R&D (Plomp) with quasi-experimental EG/CG comparison and within-group ablation",
+  "n": 64,
+  "n_quote": "consisted of 32 students (class 02) who were",
+  "population": "prospective elementary teachers (PGSD), physics concepts course",
+  "lms_indicators": "LMS engagement metric E_obs (threshold-based), complexity of learning-object materials selected (shown graphically only)",
+  "outcome_or_construct": "creative thinking test, SRL questionnaire (learner independence), TPACK technology integration",
+  "effect_sizes": [],
+  "notes": "Borderline: Fig. 3 hexbin (LOM complexity vs creative synthesis score) and Fig. 4 (low-engagement subgroup density) relate platform measures to outcomes only visually; no coefficient or test. Group effects d=1.03-1.31 are EG vs CG. Affiliation inconsistency (Universitas Negeri Medan authors; implementation 'at Almuslim University')."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-13"
+}

@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-84865086835",
+ "arm": "S",
+ "doi": null,
+ "title": "Flashes or steady light? Or the potentials of developing networked learning",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "NOREL",
+ "reason": "Short IADIS paper describing a Moodle-supported Digital Pedagogy course and the potential of log mining; activity is shown only as a screenshot of semester activity and never related per student to success or a construct. No statistics.",
+ "extraction": {
+  "country": "Hungary",
+  "design": "descriptive case report",
+  "n": "nr",
+  "n_quote": null,
+  "population": "students of an optional blended Digital Pedagogy course (300-400 students), Budapest University of Technology and Economics",
+  "lms_indicators": "Moodle activity statistics and logs (described, plotted once; not analysed against outcomes)",
+  "outcome_or_construct": "none analysed",
+  "effect_sizes": [],
+  "notes": "Correct paper now (title matches; 3 pages, pp. 405-407). Secondary E1: no data reported from which reliability could be judged."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-13"
+}

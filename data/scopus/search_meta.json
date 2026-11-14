@@ -1,0 +1,9 @@
+{
+ "database": "Scopus (Elsevier Scopus Search API, STANDARD view)",
+ "query": "TITLE-ABS-KEY ( ( LMS OR \"learning management system\" OR \"distance learning\" ) AND ( empirical OR experiment OR experimental OR \"real-life\" ) AND ( sign OR signs OR measurement OR measure OR criteria OR criterion OR parameter OR factor ) AND ( \"learning style\" OR \"cognitive style\" OR \"personality type\" OR \"sensory preference\" OR \"modality\" OR \"Personality Computing\" OR \"Automatic Personality Recognition\" OR \"Automatic Personality Perception\" OR systematicity OR motivation OR stability OR mobilisation OR reflection OR prognosis OR Self-management ) )",
+ "field": "TITLE-ABS-KEY",
+ "limits": "none (no date, language or document-type limits)",
+ "run_started": "2026-11-12T00:16:46+02:00",
+ "total_results": 596,
+ "run_finished": "2026-11-12T00:17:16+02:00"
+}

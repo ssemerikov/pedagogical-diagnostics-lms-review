@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-105046167671",
+ "arm": "S",
+ "doi": "10.1007/s12144-026-09830-y",
+ "title": "Neuroscience-based educational intervention for enhancing academic adaptation, self-efficacy, and mental health in undergraduate students",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "E4",
+ "reason": "Randomised delayed-baseline experiment: group comparisons of module knowledge quizzes and of self-report scales (academic experiences, self-efficacy, DASS-21, motivation); no per-student Moodle activity measure enters any analysis.",
+ "extraction": {
+  "country": "Brazil",
+  "design": "randomised experimental, longitudinal (early vs delayed baseline groups)",
+  "n": 124,
+  "n_quote": "The study involved 124 undergraduates (aged 18–29), divided into control (n = 62) and experimental group (n = 62).",
+  "population": "undergraduates aged 18-29 in an online asynchronous neuroscience course, University of São Paulo extension system",
+  "lms_indicators": "none analysed (completion used only to define treatment fidelity)",
+  "outcome_or_construct": "academic experiences (QVA-r), higher-education self-efficacy, DASS-21, IMMS motivation, knowledge quizzes",
+  "effect_sizes": [],
+  "notes": "Secondary NOREL (self-report constructs). Completion was used only to define treatment fidelity."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-13"
+}

@@ -1,0 +1,21 @@
+{
+ "id": "2-s2.0-85212134655",
+ "independent_decision": "exclude",
+ "independent_code": "NOREL",
+ "assessor_decision": "exclude",
+ "assessor_code": "NOREL",
+ "agree": true,
+ "code_agree": true,
+ "final_decision": "exclude",
+ "final_code": "NOREL",
+ "reason": "Questionnaire variables are correlated with grades for 37 students; all predictors are self-report and no LMS indicator is measured.",
+ "extraction_check": {
+  "n": "ok",
+  "n_value": 37,
+  "n_quote": "This study conducted a quantitative sur- ... vey on 37 medical technology students.",
+  "effect_sizes": [],
+  "table2_changes": []
+ },
+ "adjudicator": "claude-fable-5-2 (WP05b)",
+ "adjudicated_on": "2026-11-13"
+}

@@ -1,0 +1,25 @@
+{"id": "2-s2.0-85138082530", "verdict": "exclude", "code": "NOIND", "reason": "Student satisfaction survey on distance learning; no activity indicators", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85028991095", "verdict": "exclude", "code": "OFF", "reason": "Tyre modal analysis", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85000868466", "verdict": "exclude", "code": "OFF", "reason": "Duct noise control", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85159394107", "verdict": "exclude", "code": "E3", "reason": "Osteoarthritis patients MOOC protocol", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85064211045", "verdict": "exclude", "code": "OFF", "reason": "LMS algorithm", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85215695437", "verdict": "exclude", "code": "OFF", "reason": "Oncology", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-105048900167", "verdict": "maybe", "code": "I1", "reason": "Anatomy digital resources and flipped model for medical undergraduates; indicators unclear", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85073683089", "verdict": "maybe", "code": "I2", "reason": "Flipped classroom, multimedia textbook and learning styles of economics students; indicators unclear", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85218418747", "verdict": "exclude", "code": "OFF", "reason": "Motor control", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-0029220444", "verdict": "exclude", "code": "OFF", "reason": "Active damping", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-0034764848", "verdict": "exclude", "code": "OFF", "reason": "Beam wave control", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-105004593751", "verdict": "exclude", "code": "OFF", "reason": "Piezoelectric control", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85089657028", "verdict": "exclude", "code": "OFF", "reason": "Pharmaceutical assays", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-8844277683", "verdict": "exclude", "code": "OFF", "reason": "Rotor system modelling", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-105037095970", "verdict": "exclude", "code": "OFF", "reason": "Cancer biology", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-84988919942", "verdict": "exclude", "code": "OFF", "reason": "LMS algorithm", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-84891060098", "verdict": "exclude", "code": "E2", "reason": "Conference proceedings front matter", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-46549083355", "verdict": "exclude", "code": "OFF", "reason": "Mussel histopathology", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85141791777", "verdict": "exclude", "code": "OFF", "reason": "Equine physiology", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85153973005", "verdict": "exclude", "code": "NOIND", "reason": "Attitude scale validation for prospective teachers; no activity indicators", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-77953531358", "verdict": "maybe", "code": "I2", "reason": "No abstract; motivation of users in distance learning", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85173873549", "verdict": "exclude", "code": "OFF", "reason": "Structural dynamics", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85052469000", "verdict": "exclude", "code": "NOIND", "reason": "Nursing students' perceptions survey, no activity indicators", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-84883022219", "verdict": "exclude", "code": "E2", "reason": "Conference proceedings front matter", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-105020280938", "verdict": "exclude", "code": "OFF", "reason": "Gas sensing", "screener": "claude-sonnet-5-5 (WP02b first pass)"}

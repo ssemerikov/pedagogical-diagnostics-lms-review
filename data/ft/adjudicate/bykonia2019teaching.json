@@ -1,0 +1,45 @@
+{
+ "id": "bykonia2019teaching",
+ "part": "C",
+ "independent_decision": "exclude",
+ "independent_code": "NOREL",
+ "assessor_decision": "include (re-extraction mode; criteria_met=[])",
+ "agree": true,
+ "final_decision": "include",
+ "final_code": null,
+ "reason": "Part C (D8: original inclusion unchanged). Single group of 87 students, traditional then flipped mode; every reported result is a self-report questionnaire percentage. No platform-recorded per-student measure, final-test scores not reported. Would be NOREL under the update rules; assessor reached the same reading.",
+ "extraction_check": {
+  "n": "corrected",
+  "n_value": 87,
+  "n_quote": "Therefore, the experimental group involved 87 (49 males and 38 females) students who were doing the course in",
+  "effect_sizes": [],
+  "table2_changes": [
+   {
+    "column": "n",
+    "from": "nr",
+    "to": "87",
+    "quote": "Therefore, the experimental group involved 87 (49 males and 38 females) students who were doing the course in"
+   },
+   {
+    "column": "design",
+    "from": "Experimental/control",
+    "to": "Single-group pre/post (no control group), descriptive percentages",
+    "quote": "was used to form the experimental group for this study."
+   },
+   {
+    "column": "lms_indicators",
+    "from": "Digital-environment work products",
+    "to": "None recorded (self-report questionnaires only)",
+    "quote": "process the students’ responses to survey questions and direct quotations provided from the participants’ responses"
+   }
+  ]
+ },
+ "sensitivity": {
+  "criteria_met": [],
+  "meets_update_rules": false,
+  "decisive_quote": "Results clearly suggest that students have experiences a dramatic change in perception of benefits of learning",
+  "note": "Outcomes are self-reported preference and involvement percentages (Tables 2-3); no log, product score or inferential statistic. Fails I1-I4; NOREL."
+ },
+ "adjudicator": "claude-fable-5-2 (WP05b)",
+ "adjudicated_on": "2026-11-12"
+}

@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-105041005654",
+ "arm": "S",
+ "doi": "10.18421/tem152-73",
+ "title": "Activity-Based-Lesson Learn-Reflection (ALLR) Assisted by HTML5 Package (H5P) to Develop Critical Thinking Skills of Future Science Teachers",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "E4",
+ "reason": "One-group pre/post test of critical-thinking skill after an H5P-supported model on a Moodle LMS. No platform-recorded indicator or activity product is related to any outcome; the 'effect size' is a pre-post score correlation.",
+ "extraction": {
+  "country": "Indonesia (East Java, Universitas Negeri Surabaya)",
+  "design": "pre-experimental, one-group pre-post",
+  "n": 46,
+  "n_quote": "A pre- ... experimental research with one-group pre-test-post-test design was conducted with 46 students from the Science ... Education program in East Java, across three",
+  "population": "pre-service science teachers (undergraduate), 3 campuses",
+  "lms_indicators": "none (Moodle/H5P used as delivery medium)",
+  "outcome_or_construct": "critical-thinking test (Facione)",
+  "effect_sizes": [],
+  "notes": "Reported 'explicit effect size' is a Pearson correlation between pre-test and post-test scores and per-campus c-values; neither is an indicator-outcome relation. PDF text is two-column interleaved; quote fragments joined with ' ... '."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-12"
+}

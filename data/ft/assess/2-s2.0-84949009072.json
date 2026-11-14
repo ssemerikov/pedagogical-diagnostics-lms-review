@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-84949009072",
+ "arm": "S",
+ "doi": null,
+ "title": "Corrections learning and performance: A vision for the 21st century",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "NONEMP",
+ "reason": "US National Institute of Corrections white paper (2012) presenting a vision for corrections staff learning and performance; no empirical data. Population would also be corrections employees, not HE/VET students.",
+ "extraction": {
+  "country": "USA",
+  "design": "white paper / position document",
+  "n": "nr",
+  "n_quote": null,
+  "population": "corrections professionals (not sampled)",
+  "lms_indicators": "none",
+  "outcome_or_construct": "none",
+  "effect_sizes": [],
+  "notes": "Secondary E3 (employees)."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-13"
+}

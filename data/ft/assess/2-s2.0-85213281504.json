@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-85213281504",
+ "arm": "S",
+ "doi": "10.1186/s12909-024-06579-5",
+ "title": "The effects of ‘small private online course + flipped classroom’ teaching on job competency of nuclear medicine training trainees",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "E4",
+ "reason": "Randomised comparison of SPOC plus flipped classroom vs lecture-based learning for nuclear-medicine residents on pre-class, after-class and final test scores plus satisfaction questionnaires. Only group contrasts; no per-student platform indicator is related to outcomes.",
+ "extraction": {
+  "country": "China (Sichuan Provincial People's Hospital)",
+  "design": "experimental/control (random assignment)",
+  "n": 103,
+  "n_quote": "A total of 103 first-year residents from Sichuan Provincial People’s Hospital were randomly assigned to either an experimental group ( n = 52) or a control group ( n = 51)",
+  "population": "first-year standardized-training residents (postgraduate medical training), 1 hospital",
+  "lms_indicators": "none analysed (SPOC used for delivery)",
+  "outcome_or_construct": "theoretical test and final exam scores; competency/satisfaction questionnaire (self-report)",
+  "effect_sizes": [],
+  "notes": "Residents decided on other criteria per rule (E3 not applied)."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-12"
+}

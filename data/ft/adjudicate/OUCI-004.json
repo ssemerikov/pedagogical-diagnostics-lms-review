@@ -1,0 +1,27 @@
+{
+ "id": "OUCI-004",
+ "independent_decision": "exclude",
+ "independent_code": "E2",
+ "assessor_decision": "exclude",
+ "assessor_code": "E2",
+ "agree": true,
+ "code_agree": true,
+ "final_decision": "exclude",
+ "final_code": "E2",
+ "reason": "Journal republication of the already included kolgatin2020systematicity: the same 54 students, 274 reports and Pearson r = 0.28. Adds no independent evidence.",
+ "extraction_check": {
+  "n": "ok",
+  "n_value": 54,
+  "n_quote": "In total, 54 students took part in experiment. 274 reports were analysed.",
+  "effect_sizes": [
+   {
+    "value": "r = 0.28 (share of reports submitted on time ↔ final test result)",
+    "status": "ok",
+    "quote": "Pearson correlation ... between these two variables is 0.28."
+   }
+  ],
+  "table2_changes": []
+ },
+ "adjudicator": "claude-fable-5-2 (WP05b)",
+ "adjudicated_on": "2026-11-13"
+}

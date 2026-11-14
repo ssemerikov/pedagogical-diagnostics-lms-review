@@ -1,0 +1,21 @@
+{
+ "id": "2-s2.0-85055720879",
+ "independent_decision": "exclude",
+ "independent_code": "NOREL",
+ "assessor_decision": "exclude",
+ "assessor_code": "NOREL",
+ "agree": true,
+ "code_agree": true,
+ "final_decision": "exclude",
+ "final_code": "NOREL",
+ "reason": "Felder-Silverman dimensions are assigned from Moodle web logs by decision rules; no independently measured learning style exists, so the reported accuracy is not an indicator-construct relation.",
+ "extraction_check": {
+  "n": "ok",
+  "n_value": 300,
+  "n_quote": "log files of approximately around 300 datasets of learners",
+  "effect_sizes": [],
+  "table2_changes": []
+ },
+ "adjudicator": "claude-fable-5-2 (WP05b)",
+ "adjudicated_on": "2026-11-13"
+}

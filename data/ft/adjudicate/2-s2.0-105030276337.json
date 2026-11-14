@@ -1,0 +1,63 @@
+{
+ "id": "2-s2.0-105030276337",
+ "independent_decision": "include",
+ "independent_code": "I1",
+ "assessor_decision": "include",
+ "assessor_code": null,
+ "agree": true,
+ "code_agree": true,
+ "final_decision": "include",
+ "final_code": null,
+ "reason": "Per-student forum post counts, replies, word counts and initiated posts enter logit models of retention and of result band, with controls for prior attainment and demographics (1413 observations). Meets I1.",
+ "extraction_check": {
+  "n": "ok",
+  "n_value": 1413,
+  "n_quote": "collated cross-sectional demographic, academic and forum activity indicators for the students on the Economics course in 2021 (n=748) and 2022 (n=665), a total of 1413 observations for the regression analysis, carried out using Stata software.",
+  "effect_sizes": [
+   {
+    "value": "logit B = 0.328 (SE 0.0663), p<0.001 (total forum posts ↔ retention (n=892))",
+    "status": "ok",
+    "quote": "Forum Effect 0.225* 0.199* 0.328*** 0.00214*** 1.544***",
+    "note": "composite value; quote is verbatim and each coefficient was checked by hand against Tables 3-4 (text lines 478, 629, 668)"
+   },
+   {
+    "value": "OR = 1.388 (one additional forum post ↔ odds of retention)",
+    "status": "ok",
+    "quote": "the odds 1 PiPi of retaining that student relative to not retaining them increases by e0:328 , equal to a factor of 1.388."
+   },
+   {
+    "value": "logit B = TGF 0.225 (p<0.05); reply 0.199 (p<0.05); word count 0.00214 (p<0.001); initiated post 1.544 (p<0.001) (other forum measures ↔ retention)",
+    "status": "ok",
+    "quote": "Forum Effect 0.225* 0.199* 0.328*** 0.00214*** 1.544***",
+    "note": "composite value; quote is verbatim and each coefficient was checked by hand against Tables 3-4 (text lines 478, 629, 668)"
+   },
+   {
+    "value": "multinomial logit B = TGF 0.221***, reply 0.0960*, all forums 0.148*** (distinction vs pass); fail-resit −1.064, −0.722, −0.356 n.s. (forum posts ↔ distinction (vs pass) and fail-resit (vs pass), n=361-582)",
+    "status": "ok",
+    "quote": "Forum Effect −1.064 0.221*** −0.722 0.0960* −0.356 0.148***",
+    "note": "composite value; quote is verbatim and each coefficient was checked by hand against Tables 3-4 (text lines 478, 629, 668)"
+   },
+   {
+    "value": "multinomial logit B = word count 0.00105***; initiated post 0.833*** (distinction); fail-resit −0.00329, 0.278 n.s. (word count / initiated post ↔ distinction and fail-resit (n=582))",
+    "status": "ok",
+    "quote": "Forum Effect −0.00329 0.00105*** 0.278 0.833***",
+    "note": "composite value; quote is verbatim and each coefficient was checked by hand against Tables 3-4 (text lines 478, 629, 668)"
+   }
+  ],
+  "table2_changes": []
+ },
+ "adjudicator": "claude-fable-5-2 (WP05b)",
+ "adjudicated_on": "2026-11-13",
+ "criteria_met": [
+  "I1"
+ ],
+ "table2_row": {
+  "country": "UK",
+  "design": "correlational (binary and multinomial logistic regression) + interviews (mixed methods)",
+  "n": "1413 observations (892 in the main retention model)",
+  "lms_indicators": "number of tutor-group forum posts; replies; total posts in all forums; total word count; any initiated post (dummy)",
+  "outcome_or_construct": "module retention (binary); final result fail-resit / pass / distinction (multinomial)",
+  "effect_size": "Logit B = 0.328 per forum post on retention (odds ratio 1.388, n = 892); distinction vs pass B = 0.148 per post"
+ },
+ "table2_row_source": "assessor extraction, cells confirmed by adjudicator"
+}

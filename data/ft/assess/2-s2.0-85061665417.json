@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-85061665417",
+ "arm": "S",
+ "doi": "10.1177/0020720918775041",
+ "title": "SEITI RMLab: A costless and effective remote measurement laboratory in electrical engineering",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "NOREL",
+ "reason": "Describes the SEITI RMLab remote measurement lab; evaluation is a crossover of 31 students through hands-on/remote modes followed by a survey rating 12 issues (availability, ease of use...). No platform indicator is related to performance or traits.",
+ "extraction": {
+  "country": "Morocco (SEITI team, Fez)",
+  "design": "system description plus crossover usage and satisfaction survey",
+  "n": 31,
+  "n_quote": "We divided a panel of 31 students into three groups: G1: 9 students, G2: 11",
+  "population": "electrical engineering students, 1 institution",
+  "lms_indicators": "none analysed",
+  "outcome_or_construct": "perceived quality of remote lab (self-report)",
+  "effect_sizes": [],
+  "notes": "Remote-lab assessments exist in the platform but are not analysed against usage."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-12"
+}

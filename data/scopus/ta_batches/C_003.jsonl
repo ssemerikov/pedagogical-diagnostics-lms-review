@@ -1,0 +1,8 @@
+{"id": "OUCI2-lxLy2LVL", "verdict": "exclude", "code": "OFF", "reason": "Mobile psychological support architecture; conceptual, not education", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "OUCI2-4kEb33no", "verdict": "maybe", "code": "I2", "reason": "Blended English course, motivational profiles and autonomy with diagnostics; experiment, LMS indicators unclear", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "OUCI2-lDdbdLPg", "verdict": "maybe", "code": "I3", "reason": "Learning analytics monitoring methodology using Moodle data; school students possibly, mostly methodological", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "OUCI2-4Oqmj2Qz", "verdict": "exclude", "code": "E3", "reason": "Teacher training program on technology use; teachers not students", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "OUCI2-9Gmv3bNZ", "verdict": "pass", "code": "I1", "reason": "Maths e-learning with LMS analytics, motivation and independent learning; quasi-experiment pre-post", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "OUCI2-4NkJjQov", "verdict": "exclude", "code": "NONEMP", "reason": "Conference abstract book table of contents, no study data", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "OUCI2-7qEd6ryK", "verdict": "exclude", "code": "E3", "reason": "Junior high school pupils, AI-based LMS", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "OUCI2-4kEvonR6", "verdict": "exclude", "code": "NONEMP", "reason": "Programme framework report for trade education; not a study", "screener": "claude-sonnet-5-5 (WP02b first pass)"}

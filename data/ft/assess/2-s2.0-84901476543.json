@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-84901476543",
+ "arm": "S",
+ "doi": null,
+ "title": "The importance of social presence and motivation in distance learning",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "E4",
+ "reason": "Randomised control vs experimental (motivational e-mails) comparison of completion, final grade and Course Interest Survey scores in community-college online classes. Only group contrasts; no per-student platform indicator or activity product enters any analysis.",
+ "extraction": {
+  "country": "USA (one community college)",
+  "design": "randomised two-group comparison",
+  "n": "nr",
+  "n_quote": null,
+  "population": "community-college students in 12 online classes, spring 2009",
+  "lms_indicators": "none",
+  "outcome_or_construct": "completion, final grade, CIS motivation (ARCS)",
+  "effect_sizes": [],
+  "notes": "Group membership is not an indicator. n not extracted (abstract does not give it)."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-12"
+}

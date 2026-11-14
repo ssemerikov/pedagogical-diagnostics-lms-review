@@ -1,0 +1,21 @@
+{
+ "id": "2-s2.0-85213281504",
+ "independent_decision": "exclude",
+ "independent_code": "E4",
+ "assessor_decision": "exclude",
+ "assessor_code": "E4",
+ "agree": true,
+ "code_agree": true,
+ "final_decision": "exclude",
+ "final_code": "E4",
+ "reason": "Residents randomised to SPOC plus flipped classroom or lectures and compared on test scores and satisfaction; no per-trainee activity indicator.",
+ "extraction_check": {
+  "n": "ok",
+  "n_value": 103,
+  "n_quote": "A total of 103 first-year residents from Sichuan Provincial People’s Hospital were randomly assigned to either an experimental group ( n = 52) or a control group ( n = 51)",
+  "effect_sizes": [],
+  "table2_changes": []
+ },
+ "adjudicator": "claude-fable-5-2 (WP05b)",
+ "adjudicated_on": "2026-11-13"
+}

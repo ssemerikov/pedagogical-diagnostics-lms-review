@@ -1,0 +1,22 @@
+{
+ "id": "2-s2.0-105031927582",
+ "independent_decision": "exclude",
+ "independent_code": "E4",
+ "assessor_decision": "exclude",
+ "assessor_code": "E4",
+ "agree": true,
+ "code_agree": true,
+ "final_decision": "exclude",
+ "final_code": "E4",
+ "reason": "Four-group quasi-experiment comparing changes in motor tests and self-report scales; no platform-recorded activity measure is analysed. E4 under the rule clarification. The assessor first coded NOREL and has since revised to E4; we now agree.",
+ "extraction_check": {
+  "n": "ok",
+  "n_value": 78,
+  "n_quote": "participants who successfully completed the training was 78 (without sex stratification) aged",
+  "effect_sizes": [],
+  "table2_changes": []
+ },
+ "adjudicator": "claude-fable-5-2 (WP05b)",
+ "adjudicated_on": "2026-11-13",
+ "recompared": "The assessor revised this file after my first adjudication; re-compared against the current assess file on 2026-11-13."
+}

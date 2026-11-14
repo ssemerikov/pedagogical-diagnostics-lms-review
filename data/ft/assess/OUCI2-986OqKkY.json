@@ -1,0 +1,23 @@
+{
+ "id": "OUCI2-986OqKkY",
+ "arm": "O2",
+ "doi": "10.28925/2412-0774.2025.4.13",
+ "title": "EXPERIMENTAL VALIDATION OF THE METHODOLOGY FOR DIFFERENTIATED INSTRUCTION ORGANISATION IN LMS MOODLE",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "E4",
+ "reason": "Ukrainian-language EG/CG experiment: entry and final test scores compared by Mann-Whitney and Wilcoxon, plus a satisfaction survey; learning styles diagnosed by questionnaire only for grouping; no per-student Moodle activity measure is analysed.",
+ "extraction": {
+  "country": "Ukraine",
+  "design": "experimental/control (pedagogical experiment)",
+  "n": 54,
+  "n_quote": "До дослідження залучено 54 студенти, поділені на контрольну й експериментальну групи.",
+  "population": "undergraduate students of an IT-infrastructure course, 1 university (Borys Grinchenko Kyiv Metropolitan University)",
+  "lms_indicators": "none analysed (Moodle progress analytics described as a feature only)",
+  "outcome_or_construct": "entry/final test scores; satisfaction survey",
+  "effect_sizes": [],
+  "notes": "Ukrainian full text (eligible language). Learning styles, interests and motivation captured by a 30-item questionnaire and used to differentiate tasks, not related to outcomes."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-13"
+}

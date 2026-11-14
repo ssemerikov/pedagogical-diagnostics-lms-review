@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-85218343573",
+ "arm": "S",
+ "doi": "10.3138/jvme-2023-0049",
+ "title": "An Exploratory Study of the Impact of COVID-19 Pandemic Disruptions on Veterinary Medical Education",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "E4",
+ "reason": "Quasi-experimental ANOVA comparing pre-, during- and post-COVID cohorts on standardised exams (VEA, NAVLE), OSCEs and satisfaction surveys; Canvas is mentioned only as a delivery tool and no per-student platform measure is analysed.",
+ "extraction": {
+  "country": "USA",
+  "design": "quasi-experimental cohort comparison (ANOVA)",
+  "n": "nr",
+  "n_quote": null,
+  "population": "veterinary medicine students (several cohorts), US college of veterinary medicine",
+  "lms_indicators": "none",
+  "outcome_or_construct": "VEA, NAVLE, OSCE scores; exit/alumni/employer survey satisfaction",
+  "effect_sizes": [],
+  "notes": "Cohort-level achievement comparison only."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-13"
+}

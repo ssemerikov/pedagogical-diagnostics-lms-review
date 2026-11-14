@@ -1,0 +1,54 @@
+{
+ "id": "2-s2.0-85064678466",
+ "arm": "S",
+ "doi": "10.12700/aph.15.6.2018.6.7",
+ "title": "External motivation, the key to success in the MOOCs framework",
+ "decision": "include",
+ "criteria_met": [
+  "I1"
+ ],
+ "exclusion_code": null,
+ "reason": "Moodle-recorded time spent in the LMS correlated with course points (r = 0.75) and with an external-motivation (course-credit) condition in a MOOC. Meets I1. Mixed sample including university students, so E3 not clearly applicable; flagged.",
+ "extraction": {
+  "country": "Serbia and Hungary (MOOC participants: 135 Serbia, 71 Hungary, 2 Romania)",
+  "design": "correlational case study (Pearson r, t-tests, ANOVA)",
+  "n": 208,
+  "n_quote": "208 students enrolled on this given course, in the following composition: 79% (165) female and 21% (43) male students",
+  "population": "MOOC enrolees: 99 students, 86 teachers, 23 other; primary target group Hungarian secondary-school students in Serbia; 44 first/second-year university students (Novi Sad teacher training) received course credit",
+  "lms_indicators": "time spent in the Moodle LMS (system-recorded)",
+  "outcome_or_construct": "course achievement (points from assignments, forum, final test); 'external motivation' (receiving formal-course credit, self-reported at application)",
+  "effect_sizes": [
+   {
+    "statistic": "r",
+    "value": "0.75",
+    "between": "time spent in LMS ↔ course achievement (points), whole sample",
+    "quote": "between the amount of time spent in the LMS and student achievements - amount of acquired points (Pearson correlation factor r= 0.75, p= 0.001).",
+    "location": "Results, p. 135 (Table 3)"
+   },
+   {
+    "statistic": "r",
+    "value": "0.46",
+    "between": "time spent in LMS ↔ course achievement, active students only",
+    "quote": "the amount of time spent in the LMS and the variable of student achievements show a significant correlation (Pearson correlation factor = 0.46, p=0.001).",
+    "location": "Results, p. 135 (Table 5)"
+   },
+   {
+    "statistic": "r",
+    "value": "0.38",
+    "between": "external motivation ↔ time spent in LMS",
+    "quote": "External motivation and the variable of time spent in this framework demonstrated an apparent relationship (Pearson correlation factor=0.38, p=0.001).",
+    "location": "Results, p. 135"
+   },
+   {
+    "statistic": "r",
+    "value": "0.25",
+    "between": "external motivation ↔ time spent in LMS, students who logged in",
+    "quote": "a statistically outstanding correlation emerges between the external motivation and time spent in LMS (Pearson correlation factor = 0.25, p= 0.003).",
+    "location": "Results, p. 135 (Table 4)"
+   }
+  ],
+  "notes": "E3 risk: sample is mixed (secondary-school students are the primary target group; 41% teachers); analyses pool all participants, HE students are 44/208. 'External motivation' is defined by the authors as course points transferable to formal education, i.e. an incentive condition, not a measured trait, so I2 is not claimed. Tables 3-5 are images; values taken from narrative text."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-12"
+}

@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-105038603936",
+ "arm": "S",
+ "doi": "10.3390/app16094253",
+ "title": "Calibrating the Performance Assessment Mechanism in Virtual Laboratories with a Reinforcement Learning-Inspired Technique",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "E3",
+ "reason": "Recalibrates the Onlabs virtual-lab step-order scoring with reinforcement learning on automated sessions of a non-playable character, with no human expert or student data. No student sample enters this paper's analysis.",
+ "extraction": {
+  "country": "Greece (Hellenic Open University)",
+  "design": "algorithm design and simulation (RL on NPC)",
+  "n": "nr",
+  "n_quote": null,
+  "population": "none in this paper (NPC simulation); earlier calibrations used human gameplay sessions",
+  "lms_indicators": "virtual-lab action sequences (simulated)",
+  "outcome_or_construct": "scoring-algorithm penalty weights",
+  "effect_sizes": [],
+  "notes": "Secondary code: NOREL (no indicator related to student success). Earlier GA/ANN calibration against expert grading is cited as prior work, not reported here."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-12"
+}

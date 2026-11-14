@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-85109037011",
+ "arm": "S",
+ "doi": "10.1016/j.compedu.2021.104261",
+ "title": "Establishing a computer-assisted interactive reading model",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "E3",
+ "reason": "Participants are intermediate EFL learners aged 17-25 at a private language school, not a higher- or vocational-education programme. Secondarily, only between-group comparisons of a reading test plus perception questionnaires; no platform-recorded indicator.",
+ "extraction": {
+  "country": "Iran",
+  "design": "randomised between-subjects experiment (3 treatment groups + control)",
+  "n": 278,
+  "n_quote": "Participants included 278 intermediate EFL learners at a private language school.",
+  "population": "intermediate EFL learners aged 17-25, private language school",
+  "lms_indicators": "none",
+  "outcome_or_construct": "reading comprehension test; perceptions of the CAIRM model",
+  "effect_sizes": [],
+  "notes": "Secondary E4: d = 2.34-3.82 are treatment vs control differences in reading performance."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-13"
+}

@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-85172105829",
+ "arm": "S",
+ "doi": null,
+ "title": "Effects of Distance Learning on African-American Students in Engineering Technology Courses During COVID-19 Pandemic",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "E4",
+ "reason": "Compares course grades of 47 engineering-technology students between distance and in-person modalities across terms, plus satisfaction surveys. Only modality contrasts; no per-student platform indicator or activity product enters any analysis.",
+ "extraction": {
+  "country": "USA (Florida A&M University)",
+  "design": "modality comparison over three terms plus survey",
+  "n": 47,
+  "n_quote": "CET. A total of 47 students (20 from EET and 27 from CET) academic performances were",
+  "population": "African-American engineering-technology undergraduates (EET, CET), 1 university",
+  "lms_indicators": "none (Canvas resources only as a self-reported course variable)",
+  "outcome_or_construct": "course grades; satisfaction (survey)",
+  "effect_sizes": [],
+  "notes": "ASEE conference paper. Secondary code: NOREL."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-13"
+}

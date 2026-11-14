@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-84969916962",
+ "arm": "S",
+ "doi": "10.1109/intelcis.2015.7397281",
+ "title": "Personalized E-learning recommendation model based on psychological type and learning style models",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "NOREL",
+ "reason": "Moodle/Facebook behaviour counts are mapped to MBTI types by an a priori above-average rule, never validated against measured personality in the same students; the only test compares LMS time and page views between two randomised groups.",
+ "extraction": {
+  "country": "Egypt",
+  "design": "two-group experiment (questionnaire model vs data-driven model)",
+  "n": 80,
+  "n_quote": "We divided the 80 of students into two groups, each one of",
+  "population": "college students in a marketing course, 1 educational organisation in Cairo",
+  "lms_indicators": "pages visited, total time spent, comments, likes, shares, posts, chat sessions, early/late assignment submissions",
+  "outcome_or_construct": "MBTI type / Kolb style (rule-assigned, not measured for the DDM group); outcome of t-test is LMS time and pages viewed",
+  "effect_sizes": [],
+  "notes": "n_quote is truncated by the two-column PDF layout ('... each one of 40 students randomly'). QM group took the MBTI questionnaire; DDM group's type was rule-derived from logs; Fig. 8 compares preference distributions between different students. t=8.883 (time) and t=19.234 (pages), p<.001, are group differences in LMS behaviour."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-13"
+}

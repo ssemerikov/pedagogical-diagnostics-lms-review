@@ -1,0 +1,21 @@
+{
+ "id": "2-s2.0-105026633270",
+ "independent_decision": "exclude",
+ "independent_code": "E4",
+ "assessor_decision": "exclude",
+ "assessor_code": "E3",
+ "agree": true,
+ "code_agree": false,
+ "final_decision": "exclude",
+ "final_code": "E3",
+ "reason": "Two experimental groups and a control compared on speaking-fluency measures. Blind I coded E4; the participants are learners aged 16-20 at a language institute, not higher- or vocational-education students, so the assessor's E3 takes precedence.",
+ "extraction_check": {
+  "n": "ok",
+  "n_value": 61,
+  "n_quote": "The participants were 61 upper-intermediate EFL learners with an age range of 16-20 and 5 years of English learning experience.",
+  "effect_sizes": [],
+  "table2_changes": []
+ },
+ "adjudicator": "claude-fable-5-2 (WP05b)",
+ "adjudicated_on": "2026-11-13"
+}

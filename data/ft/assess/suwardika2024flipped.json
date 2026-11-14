@@ -1,0 +1,30 @@
+{
+ "id": "suwardika2024flipped",
+ "arm": "O1-included",
+ "doi": "10.1108/aaouj-10-2023-0115",
+ "title": "A flipped classroom with whiteboard animation and modules to enhance students' self-regulation, critical thinking and communication skills: a conceptual framework and its implementation",
+ "decision": "include",
+ "criteria_met": [],
+ "exclusion_code": null,
+ "reason": "Re-extraction (inclusion not re-decided). Three-group quasi-experiment: MANCOVA treatment effects on self-reported self-regulation, critical-thinking and communication scores. Engagement with animation/modules is the treatment, never a measured per-student indicator. Would fail I1-I4 (E4/NOREL); flagged.",
+ "extraction": {
+  "country": "Indonesia (Universitas Terbuka)",
+  "design": "mixed methods: conceptual framework + quasi-experiment, non-equivalent control group (3 groups), MANCOVA",
+  "n": 83,
+  "n_quote": "The research participants in the implementation phase comprised 83 students divided into three classes.",
+  "population": "in-service elementary school teachers enrolled in the undergraduate Elementary School Teacher Education (RPL) programme, course PDGK4202, open university",
+  "lms_indicators": "none measured; worksheets uploaded to the LMS (silayar.ut.ac.id) are documented qualitatively only",
+  "outcome_or_construct": "self-regulation (questionnaire), critical-thinking skills (test), communication skills",
+  "effect_sizes": [],
+  "notes": "Only treatment F-values are reported, e.g. 'a significant effect of the different Tuweb models on the self-regulation variable (Y1), with an F-value of 45.673'; CT F = 98.322; communication F = 29.787; no partial eta2. These are group contrasts, not indicator-outcome relations, so none is extracted. Table 2 cells: country Indonesia and design confirmed; n = 83 now recoverable; LMS-side indicator cell ('Engagement with animation and modules') describes the intervention, not a measure."
+ },
+ "table2_current": {
+  "country": "Indonesia",
+  "design": "Mixed methods",
+  "n": "nr",
+  "lms_indicators": "Engagement with animation and modules",
+  "effect_size": "nr"
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-12"
+}

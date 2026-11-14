@@ -1,0 +1,54 @@
+{
+ "id": "2-s2.0-105046336713",
+ "arm": "S",
+ "doi": "10.1109/access.2026.3719079",
+ "title": "Self-Regulation, Scaffolding, and the Illusion of Improvement: A Quasi-Experimental Evaluation of an LLM-Based Programming Help Tool",
+ "decision": "include",
+ "criteria_met": [
+  "I1"
+ ],
+ "exclusion_code": null,
+ "reason": "Platform logs (Codio lab time, iClicker attendance, CodeHelp query logs) used to predict LMS-integrated tool adoption and to relate tool use to Exam 2 performance, unmatched and propensity-matched. Meets I1; data cleaning and model checks reported.",
+ "extraction": {
+  "country": "USA (large public university, southeastern US)",
+  "design": "quasi-experimental (delayed tool release), logistic regression, propensity score matching, t-tests",
+  "n": 589,
+  "n_quote": "been collected. Using data from 589 students in a second-level programming course, we find that students",
+  "population": "undergraduates in a second-level programming course, 1 university",
+  "lms_indicators": "CodeHelp (LMS-integrated LLM tool) use and query counts from logs; Codio lab time; iClicker attendance; Exam 1",
+  "outcome_or_construct": "Exam 2 score; CodeHelp adoption (help-seeking, interpreted as self-regulation)",
+  "effect_sizes": [
+   {
+    "statistic": "OR",
+    "value": "48.87",
+    "between": "lab time (Codio) ↔ CodeHelp adoption",
+    "quote": "likely to use CodeHelp (odds ratio = 48.87).",
+    "location": "Results, RQ2; Table 3"
+   },
+   {
+    "statistic": "OR",
+    "value": "7.31",
+    "between": "attendance (iClicker) ↔ CodeHelp adoption",
+    "quote": "of 7.31. Exam 1 performance had a positive but marginal",
+    "location": "Results, RQ2"
+   },
+   {
+    "statistic": "t",
+    "value": "1.95 (p = 0.0519)",
+    "between": "CodeHelp use (yes/no) ↔ Exam 2 score, unmatched",
+    "quote": "CodeHelp users (t = 1.95, p = 0.0519).",
+    "location": "Results, RQ3 unmatched"
+   },
+   {
+    "statistic": "t",
+    "value": "−1.03 (p = 0.3035)",
+    "between": "CodeHelp use ↔ Exam 2 score, propensity-matched",
+    "quote": "between CodeHelp users and matched non-users (t = −1.03,",
+    "location": "Results, RQ3 matched"
+   }
+  ],
+  "notes": "OR quote continues \"Atten- dance also significantly predicted use, with an odds ratio of 7.31\". Abstract gives 589; Results give 256 users + 339 non-users (595); 659 enrolled. Usage-intensity stratification (light/average/heavy) also null. Table 3 not in text layer. Directly relevant to selection/counterfactual concerns."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-12"
+}

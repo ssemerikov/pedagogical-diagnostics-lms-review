@@ -1,0 +1,23 @@
+{
+ "id": "OUCI2-4yNvd3Wg",
+ "arm": "O2",
+ "doi": "10.47577/tssj.v85i1.13728",
+ "title": "How Digital Competence Influences Academic Performance: The Mediating Role of Learning Motivation among Students at Thu Dau Mot University",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "NOREL",
+ "reason": "PLS-SEM of a cross-sectional survey (350 students): self-reported digital-competence dimensions, learning motivation and academic performance. No platform-recorded indicator or activity product is measured.",
+ "extraction": {
+  "country": "Vietnam (Thu Dau Mot University)",
+  "design": "cross-sectional survey, PLS-SEM",
+  "n": 350,
+  "n_quote": "Technology, and Digital Ethics. A quantitative cross-sectional survey was conducted among 350",
+  "population": "university students, 1 university",
+  "lms_indicators": "none",
+  "outcome_or_construct": "academic performance; learning motivation (self-report)",
+  "effect_sizes": [],
+  "notes": "All constructs measured by questionnaire."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-12"
+}

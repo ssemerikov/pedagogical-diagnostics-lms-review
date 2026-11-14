@@ -1,0 +1,6 @@
+{"id": "2-s2.0-105025376756", "verdict": "exclude", "code": "OFF", "reason": "Music AI", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85122314108", "verdict": "maybe", "code": "I1", "reason": "Chemistry lab course students' reactions to remote practices; review label, empirical status unclear", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85012278039", "verdict": "exclude", "code": "OFF", "reason": "Marine ecotoxicology", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85200148738", "verdict": "exclude", "code": "OFF", "reason": "Adaptive estimator", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-84867971131", "verdict": "exclude", "code": "OFF", "reason": "Noise control", "screener": "claude-sonnet-5-5 (WP02b first pass)"}
+{"id": "2-s2.0-85151258265", "verdict": "exclude", "code": "E2", "reason": "Conference proceedings front matter", "screener": "claude-sonnet-5-5 (WP02b first pass)"}

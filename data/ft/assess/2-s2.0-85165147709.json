@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-85165147709",
+ "arm": "S",
+ "doi": "10.26907/esd.18.2.12",
+ "title": "Students' Creativity: Possibilities of a Mixed Consortium Model",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "E6",
+ "reason": "Article body is in Russian (Education and Self Development, 2023); English appears only in metadata/abstract and references. Topic: students' creative activity in a blended consortium model (Vyatka State and Kazan Federal universities).",
+ "extraction": {
+  "country": "Russia",
+  "design": "nr",
+  "n": "nr",
+  "n_quote": null,
+  "population": "university students (Vyatka State University, Kazan Federal University)",
+  "lms_indicators": "nr",
+  "outcome_or_construct": "creative activity",
+  "effect_sizes": [],
+  "notes": "Not assessed further after E6."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-13"
+}

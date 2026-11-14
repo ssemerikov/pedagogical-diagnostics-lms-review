@@ -1,0 +1,21 @@
+{
+ "id": "OUCI2-986OqKkY",
+ "independent_decision": "exclude",
+ "independent_code": "E4",
+ "assessor_decision": "exclude",
+ "assessor_code": "E4",
+ "agree": true,
+ "code_agree": true,
+ "final_decision": "exclude",
+ "final_code": "E4",
+ "reason": "Ukrainian-language experiment comparing results of two groups taught with and without differentiated instruction in Moodle; group contrasts only.",
+ "extraction_check": {
+  "n": "ok",
+  "n_value": 54,
+  "n_quote": "До дослідження залучено 54 студенти, поділені на контрольну й експериментальну групи.",
+  "effect_sizes": [],
+  "table2_changes": []
+ },
+ "adjudicator": "claude-fable-5-2 (WP05b)",
+ "adjudicated_on": "2026-11-13"
+}

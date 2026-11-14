@@ -1,0 +1,85 @@
+{
+ "id": "hsueh2022exploring",
+ "part": "C",
+ "independent_decision": "include",
+ "independent_code": "I1",
+ "assessor_decision": "include",
+ "agree": true,
+ "final_decision": "include",
+ "final_code": null,
+ "reason": "Part C (D8: original inclusion unchanged). Per-student OpenEdu log constructs (online days, video-watching events, document use) and in-platform self-assessment scores enter a PLS-SEM against the final grade, n = 217. Meets I1 (and I3 through the self-assessment products).",
+ "extraction_check": {
+  "n": "corrected",
+  "n_value": 217,
+  "n_quote": "tem were removed, we analyzed the log data of 217 students. Most (177; 82%) of the students were",
+  "effect_sizes": [
+   {
+    "value": "path 0.113 (video watching -> final grade, p = 0.003)",
+    "status": "ok",
+    "quote": "H3 Video watching                  0.113             0.113             0.039            2.937          0.003**"
+   },
+   {
+    "value": "path 0.047 (online time -> final grade, p = 0.163, n.s.)",
+    "status": "ok",
+    "quote": "H1 Online time                     0.047             0.046             0.034            1.394          0.163"
+   },
+   {
+    "value": "path 0.302 (online time -> self-assessment)",
+    "status": "ok",
+    "quote": "H2 Online time                     0.302             0.303             0.056            5.430          0.000**"
+   },
+   {
+    "value": "path 0.819 (self-assessment -> final grade)",
+    "status": "ok",
+    "quote": "H7 Self-assessment                 0.819             0.819             0.028            29.505         0.000**"
+   },
+   {
+    "value": "path -0.018 (online document -> final grade, p = 0.561, n.s.)",
+    "status": "ok",
+    "quote": "H5 Online document                 -0.018            -0.019            0.032            0.582          0.561"
+   },
+   {
+    "value": "R2 = 0.771 (final grade)",
+    "status": "ok",
+    "quote": "Final grade                    0.771                  0.767                            Substantial"
+   }
+  ],
+  "table2_changes": [
+   {
+    "column": "country",
+    "from": "nr",
+    "to": "Taiwan",
+    "quote": "Electrical Engineering at Feng Chia University in Taiwan. The goal of the course was to teach stu-"
+   },
+   {
+    "column": "n",
+    "from": "nr",
+    "to": "217",
+    "quote": "tem were removed, we analyzed the log data of 217 students. Most (177; 82%) of the students were"
+   },
+   {
+    "column": "lms_indicators",
+    "from": "Interaction logs (behavioural-engagement clusters)",
+    "to": "Log constructs: online days, video-watching events, online document use, in-platform self-assessment scores (no clustering is performed)",
+    "quote": "In this study, we assessed students’ engagement types based on learning behavior indicators derived"
+   },
+   {
+    "column": "effect_size",
+    "from": "nr",
+    "to": "PLS-SEM paths to final grade: video watching 0.113; online time 0.047 (n.s.); self-assessment 0.819; R2 = 0.771",
+    "quote": "H3 Video watching                  0.113             0.113             0.039            2.937          0.003**"
+   }
+  ]
+ },
+ "sensitivity": {
+  "criteria_met": [
+   "I1",
+   "I3"
+  ],
+  "meets_update_rules": true,
+  "decisive_quote": "tem were removed, we analyzed the log data of 217 students. Most (177; 82%) of the students were",
+  "note": "Clear I1. The R2 of 0.771 is driven by in-platform test scores (path 0.819), which are close to the outcome; the pure log-to-grade paths are small (0.113, 0.047)."
+ },
+ "adjudicator": "claude-fable-5-2 (WP05b)",
+ "adjudicated_on": "2026-11-12"
+}

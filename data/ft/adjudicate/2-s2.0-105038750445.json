@@ -1,0 +1,21 @@
+{
+ "id": "2-s2.0-105038750445",
+ "independent_decision": "exclude",
+ "independent_code": "NOREL",
+ "assessor_decision": "exclude",
+ "assessor_code": "NOREL",
+ "agree": true,
+ "code_agree": true,
+ "final_decision": "exclude",
+ "final_code": "NOREL",
+ "reason": "Survey of 145 faculty and students analysed by SEM; every construct, including actual use, is a self-report item.",
+ "extraction_check": {
+  "n": "ok",
+  "n_value": 145,
+  "n_quote": "sampling was used, and data were collected from 145 respondents, including faculty",
+  "effect_sizes": [],
+  "table2_changes": []
+ },
+ "adjudicator": "claude-fable-5-2 (WP05b)",
+ "adjudicated_on": "2026-11-13"
+}

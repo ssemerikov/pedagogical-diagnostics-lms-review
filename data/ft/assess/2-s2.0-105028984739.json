@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-105028984739",
+ "arm": "S",
+ "doi": "10.1016/j.amjmed.2025.12.031",
+ "title": "Advancing nutrition education: Harvard medical student reflections on a scalable online course",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "NOREL",
+ "reason": "Descriptive course evaluation: module-assessment pass rates, completion time and thematic analysis of written reflections from Harvard medical students. Reflections are analysed qualitatively for themes, not converted to indicators related to success or traits.",
+ "extraction": {
+  "country": "USA (Harvard Medical School)",
+  "design": "descriptive course evaluation plus qualitative thematic analysis",
+  "n": 56,
+  "n_quote": "RESULTS: All students (n = 56) successfully completed the course, meeting the ≥ 80% passing thresh-",
+  "population": "medical students, 1 university",
+  "lms_indicators": "module assessment completion; written reflections (activity products, qualitative only)",
+  "outcome_or_construct": "course completion; reflection themes",
+  "effect_sizes": [],
+  "notes": "No statistical relation between any indicator and an outcome."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-12"
+}

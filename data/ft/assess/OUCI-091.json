@@ -1,0 +1,23 @@
+{
+ "id": "OUCI-091",
+ "arm": "N",
+ "doi": "10.1108/jarhe-09-2023-0434",
+ "title": "Comparison of face-to-face and online flipped learning: academic achievement, epistemological and pedagogical beliefs",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "E4",
+ "reason": "Assessed on page 1 only (title, abstract, start of introduction). Pre-test/post-test control-group quasi-experiment comparing face-to-face and online flipped learning on achievement and self-reported epistemological/pedagogical beliefs; no platform indicator is described.",
+ "extraction": {
+  "country": "Turkey",
+  "design": "quasi-experimental pre-test/post-test control-group design",
+  "n": "nr",
+  "n_quote": null,
+  "population": "nr on page 1 (journal: Journal of Applied Research in Higher Education; first author at Ministry of National Education)",
+  "lms_indicators": "none described",
+  "outcome_or_construct": "academic achievement; epistemological and pedagogical beliefs",
+  "effect_sizes": [],
+  "notes": "File is the Emerald first page only (pp. 563 of 563-577). Design stated in the abstract is a between-format comparison, so page 1 suffices to exclude; secondary NOREL for the belief scales."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-13"
+}

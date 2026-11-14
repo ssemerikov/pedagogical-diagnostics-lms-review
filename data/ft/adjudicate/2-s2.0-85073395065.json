@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-85073395065",
+ "independent_decision": "exclude",
+ "independent_code": "E4",
+ "assessor_decision": "exclude",
+ "assessor_code": "NOREL",
+ "agree": true,
+ "code_agree": false,
+ "final_decision": "exclude",
+ "final_code": "E4",
+ "reason": "Same publication as savchuk2019interactivity, an original include. Control versus experimental achievement contrast (null) plus correlations among self-report scales. By the rule clarification a group comparison with an achievement outcome is E4, not the assessor's NOREL.",
+ "extraction_check": {
+  "n": "ok",
+  "n_value": "56 (27 control + 29 experimental; the paper's Table 3 prints 57)",
+  "n_quote": "performance indicators, namely the control group numbered 27 people, of which 18 were young women aged 20-21",
+  "effect_sizes": [],
+  "table2_changes": []
+ },
+ "adjudicator": "claude-fable-5-2 (WP05b)",
+ "adjudicated_on": "2026-11-13",
+ "duplicate_of_original_include": "savchuk2019interactivity",
+ "flow_note": "This Scopus record is the same publication as an originally included study (same DOI). It should be removed as a duplicate of an already-included report before full-text assessment, not counted as an update full-text exclusion. The verdict here doubles as the Part C sensitivity verdict for that study."
+}

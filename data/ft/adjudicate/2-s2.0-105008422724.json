@@ -1,0 +1,21 @@
+{
+ "id": "2-s2.0-105008422724",
+ "independent_decision": "exclude",
+ "independent_code": "NOREL",
+ "assessor_decision": "exclude",
+ "assessor_code": "NOREL",
+ "agree": true,
+ "code_agree": true,
+ "final_decision": "exclude",
+ "final_code": "NOREL",
+ "reason": "Bayesian network linking questionnaire-measured personality, styles and strategies to learning-element preferences, evaluated by fit metrics and a small perception survey; no platform-recorded indicator.",
+ "extraction_check": {
+  "n": "ok",
+  "n_value": 39,
+  "n_quote": "ter dataset (N=39), thereby examining the model’s generalization",
+  "effect_sizes": [],
+  "table2_changes": []
+ },
+ "adjudicator": "claude-fable-5-2 (WP05b)",
+ "adjudicated_on": "2026-11-13"
+}

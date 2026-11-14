@@ -1,0 +1,23 @@
+{
+ "id": "OUCI-090",
+ "arm": "N",
+ "doi": "10.17816/snv20162307",
+ "title": "Features of development and implementation of courses of the educational field «Mathematics» in distance education system",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "E6",
+ "reason": "Article body is in Russian (Vestnik of Samara, 2016). It classifies factors hindering distance courses in the 'Mathematics' educational field; appears conceptual.",
+ "extraction": {
+  "country": "Russia",
+  "design": "conceptual / experience description",
+  "n": "nr",
+  "n_quote": null,
+  "population": "nr",
+  "lms_indicators": "none analysed",
+  "outcome_or_construct": "none",
+  "effect_sizes": [],
+  "notes": "The file starts with the end of a preceding article (Kalinina, art composition); the target article begins at line ~37 ('...ОБЛАСТИ «МАТЕМАТИКА» В СИСТЕМЫ ДИСТАНЦИОННОГО ОБУЧЕНИЯ'). Secondary NONEMP likely."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-13"
+}

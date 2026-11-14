@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-85106161456",
+ "arm": "S",
+ "doi": null,
+ "title": "A web-based unit operations lab for enhancing design, control and optimization in chemical and biochemical engineering courses",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "NONEMP",
+ "reason": "AIChE 2020 meeting abstract (proceedings web page) describing a web-based unit-operations lab and its intended benefits. No participants, data or analysis; the saved text is the complete published abstract.",
+ "extraction": {
+  "country": "USA/Spain (University of South Florida; University of Almería)",
+  "design": "conference abstract, descriptive",
+  "n": "nr",
+  "n_quote": null,
+  "population": "chemical/biochemical engineering students (described)",
+  "lms_indicators": "none",
+  "outcome_or_construct": "none",
+  "effect_sizes": [],
+  "notes": "About 1,300 words including page chrome and references."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-12"
+}

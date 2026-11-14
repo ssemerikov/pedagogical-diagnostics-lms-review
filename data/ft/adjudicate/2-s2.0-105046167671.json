@@ -1,0 +1,22 @@
+{
+ "id": "2-s2.0-105046167671",
+ "independent_decision": "exclude",
+ "independent_code": "E4",
+ "assessor_decision": "exclude",
+ "assessor_code": "E4",
+ "agree": true,
+ "code_agree": true,
+ "final_decision": "exclude",
+ "final_code": "E4",
+ "reason": "Randomised delayed-baseline comparison on self-report scales and module knowledge quizzes; no per-student Moodle activity measure. E4 under the rule clarification. The assessor first coded NOREL and has since revised to E4; we now agree.",
+ "extraction_check": {
+  "n": "ok",
+  "n_value": 124,
+  "n_quote": "The study involved 124 undergraduates (aged 18–29), divided into control (n = 62) and experimental group (n = 62).",
+  "effect_sizes": [],
+  "table2_changes": []
+ },
+ "adjudicator": "claude-fable-5-2 (WP05b)",
+ "adjudicated_on": "2026-11-13",
+ "recompared": "The assessor revised this file after my first adjudication; re-compared against the current assess file on 2026-11-13."
+}

@@ -1,0 +1,30 @@
+{
+ "id": "herrera2024metaphorical",
+ "arm": "O1-included",
+ "doi": "10.3390/app14156447",
+ "title": "Incidence of Metaphorical Virtual Classrooms and Interactive Learning Objects in the Interaction of Online Students: An Ecuadorian Case Study",
+ "decision": "include",
+ "criteria_met": [],
+ "exclusion_code": null,
+ "reason": "Re-extraction (inclusion not re-decided). Moodle metrics and grades are compared old-vs-new system at classroom level by Wilcoxon tests; no indicator is related to success or a construct. On full-text rules this would fail I1-I4 (NOREL/E4); flagged.",
+ "extraction": {
+  "country": "Ecuador (University of Otavalo)",
+  "design": "case study, before/after system comparison (Wilcoxon signed-rank), CFA on teacher questionnaire",
+  "n": "nr",
+  "n_quote": "with a total of 1697 students ... for the first intervention period (semester 2023-A previous LMS) and 1859 students during ... the second intervention period (semester 2023-B new LMS).",
+  "population": "online-programme students (law, basic education, international business, business administration): 1697 in 2023-A and 1859 in 2023-B; 224 teachers; 1 university",
+  "lms_indicators": "per-classroom averages extracted from the Moodle database by a custom plugin: percentage of activities/resources completed (progress), interaction index (shallow neural network over Moodle metrics), average time spent in the classroom",
+  "outcome_or_construct": "average final grade per classroom; teacher-perceived usability (questionnaire, CFA)",
+  "effect_sizes": [],
+  "notes": "n set to nr: participants are not a single sample. Students: 1697 (2023-A, old LMS) and 1859 (2023-B, new LMS), different cohorts; the analysis unit is the virtual classroom, 'the final sample consisted of the observations collected for 224 virtual classrooms.' Only medians and p-values, e.g. 'the average final grades for each subject of the students in each classroom went from a median of 7.55 to a median of 8.4, which represents a significant improvement with a p-value of 7.39 × 10−11'; interaction 44.92% -> 79.88%; time 8.39 h -> 18.01 h. Each LMS metric is an outcome of the system change, not a predictor of grades, so no indicator-outcome effect size exists. Table 2's 'interaction quality with virtual classroom objects' corresponds to the interaction index. The PDF text layer is partly doubled (track-changes overlay) in places."
+ },
+ "table2_current": {
+  "country": "Ecuador",
+  "design": "Case study",
+  "n": "nr",
+  "lms_indicators": "Interaction quality with virtual classroom objects",
+  "effect_size": "nr"
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-12"
+}

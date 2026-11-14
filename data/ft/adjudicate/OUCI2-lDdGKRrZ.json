@@ -1,0 +1,22 @@
+{
+ "id": "OUCI2-lDdGKRrZ",
+ "independent_decision": "exclude",
+ "independent_code": "E4",
+ "assessor_decision": "exclude",
+ "assessor_code": "E4",
+ "agree": true,
+ "code_agree": true,
+ "final_decision": "exclude",
+ "final_code": "E4",
+ "reason": "Pre/post intervention study with 16 music students using acoustic and questionnaire measures; no platform-recorded indicator.",
+ "extraction_check": {
+  "n": "ok",
+  "n_value": 16,
+  "n_quote": "Sixteen music major students (8 male, 8 female, aged 19–25) from Guizhou Province, China,",
+  "effect_sizes": [],
+  "table2_changes": [],
+  "n_note": "number given in words (Sixteen)"
+ },
+ "adjudicator": "claude-fable-5-2 (WP05b)",
+ "adjudicated_on": "2026-11-13"
+}

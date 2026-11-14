@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-105008422724",
+ "arm": "S",
+ "doi": "10.1145/3723010.3723016",
+ "title": "Nestor: A Personalized Learning Path Recommendation Algorithm for Adaptive Learning Environments",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "NOREL",
+ "reason": "Bayesian network links questionnaire-measured BFI personality, Felder-Silverman styles and LIST-K strategies to learning-element preferences; evaluated only by model-fit metrics and a 13-student perception survey. No platform-recorded indicator is analysed against success or a construct.",
+ "extraction": {
+  "country": "Germany",
+  "design": "algorithm development; Bayesian network evaluation (LL, BIC, Hamming distance) + post-test questionnaire",
+  "n": 39,
+  "n_quote": "ter dataset (N=39), thereby examining the model’s generalization",
+  "population": "software engineering students, OTH Regensburg",
+  "lms_indicators": "none reported as platform-recorded (learning-element preference node; source not specified in the text)",
+  "outcome_or_construct": "BFI personality, FSLSM learning style, LIST-K learning strategies; perceived usefulness of recommended paths",
+  "effect_sizes": [],
+  "notes": "n_quote is split by the two-column layout ('...on the new semes-ter dataset (N=39)'). Fit statistics concern prediction of preferences, not indicator-outcome relations. Post-test questionnaire N=13."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-13"
+}

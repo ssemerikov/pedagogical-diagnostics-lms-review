@@ -1,0 +1,20 @@
+{
+ "id": "2-s2.0-85197396765",
+ "independent_decision": "exclude",
+ "independent_code": "E1",
+ "assessor_decision": "exclude",
+ "assessor_code": "E1",
+ "agree": true,
+ "code_agree": true,
+ "final_decision": "exclude",
+ "final_code": "E1",
+ "reason": "Performance-prediction model on an undescribed, non-public LMS dataset: the number and level of learners, the institution, the period and the definition of performance are all missing, so reliability cannot be judged.",
+ "extraction_check": {
+  "n": "nr_unverified",
+  "n_value": "nr",
+  "effect_sizes": [],
+  "table2_changes": []
+ },
+ "adjudicator": "claude-fable-5-2 (WP05b)",
+ "adjudicated_on": "2026-11-13"
+}

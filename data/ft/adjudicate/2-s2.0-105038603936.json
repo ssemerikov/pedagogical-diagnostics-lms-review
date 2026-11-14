@@ -1,0 +1,20 @@
+{
+ "id": "2-s2.0-105038603936",
+ "independent_decision": "exclude",
+ "independent_code": "NOREL",
+ "assessor_decision": "exclude",
+ "assessor_code": "E3",
+ "agree": true,
+ "code_agree": false,
+ "final_decision": "exclude",
+ "final_code": "NOREL",
+ "reason": "Scoring weights of a virtual lab are recalibrated on automated non-playable-character sessions; no learner data. Assessor coded E3; with no human sample at all E3 (a population criterion) does not fit, so final code is NOREL.",
+ "extraction_check": {
+  "n": "nr_unverified",
+  "n_value": "nr",
+  "effect_sizes": [],
+  "table2_changes": []
+ },
+ "adjudicator": "claude-fable-5-2 (WP05b)",
+ "adjudicated_on": "2026-11-13"
+}

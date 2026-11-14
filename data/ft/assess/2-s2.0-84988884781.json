@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-84988884781",
+ "arm": "S",
+ "doi": "10.1016/j.procs.2016.08.209",
+ "title": "Blinking Eyes Behaviors and Face Temperatures of Students in YouTube Lessons-For the Future E-learning Class",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "NOREL",
+ "reason": "Eight students watched YouTube maths videos while eye blinks and facial temperature were recorded by camera/thermography; patterns are described against questionnaire impressions without statistics. Biometric sensors are not LMS-measurable indicators.",
+ "extraction": {
+  "country": "Japan",
+  "design": "exploratory laboratory observation",
+  "n": 8,
+  "n_quote": "Eight students were chosen as examinee totally.",
+  "population": "students aged 18-20 at two National Institute of Technology colleges (Gifu, Suzuka)",
+  "lms_indicators": "none (blink counts and facial temperature from external sensors)",
+  "outcome_or_construct": "self-reported impressions/confusion; correctness of answers (all correct)",
+  "effect_sizes": [],
+  "notes": "Secondary E1: no statistical analysis; correlation claimed only by inspection of plots."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-13"
+}

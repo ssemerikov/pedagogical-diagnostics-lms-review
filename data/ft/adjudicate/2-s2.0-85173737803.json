@@ -1,0 +1,61 @@
+{
+ "id": "2-s2.0-85173737803",
+ "independent_decision": "include",
+ "independent_code": "I2",
+ "assessor_decision": "include",
+ "assessor_code": null,
+ "agree": true,
+ "code_agree": true,
+ "final_decision": "include",
+ "final_code": null,
+ "reason": "Log-derived behavioural indicators classify Felder-Silverman styles against independently administered ILS questionnaire labels (73 students; 48 train, 25 test). Meets I2. No majority-class baseline is reported, so accuracy overstates the indicator-style relation.",
+ "extraction_check": {
+  "n": "ok",
+  "n_value": 73,
+  "n_quote": "in the third year of Information Systems (IS). The total number of students is 73. Data",
+  "effect_sizes": [
+   {
+    "value": "accuracy = 0.96 (log indicators (SVM) ↔ ILS active/reflective)",
+    "status": "ok",
+    "quote": "SVM 0.96 0.96 0.96 0.96"
+   },
+   {
+    "value": "accuracy = 0.88 (log indicators (SVM) ↔ ILS sensing/intuitive (best classifier NB 0.96))",
+    "status": "ok",
+    "quote": "SVM 0.88 0.88 0.88 0.88"
+   },
+   {
+    "value": "accuracy = 0.88 (LR); SVM 0.80 (log indicators ↔ ILS visual/verbal)",
+    "status": "ok",
+    "quote": "LR 0.88 0.88 0.88 0.88",
+    "note": "composite value; each number checked by hand against Tables 10-11 (text lines 681 and 692)"
+   },
+   {
+    "value": "accuracy = 0.88 (SVM and CART); NB 0.40 (log indicators ↔ ILS sequential/global)",
+    "status": "ok",
+    "quote": "classifiers (precision = 0.88, recall = 0.91, accuracy = 0.88, F1-score = 88%).",
+    "note": "composite value; each number checked by hand against Tables 10-11 (text lines 681 and 692)"
+   },
+   {
+    "value": "mean accuracy = 88% (log indicators (SVM) ↔ ILS, all four dimensions)",
+    "status": "ok",
+    "quote": "great ability in predicting learning styles for all dimensions of FSLSM with an accuracy average ... of 88%."
+   }
+  ],
+  "table2_changes": []
+ },
+ "adjudicator": "claude-fable-5-2 (WP05b)",
+ "adjudicated_on": "2026-11-13",
+ "criteria_met": [
+  "I2"
+ ],
+ "table2_row": {
+  "country": "Algeria (University 8 Mai 1945, Guelma)",
+  "design": "classifier validation against questionnaire (train/test split, 9-run cross-validation)",
+  "n": 73,
+  "lms_indicators": "log-derived behavioural patterns/indicators in the ADLS online-course system (Table 1 patterns, sub-section 3.2 indicators)",
+  "outcome_or_construct": "FSLSM learning styles (ILS questionnaire, 44 items)",
+  "effect_size": "Classification accuracy against ILS labels (SVM, 25 test students): 0.96, 0.88, 0.80, 0.88 by dimension; mean 88%"
+ },
+ "table2_row_source": "assessor extraction, cells confirmed by adjudicator"
+}

@@ -1,0 +1,5 @@
+# Never committed: full texts (copyright), local outputs and caches.
+data/fulltext/
+out/
+__pycache__/
+*.pyc

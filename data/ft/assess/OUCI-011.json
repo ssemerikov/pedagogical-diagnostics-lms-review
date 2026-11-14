@@ -1,0 +1,23 @@
+{
+ "id": "OUCI-011",
+ "arm": "N",
+ "doi": "10.4018/joeuc.2017070103",
+ "title": "Student Resistance to a Mandatory Learning Management System in Online Supply Chain Courses",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "NOREL",
+ "reason": "TAM3 perceptions of the LMS (self-report survey) are regressed on behavioural intent and final grade; no platform-recorded usage or activity measure is collected.",
+ "extraction": {
+  "country": "USA",
+  "design": "correlational survey (hierarchical regression, TAM3)",
+  "n": 65,
+  "n_quote": "Once all survey responses were collected, incomplete records were removed, resulting in a sample size of 65.",
+  "population": "graduating online supply chain management students, 1 public US university",
+  "lms_indicators": "none (self-reported TAM3 perceptions of the LMS)",
+  "outcome_or_construct": "behavioural intent; final program grade",
+  "effect_sizes": [],
+  "notes": "Self-report predictors to grade; would need a platform-recorded indicator to qualify."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-13"
+}

@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-85204875563",
+ "arm": "S",
+ "doi": "10.1186/s12909-024-05979-x",
+ "title": "Influence of applying VARK learning styles on enhancing teaching skills: application of learning theories",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "E4",
+ "reason": "One-group pre/post laboratory-skills test after training via Facebook and WhatsApp posts, compared across VARK style groups. Achievement outcome of an intervention with no platform indicator or activity product analysed (E4); style is self-report.",
+ "extraction": {
+  "country": "Egypt (Mega Alfa labs; ethics approval 6th October University)",
+  "design": "single-group pre/post, ANOVA by VARK style",
+  "n": 100,
+  "n_quote": "A research sample of 100 chemists working in Mega Alfa labs underwent online learning of laboratory parasitology skills via Facebook posts and WhatsApp dictated messages",
+  "population": "newly graduated chemists in pre-employment laboratory training",
+  "lms_indicators": "none (social media used for delivery)",
+  "outcome_or_construct": "laboratory parasitology skills test; VARK learning-style preference (self-report)",
+  "effect_sizes": [],
+  "notes": "Secondary: NOREL (VARK style is a self-report questionnaire). Recoded NOREL -> E4 for consistency with 2-s2.0-85175355055 (same shape: one-group pre/post achievement test split by a style construct) under the logged E4/NOREL rule. Secondary: E3 possible (workplace trainees: 'chemists who are receiving training to be hired'), but not clearly non-vocational, so not applied. Style-group differences reported via ANOVA p-values only."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-12"
+}

@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-84944228015",
+ "arm": "S",
+ "doi": "10.1021/acs.jchemed.5b00118",
+ "title": "Teaching a Chemistry MOOC with a Virtual Laboratory: Lessons Learned from an Introductory Physical Chemistry Course",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "NOREL",
+ "reason": "Short course report on a Coursera physical-chemistry MOOC with a virtual lab: enrolment demographics, completion and video-viewing percentages and survey responses, all descriptive. No per-learner indicator is statistically related to success or a trait.",
+ "extraction": {
+  "country": "UK (University of Manchester)",
+  "design": "descriptive MOOC course report",
+  "n": "nr",
+  "n_quote": null,
+  "population": "MOOC participants (42% self-classified as students; professionals also enrolled)",
+  "lms_indicators": "aggregate video viewing, quiz completion (descriptive)",
+  "outcome_or_construct": "completion, statement of accomplishment",
+  "effect_sizes": [],
+  "notes": "Mixed-population MOOC; E3 not applied because students are a plurality."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-12"
+}

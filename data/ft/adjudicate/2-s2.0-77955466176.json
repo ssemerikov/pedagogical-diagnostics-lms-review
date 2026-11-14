@@ -1,0 +1,55 @@
+{
+ "id": "2-s2.0-77955466176",
+ "independent_decision": "include",
+ "independent_code": "I2",
+ "assessor_decision": "include",
+ "agree": true,
+ "final_decision": "include",
+ "final_code": null,
+ "criteria_met": [
+  "I2"
+ ],
+ "reason": "Per-student LMS interaction counts (hits, forum participation, profile-photo upload, regularity of weekly use) are compared with questionnaire motivation indexes for 180 students. Meets I2. Grades are related only to the questionnaire indexes, not to any log measure, so I1 is not met (I listed it at first; corrected on re-comparison). Effects are group means with a few p-values; no correlation coefficient is reported.",
+ "extraction_check": {
+  "n": "ok",
+  "n_value": 180,
+  "n_quote": "course (180 students in total).",
+  "effect_sizes": [
+   {
+    "value": "p = 0.02 (photo uploaded yes/no vs autonomous motivation, means 3.79 vs 3.43)",
+    "status": "ok",
+    "quote": null,
+    "verified_on": "rendered page image, p. 467, Table VI (table is absent from the text layer)"
+   },
+   {
+    "value": "p = 0.005 (photo uploaded vs e-learning motivation, means 3.31 vs 2.70)",
+    "status": "ok",
+    "quote": null,
+    "verified_on": "rendered page image, p. 467, Table VI"
+   },
+   {
+    "value": "p = 0.46 (photo uploaded vs controlled motivation, means 3.00 vs 3.02)",
+    "status": "ok",
+    "quote": null,
+    "verified_on": "rendered page image, p. 467, Table VI"
+   },
+   {
+    "value": "e-learning motivation mean 2.32 (<150 hits) to 4.19 (>450 hits); descriptive, no test statistic",
+    "status": "ok",
+    "quote": null,
+    "verified_on": "rendered page image, p. 467, Table V"
+   }
+  ],
+  "table2_changes": []
+ },
+ "table2_row": {
+  "country": "Spain",
+  "design": "Correlational; group comparisons (t-tests)",
+  "n": "180",
+  "lms_indicators": "Platform hits, forum participation, profile-photo upload, regularity of weekly use",
+  "effect_size": "nr as a coefficient; photo upload vs autonomous motivation p = .02, vs e-learning motivation p = .005"
+ },
+ "adjudicator": "claude-fable-5-2 (WP05b)",
+ "adjudicated_on": "2026-11-13",
+ "recompared": "The assessor revised this file after my first adjudication; re-compared against the current assess file on 2026-11-13."
+}

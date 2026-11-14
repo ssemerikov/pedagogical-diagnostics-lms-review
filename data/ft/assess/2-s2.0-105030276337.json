@@ -1,0 +1,61 @@
+{
+ "id": "2-s2.0-105030276337",
+ "arm": "S",
+ "doi": "10.1080/02680513.2026.2626041",
+ "title": "The ‘forum effect’: how does participation in online forums affect student retention and academic performance at a distance learning university?",
+ "decision": "include",
+ "criteria_met": [
+  "I1"
+ ],
+ "exclusion_code": null,
+ "reason": "Per-student forum-post counts, replies, initiated posts and word counts from the VLE enter logit models predicting retention and pass/distinction/fail outcomes, controlling for prior attainment and demographics.",
+ "extraction": {
+  "country": "UK",
+  "design": "correlational (binary and multinomial logistic regression) + interviews (mixed methods)",
+  "n": 1413,
+  "n_quote": "collated cross-sectional demographic, academic and forum activity indicators for the students on the Economics course in 2021 (n=748) and 2022 (n=665), a total of 1413 observations for the regression analysis, carried out using Stata software.",
+  "population": "undergraduate introductory Economics distance-learning students, The Open University (2 cohorts)",
+  "lms_indicators": "number of tutor-group forum posts; replies; total posts in all forums; total word count; any initiated post (dummy)",
+  "outcome_or_construct": "module retention (binary); final result fail-resit / pass / distinction (multinomial)",
+  "effect_sizes": [
+   {
+    "statistic": "logit B",
+    "value": "0.328 (SE 0.0663), p<0.001",
+    "between": "total forum posts ↔ retention (n=892)",
+    "quote": "Forum Effect 0.225* 0.199* 0.328*** 0.00214*** 1.544***",
+    "location": "Table 3"
+   },
+   {
+    "statistic": "OR",
+    "value": "1.388",
+    "between": "one additional forum post ↔ odds of retention",
+    "quote": "the odds 1 PiPi of retaining that student relative to not retaining them increases by e0:328 , equal to a factor of 1.388.",
+    "location": "Section 4.1, p. 297"
+   },
+   {
+    "statistic": "logit B",
+    "value": "TGF 0.225 (p<0.05); reply 0.199 (p<0.05); word count 0.00214 (p<0.001); initiated post 1.544 (p<0.001)",
+    "between": "other forum measures ↔ retention",
+    "quote": "Forum Effect 0.225* 0.199* 0.328*** 0.00214*** 1.544***",
+    "location": "Table 3"
+   },
+   {
+    "statistic": "multinomial logit B",
+    "value": "TGF 0.221***, reply 0.0960*, all forums 0.148*** (distinction vs pass); fail-resit −1.064, −0.722, −0.356 n.s.",
+    "between": "forum posts ↔ distinction (vs pass) and fail-resit (vs pass), n=361-582",
+    "quote": "Forum Effect −1.064 0.221*** −0.722 0.0960* −0.356 0.148***",
+    "location": "Table 4"
+   },
+   {
+    "statistic": "multinomial logit B",
+    "value": "word count 0.00105***; initiated post 0.833*** (distinction); fail-resit −0.00329, 0.278 n.s.",
+    "between": "word count / initiated post ↔ distinction and fail-resit (n=582)",
+    "quote": "Forum Effect −0.00329 0.00105*** 0.278 0.833***",
+    "location": "Table 4 (continued)"
+   }
+  ],
+  "notes": "Analytic n after listwise deletion: 892 (retention, all-forum models), 404/440 (TGF/reply), 361-582 (achievement). Forum effect significant only at the pass/distinction boundary. Coefficients are unstandardised logits; 11 student interviews add qualitative data."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-13"
+}

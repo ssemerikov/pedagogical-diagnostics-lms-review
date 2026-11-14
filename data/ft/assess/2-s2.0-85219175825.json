@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-85219175825",
+ "arm": "S",
+ "doi": "10.1038/s41598-025-90142-9",
+ "title": "Interplay of student characteristics multidimensional engagement and influencing factors in online computer science education",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "NOREL",
+ "reason": "Questionnaire survey of 267 computer-science undergraduates relating self-reported daily online-study duration and self/teacher/peer factors to self-reported engagement by Pearson r. All variables are self-report; no platform-recorded indicator or activity product.",
+ "extraction": {
+  "country": "China ('H University' in central China; Huanggang Normal University affiliation)",
+  "design": "cross-sectional survey (t-test, ANOVA, Pearson r)",
+  "n": 267,
+  "n_quote": "we employed a simple stratified random sampling method and selected 267 students as the research sample.",
+  "population": "undergraduate computer-science students (4 majors), 1 university",
+  "lms_indicators": "none (daily online learning duration is self-reported in the questionnaire)",
+  "outcome_or_construct": "behavioural, cognitive, emotional and interactive engagement (self-report)",
+  "effect_sizes": [],
+  "notes": "Self-report duration ↔ self-report engagement, e.g. 'the correlation coefficient for Behavioral Engagement is 0.264 ( p < 0.000)'; not an LMS indicator. This DOI (10.1038/s41598-025-90142-9) is one of the co-author's Copilot candidates; it does not qualify."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-12"
+}

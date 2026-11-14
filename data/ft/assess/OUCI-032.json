@@ -1,0 +1,23 @@
+{
+ "id": "OUCI-032",
+ "arm": "N",
+ "doi": "10.1142/s0219649217500186",
+ "title": "Experimental Analysis of Students’ Satisfaction Factors in E-Learning Environment: A Case Study on Saudi Arabian University",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "NOREL",
+ "reason": "Survey (356 completed responses) relating self-reported internet self-efficacy, self-regulated learning, interactivity and Blackboard evaluation to self-reported satisfaction. All variables are self-report; no platform-recorded indicator or activity product.",
+ "extraction": {
+  "country": "Saudi Arabia (university in southern KSA)",
+  "design": "cross-sectional survey, regression",
+  "n": 356,
+  "n_quote": "total of 356 completed responses, which constitutes a 26% response rate.",
+  "population": "university students with at least one online course, 1 university",
+  "lms_indicators": "none (self-reported LMS evaluation)",
+  "outcome_or_construct": "satisfaction with e-learning; internet self-efficacy; SRL (self-report)",
+  "effect_sizes": [],
+  "notes": "1343 invited, 419 returned."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-12"
+}

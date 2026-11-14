@@ -1,0 +1,23 @@
+{
+ "id": "OUCI2-7PMVm8ee",
+ "arm": "O2",
+ "doi": "10.26618/9bfn2r08",
+ "title": "Edlink LMS–Assisted Blended Learning: Its Impact on Students’ Physics Conceptual Understanding and Self-Regulated Learning",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "E4",
+ "reason": "Single-group pretest-posttest comparison of a conceptual test and a self-report SRL questionnaire; no Edlink LMS activity measure enters any analysis.",
+ "extraction": {
+  "country": "Indonesia",
+  "design": "one-group pretest-posttest quasi-experiment",
+  "n": 32,
+  "n_quote": "The sample consisted of 32 students from one intact class.",
+  "population": "physics education undergraduates, 1 university",
+  "lms_indicators": "none (Edlink LMS used for delivery only)",
+  "outcome_or_construct": "four-tier diagnostic test (conceptual understanding); SRL questionnaire",
+  "effect_sizes": [],
+  "notes": "Secondary NOREL: SRL is self-report and only compared pre/post. N-Gain 0.65 and 0.66 are pre-post gains, not indicator-outcome relations."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-13"
+}

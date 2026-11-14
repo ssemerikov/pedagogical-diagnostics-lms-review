@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-85064719172",
+ "arm": "S",
+ "doi": "10.1108/dta-10-2018-0092",
+ "title": "Adaptation algorithms for selecting personalised learning experience based on learning style and dyslexia type",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "NONEMP",
+ "reason": "Describes adaptation algorithms of a dyslexia-adaptive e-learning system (DAELMS) using ILS learning style and dyslexia type. An evaluation with 48 students is mentioned but its results are 'under process for publications'; no data reported.",
+ "extraction": {
+  "country": "Saudi Arabia (King Abdulaziz University; study site not stated)",
+  "design": "system design; evaluation announced but not reported",
+  "n": 48,
+  "n_quote": "students studying a computer science-related majors. There were 48 students participating",
+  "population": "computer-science university students (11 dyslexic, 23 with symptoms, 14 non-dyslexic)",
+  "lms_indicators": "none analysed",
+  "outcome_or_construct": "learning style (ILS), dyslexia type",
+  "effect_sizes": [],
+  "notes": "Secondary code: NOREL. NONEMP applied because the paper presents no empirical results (precedence NONEMP > NOREL)."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-12"
+}

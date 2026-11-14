@@ -1,0 +1,21 @@
+{
+ "id": "2-s2.0-84969916962",
+ "independent_decision": "exclude",
+ "independent_code": "NOREL",
+ "assessor_decision": "exclude",
+ "assessor_code": "NOREL",
+ "agree": true,
+ "code_agree": true,
+ "final_decision": "exclude",
+ "final_code": "NOREL",
+ "reason": "MBTI types are rule-derived from Moodle logs in one group and measured by questionnaire in another; the log-based typing is never validated per student, and the only tests compare time and page views between groups.",
+ "extraction_check": {
+  "n": "ok",
+  "n_value": 80,
+  "n_quote": "We divided the 80 of students into two groups, each one of",
+  "effect_sizes": [],
+  "table2_changes": []
+ },
+ "adjudicator": "claude-fable-5-2 (WP05b)",
+ "adjudicated_on": "2026-11-13"
+}

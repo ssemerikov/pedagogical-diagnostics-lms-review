@@ -1,0 +1,40 @@
+{
+ "id": "2-s2.0-85206140870",
+ "arm": "S",
+ "doi": "10.1016/j.lindif.2024.102572",
+ "title": "A longitudinal quasi-experiment of leaderboard effectiveness on learner behaviors and course performance",
+ "decision": "include",
+ "criteria_met": [
+  "I1"
+ ],
+ "exclusion_code": null,
+ "reason": "Canvas-recorded counts of completed optional practice quizzes/exams and of visits to the practice/leaderboard page, per student, enter multilevel models predicting scores on four course exams.",
+ "extraction": {
+  "country": "USA",
+  "design": "longitudinal quasi-experiment (group-randomised leaderboard vs control) with multilevel linear mixed models",
+  "n": 65,
+  "n_quote": "The final sample size was 65 students (34 in the leaderboard",
+  "population": "undergraduates in an asynchronous online Introduction to Psychology course, University of Minnesota (2 sections)",
+  "lms_indicators": "practice attempts = number of optional practice quizzes/exams completed (14 opportunities, aggregated per exam period); practice engagement = number of times the student navigated to the LMS page where the leaderboard could appear (page access count)",
+  "outcome_or_construct": "exam scores (% correct, 4 exams)",
+  "effect_sizes": [
+   {
+    "statistic": "b (unstandardised, LMM)",
+    "value": "0.006, 95% CI 0.003–0.009, p<0.001 (marginal R2 = 0.088)",
+    "between": "practice attempts (completed optional practice quizzes/exams) ↔ exam score",
+    "quote": "Attempts 0.006 0.003–0.009 <0.001",
+    "location": "Table 1 (Model 1)"
+   },
+   {
+    "statistic": "b (unstandardised, LMM)",
+    "value": "0.002, 95% CI 0.001–0.004, p=0.007 (marginal R2 = 0.140)",
+    "between": "practice engagement (LMS practice/leaderboard page access count) ↔ exam score",
+    "quote": "Access Counts 0.002 0.001–0.004 0.007",
+    "location": "Table 2 (Model 2)"
+   }
+  ],
+  "notes": "910 practice observations, 257 exam observations. Leaderboard condition did not change practice behaviour and was negatively related to exam scores. File also contains the 2025 corrigendum (IRB institution name only), which does not affect the data."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-13"
+}

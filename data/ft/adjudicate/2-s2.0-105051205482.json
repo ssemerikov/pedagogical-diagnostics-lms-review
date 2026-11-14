@@ -1,0 +1,21 @@
+{
+ "id": "2-s2.0-105051205482",
+ "independent_decision": "exclude",
+ "independent_code": "E4",
+ "assessor_decision": "exclude",
+ "assessor_code": "E4",
+ "agree": true,
+ "code_agree": true,
+ "final_decision": "exclude",
+ "final_code": "E4",
+ "reason": "Two-group pre-test/post-test comparison of a virtual-microscopy application; group contrasts and a perception survey only.",
+ "extraction_check": {
+  "n": "ok",
+  "n_value": 100,
+  "n_quote": "A total of 100 medical, dentistry, and pharmacy students enrolled in a histology course at Smart University of Medical Sciences (SMUMS), Iran, during the summer semester of 2023 participated in the study.",
+  "effect_sizes": [],
+  "table2_changes": []
+ },
+ "adjudicator": "claude-fable-5-2 (WP05b)",
+ "adjudicated_on": "2026-11-13"
+}

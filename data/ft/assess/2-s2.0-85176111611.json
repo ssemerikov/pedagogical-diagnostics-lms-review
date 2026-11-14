@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-85176111611",
+ "arm": "S",
+ "doi": "10.5812/semj-135860",
+ "title": "Opening the Black Box of Virtual Education: Medical Students’ Learning and Study Strategies",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "NOREL",
+ "reason": "Cross-sectional LASSI questionnaire (learning and study strategies) compared across GPA bands, gender and repeat-course history during virtual education. Strategy data are self-report and GPA is not an LMS indicator; no platform-recorded indicator or activity product is analysed.",
+ "extraction": {
+  "country": "Iran (Mashhad University of Medical Sciences)",
+  "design": "cross-sectional survey (t-test, ANOVA, correlation)",
+  "n": 298,
+  "n_quote": "This cross-sectional study included 298 medical students in preclinical disciplines in the medical curriculum at Mashhad",
+  "population": "basic-science and preclinical medical students, 1 university",
+  "lms_indicators": "none",
+  "outcome_or_construct": "learning and study strategies (LASSI, self-report); GPA",
+  "effect_sizes": [],
+  "notes": "Strategy-GPA differences are reported as group means and p-values only."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-12"
+}

@@ -1,0 +1,21 @@
+{
+ "id": "OUCI2-4yNvd3Wg",
+ "independent_decision": "exclude",
+ "independent_code": "NOREL",
+ "assessor_decision": "exclude",
+ "assessor_code": "NOREL",
+ "agree": true,
+ "code_agree": true,
+ "final_decision": "exclude",
+ "final_code": "NOREL",
+ "reason": "Cross-sectional online questionnaire analysed by PLS-SEM; digital competence, motivation and performance are all self-reported.",
+ "extraction_check": {
+  "n": "ok",
+  "n_value": 350,
+  "n_quote": "Technology, and Digital Ethics. A quantitative cross-sectional survey was conducted among 350",
+  "effect_sizes": [],
+  "table2_changes": []
+ },
+ "adjudicator": "claude-fable-5-2 (WP05b)",
+ "adjudicated_on": "2026-11-13"
+}

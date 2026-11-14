@@ -1,0 +1,23 @@
+{
+ "id": "2-s2.0-85017608602",
+ "arm": "S",
+ "doi": "10.1109/istel.2016.7881899",
+ "title": "Personalization of gamification-elements in an e-learning environment based on learners' motivation",
+ "decision": "exclude",
+ "criteria_met": [],
+ "exclusion_code": "NOREL",
+ "reason": "LMS participation rates and quiz grades are compared between personalised and random gamification groups; AGQ-R motivation type is used only for assignment, never related per student to participation or success. Pilot survey links two self-reports.",
+ "extraction": {
+  "country": "Iran",
+  "design": "randomised two-group experiment + pilot survey",
+  "n": 100,
+  "n_quote": "English was selected. 100 individuals of students participated",
+  "population": "engineering students in a Technical English course, University of Tehran (pilot survey: 273 students)",
+  "lms_indicators": "participation rate in forums and online quizzes (group means)",
+  "outcome_or_construct": "achievement-goal motivation type (AGQ-R) used for assignment; exam/quiz grades",
+  "effect_sizes": [],
+  "notes": "Group difference in participation 79% vs 58%, t-test sig. = 0.024; this is a group-membership effect, not an indicator-outcome relation. 1-month study."
+ },
+ "assessor": "claude-opus-5-5 (WP02d)",
+ "assessed_on": "2026-11-13"
+}
