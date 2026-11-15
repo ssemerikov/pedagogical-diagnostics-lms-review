@@ -48,7 +48,7 @@ model, and this repository contains none.**
   They are reported as made.
 - **Review update** (Scopus and an OUCI re-run, November 2026; plus the 31 records the original review could not
   retrieve). **The screening and eligibility decisions were made by two language models (a first pass and a
-  second-reading adjudication) without author verification. The second reading was not blind to the first for
+  second-reading adjudication). The second reading was not blind to the first for
   about fifty records; see `prompts/05_adjudicator_notes_on_rules.md`.**
   - At title and abstract, Claude Sonnet 5.5 made the first pass and Claude Opus 5.5 audited it. A `maybe` was
     never excluded at this stage.
